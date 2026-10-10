@@ -12,18 +12,19 @@ on 5 January 1815. Proving William's parents would join the line to the Saddlewo
 the 1700s and back to 1613. See
 [the line rebuilt from records](research/2026-10-10-line-from-records.md#how-to-close-the-gap).
 
-- [ ] **William's baptism.** The earlier family tree says 8 April 1788, at "Meerlech",
-      Saddleworth, son of John and Ann. The St Chad, Saddleworth registers are online as images
-      on Ancestry (Manchester Church of England baptism collections). Find the entry and note the
-      parents' names, abode and father's occupation. If it isn't there, check the other
-      Saddleworth chapels (Dobcross, Friarmere, Delph) and nonconformist registers.
+- [ ] **William's baptism, 8 April 1788.** On Ancestry, open the record attached to William's
+      Birth fact (or search FamilySearch, which is free with an account). Note the mother's name,
+      the abode and the father's occupation. It proves the link if it names **Ann** or
+      **Standedge**. Several John Bentleys had children at Saddleworth then, so "son of John"
+      alone isn't enough.
+- [ ] **Charles's baptism, 1 May 1828.** Open the record attached to Charles's Birth fact. Does
+      it name William and Betty?
 - [ ] **Charles's marriage certificate:** Charles Bentley and Sarah Dyson, Jul–Sep 1855,
       Huddersfield, vol. 9a, p. 262. It names Charles's father and his occupation. Order a PDF
       from the [General Register Office](https://www.gov.uk/order-copy-birth-death-marriage-certificate).
 - [ ] **William's burial** (tree: 16 April 1835, at Ridge, Saddleworth) and **Betty's** (tree:
       18 February 1859, Carr Clough, Marsden). Burial entries often give age and abode.
 - [ ] **1841 census:** Betty Bentley and the younger children (Saddleworth or Marsden).
-- [ ] **Charles's baptism** (about 1827–1829, Saddleworth), naming William and Betty.
 
 ## 2. Firm up the recent generations
 
@@ -71,7 +72,8 @@ Once William is joined to John and Ann, these generations become part of the lin
 - [ ] Detach everything above Matthew Bentley of Standedge (John b. 1665, John G. b. 1640,
       Jeremiah, John and Phoebe, Jon the Elder, Richard, Edward, John G. of High Bentley,
       Sir John of Monmouth, James b. 1419). See [the two breaks](research/2026-10-10-the-two-breaks.md).
-- [ ] Mark William Bentley's parents (John and Ann) as unproven until his baptism is found.
+- [ ] Remove "William Bentley (1781–1805)" as John and Ann's son: their 1781 baby was John, and
+      their first William died at two days old in 1779.
 
 ## Parked: the Halifax and High Bentley Bentleys
 

@@ -23,9 +23,10 @@ generation.
 
 **Before William:** the Bentleys of Saddleworth can be traced in the registers from the 1700s
 back to 1613: John (1750) ← James (1722) ← Matthew of Standedge (died 1751) ← Mathew (1664) ←
-Jonas ← Mathew (1613). The earlier family tree made William the son of John Bentley and Ann
-Broadbent, born 1788. That one link still needs a record, William's baptism, before the line can
-be joined to them. See the [research plan](research-plan.md).
+Jonas ← Mathew (1613). William was very probably the son of John Bentley and Ann Broadbent of
+Standedge. They lived at the same place and lost an earlier son William in 1779. His baptism
+(8 April 1788) is the one record still needed to prove it. See the
+[research plan](research-plan.md).
 
 ## Contents
 

@@ -19,7 +19,7 @@ The present-day descendant, their siblings and their children are living and are
 | 4 | John Bentley, 1861–1918, and Sarah Ann Haigh | Birth registered Jan–Mar 1861; 1861 and 1871 censuses; married 1883 | **Documented**: 1891 census lists Thomas H. as his son |
 | 5 | Charles Bentley, c.1827–1897, and Sarah Dyson | 1851, 1861 and 1871 censuses; married 1855 | **Documented**: 1861 and 1871 censuses list John as his son |
 | 6 | William Bentley and Betty Bottomley, married 1815 | Marriage at Saddleworth, 5 Jan 1815; Betty a widow in 1851 | **Documented** for Betty: 1851 census lists Charles as her son. **Probable** for William: marriage record only |
-| 7 | John Bentley and Ann Broadbent, married 1771 | See the [tree check](2026-10-10-tree-check.md) | **Not yet proven**: no baptism found for William |
+| 7 | John Bentley and Ann Broadbent, married 1771 | Their children at Standedge, 1776–1784 | **Probable**: William's 1788 baptism still to be seen |
 | 8–12 | James (1722) → Matthew of Standedge (d. 1751) → "old Matthew" (1664) → Jonas → Mathew (1613) | See [the two breaks](2026-10-10-the-two-breaks.md) | Documented or probable within Saddleworth |
 
 So the records carry the line back without a gap to **William and Betty Bentley, married at
@@ -146,17 +146,48 @@ the 1700s, and through them back to 1613: his baptism, which the family tree giv
 - **Betty's death:** the family tree gives 18 February 1859 at Carr Clough, Marsden. Not yet
   checked.
 
-### 7. William Bentley's parents: the missing link
+### 7. William Bentley's parents: John Bentley and Ann Broadbent (probable)
 
-The family tree makes William the son of **John Bentley and Ann Broadbent**, baptised 8 April
-1788. John and Ann's marriage (Saddleworth, 2 April 1771) and the baptism of their son James
-(Saddleworth, 24 October 1784, at Standedge) are both documented, and John was baptised in 1750,
-son of James Bentley and Mary Nield (see the [tree check](2026-10-10-tree-check.md)). But:
+The Ancestry tree records William as **William Standage Bentley**, born 8 April 1788 at
+"Meerlech", Saddleworth, son of John Bentley (1750–1789). It also gives him a marriage on 23 Dec
+1814 at St Chad (probably the banns, ahead of the 5 January 1815 wedding) and a death on 16 April
+1835 at Ridge, Saddleworth, aged 47. The records behind these facts haven't been seen yet: the
+1788 baptism isn't in the FreeREG transcript.
 
-- the FreeREG transcript of the Saddleworth baptisms has no William Bentley between 1784 and
-  1792, and no West Riding transcript has one at Saddleworth;
-- William and Betty named their eldest son John, which fits a father called John but proves
-  nothing.
+**What the Saddleworth registers show about John and Ann.** John Bentley and Ann Broadbent
+married at Saddleworth on 2 April 1771. Their children's baptisms and burials, all naming both
+parents (FreeREG, St Chad, Saddleworth):
+
+| Event | Child | Abode | Record |
+| --- | --- | --- | --- |
+| bap. 21 Aug 1776; bur. 23 Aug 1776 | John | Standedge | [baptism](https://www.freereg.org.uk/search_records/5d002bf0f493fde9f63f6951/john-bentley-baptism-yorkshire-west-riding-saddleworth-1776-08-21), [burial](https://www.freereg.org.uk/search_records/685e4e2b865574817e6fb207/john-bentley-burial-yorkshire-west-riding-saddleworth-1776-08-23) |
+| bap. 13 Aug 1777; bur. 15 Aug 1777 | John | Stone edge; father a clothier | [baptism](https://www.freereg.org.uk/search_records/5d002bf7f493fde9f63f6c69/john-bentley-baptism-yorkshire-west-riding-saddleworth-1777-08-13) |
+| bur. 17 Jul 1778 | James | | [burial](https://www.freereg.org.uk/search_records/685e4e33865574817e6fb4df/james-bentley-burial-yorkshire-west-riding-saddleworth-1778-07-17) |
+| bap. 2 Jul 1779; bur. 4 Jul 1779 | **William** | Standedge; father a clothier | [baptism](https://www.freereg.org.uk/search_records/5d002b96f493fde9f63f55a2/william-bentley-baptism-yorkshire-west-riding-saddleworth-1779-07-02), [burial](https://www.freereg.org.uk/search_records/685e4e38865574817e6fb655/william-bentley-burial-yorkshire-west-riding-saddleworth-1779-07-04) |
+| bap. 27 Oct 1781 | John | "Stannage"; father a clothier | [baptism](https://www.freereg.org.uk/search_records/5d002baef493fde9f63f5c75/john-bentley-baptism-yorkshire-west-riding-saddleworth-1781-10-27) |
+| bap. 24 Oct 1784 | James | Standedge; father a clothier | [baptism](https://www.freereg.org.uk/search_records/685e4d52865574817e6f55a1/james-bentley-james-bentley-baptism-yorkshire-west-riding-saddleworth-1784-10-24) |
+
+**Why William is probably their son:**
+
+- **Place.** John and Ann lived at Standedge (also written Stone edge and "Stannage"). William
+  and Betty's sons were born at "Stanage" (Joseph, 1821) and Standedge (Wright, 1831), according
+  to the Ancestry tree. "Standage" in William's name on Ancestry is very probably that place
+  name, taken from a register entry, rather than a real middle name.
+- **The name.** John and Ann's first William was baptised and buried in July 1779. Reusing a dead
+  child's name for the next son was normal, so a second William in 1788 fits.
+- **Dates.** William's ages at marriage (26) and death (47) fit a birth in 1788.
+- **Naming.** William and Betty's eldest son was John, after William's father, as the naming
+  custom of the time would lead you to expect.
+
+**What still needs checking:**
+
+- At least four John Bentleys were having children baptised at Saddleworth in the 1770s and
+  1780s: with Ann at Standedge, with Mary at Boarshurst, with Sarah (Sally) at Delph, and with
+  Jane. So the 1788 baptism must name **Ann** as the mother, or give the abode **Standedge**, to
+  prove the link. A record naming only "John" would not be enough.
+- The Ancestry tree's "brother William Bentley (1781–1805)" doesn't fit the registers: the 1781
+  baby was John, and the William of 1779 died at two days old. That person is probably attached
+  to the wrong parents.
 
 If William is John and Ann's son, the line continues back through documented Saddleworth
 generations to Matthew Bentley of Standedge (died 1751), and very probably to a Mathew Bentley
@@ -164,15 +195,16 @@ in 1613 (see [the two breaks](2026-10-10-the-two-breaks.md#the-saddleworth-line-
 
 ## How to close the gap
 
-1. **William's baptism:** the original St Chad, Saddleworth registers (Manchester Archives) are
-   online as images on Ancestry, in its Manchester Church of England baptism collections. Look
-   for 8 April 1788, or any William Bentley baptised 1780–1792, and note the parents' names and
-   the abode.
-2. **Charles's marriage certificate**, Jul–Sep 1855, Huddersfield, vol. 9a, p. 262. It gives
+1. **William's baptism, 8 April 1788:** open the record attached to the Birth fact on Ancestry
+   (or search FamilySearch, which is free with an account). It should name the mother and the
+   abode. "Ann" or "Standedge" would settle it.
+2. **Charles's baptism, 1 May 1828:** open the record attached to Charles's Birth fact. It
+   should name William and Betty.
+3. **Charles's marriage certificate**, Jul–Sep 1855, Huddersfield, vol. 9a, p. 262. It gives
    Charles's father's name and occupation. It can be ordered from the
    [General Register Office](https://www.gov.uk/order-copy-birth-death-marriage-certificate).
-3. **William's burial**, 1835, and Betty's, 1859: Saddleworth or Marsden burial registers.
-4. **The 1841 census** (not on FreeCEN for this area): Betty, probably at Saddleworth or Marsden,
+4. **William's burial**, 1835, and Betty's, 1859: Saddleworth or Marsden burial registers.
+5. **The 1841 census** (not on FreeCEN for this area): Betty, probably at Saddleworth or Marsden,
    with the younger children.
 
 ## Sources

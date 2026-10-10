@@ -25,8 +25,8 @@ flowchart TD
     A3["Mathew ('old Matthew') Bentley<br/>bap. 1664, bur. 1735/6, Standedge"]:::probable
     A4["Matthew Bentley of Standedge<br/>clothier, bur. 1751; m. Sarah"]:::found
     A5["James Bentley<br/>bap. 1722; m. Mary Nield 1745"]:::found
-    A6["John Bentley<br/>bap. 1750; m. Ann Broadbent 1771"]:::found
-    B1["William Bentley<br/>m. Betty Bottomley 1815, Saddleworth<br/>d. before 1851"]:::found
+    A6["John Bentley of Standedge<br/>bap. 1750; m. Ann Broadbent 1771"]:::found
+    B1["William Bentley<br/>b. 1788?; m. Betty Bottomley 1815<br/>d. 1835?, Saddleworth"]:::found
     B2["Charles Bentley<br/>b. c.1827 Saddleworth, d. 1897<br/>m. Sarah Dyson 1855"]:::found
     B3["John Bentley<br/>b. 1861 Marsden, d. 1918<br/>m. Sarah Ann Haigh 1883"]:::found
     B4["Thomas Herbert Bentley<br/>b. 1888/9 Marsden, d. 1965<br/>m. Lauretta Jones 1920"]:::found
@@ -39,7 +39,7 @@ flowchart TD
     A3 -.->|"probable:<br/>same farm"| A4
     A4 -->|baptism| A5
     A5 -->|baptism| A6
-    A6 -.->|"not yet proven:<br/>William's baptism needed"| B1
+    A6 -.->|"probable:<br/>1788 baptism to check"| B1
     B1 -->|"1851 census<br/>(Betty's son)"| B2
     B2 -->|"1861, 1871<br/>censuses"| B3
     B3 -->|"1891 census"| B4
@@ -55,9 +55,10 @@ to the next generation still to prove. Arrows: solid green means a record (or th
 knowledge, for Janet) names the parent; dashed means not yet proven.
 
 The records carry the line back **without a gap to William and Betty Bentley, married at
-Saddleworth in 1815.** One record is missing to connect William to the Saddleworth Bentleys of
-the 1700s, and through them back to 1613: his baptism, which the earlier family tree gave as
-8 April 1788, son of John and Ann.
+Saddleworth in 1815.** William was very probably the son of John Bentley and Ann Broadbent of
+Standedge, who lost an earlier son William in 1779. His baptism (8 April 1788, in the earlier
+family tree) is the record that would prove it. It needs to name Ann, or Standedge, because
+several John Bentleys were raising families in Saddleworth at the time.
 
 ## Evidence status
 
@@ -78,7 +79,7 @@ the 1700s, and through them back to 1613: his baptism, which the earlier family 
 | 4 | **John Bentley** | early **1861** Marsden – 1918 | **Sarah Ann Haigh** (c.1857–1934), 1883 | Son of Charles and Sarah (1861, 1871 censuses) | Documented |
 | 5 | **Charles Bentley** | c.1827 Saddleworth – 1897 | **Sarah Dyson** (c.1831–1874), 1855 | Son of Betty, widow (1851 census) | Documented (mother); probable (father) |
 | 6 | **William Bentley** | ? – before 1851 (tree: d. 1835) | **Betty Bottomley** (c.1782–?), 5 Jan 1815, Saddleworth | Parents not yet found | Probable |
-| 7 | John Bentley | bap. 1750 Saddleworth – ? | Ann Broadbent, 1771 | Son of James and Mary (baptism) | Not yet proven as William's father |
+| 7 | John Bentley | bap. 1750 Saddleworth – 1789? | Ann Broadbent, 1771 | Son of James and Mary (baptism) | Probable as William's father (same place, Standedge; William's 1788 baptism still to be seen) |
 | 8 | James Bentley | bap. 1722 Saddleworth | Mary Nield, 1745 | Son of Matthew and Sarah (baptism) | Documented |
 | 9 | Matthew Bentley of Standedge | c.1692 – 1751 | Sarah | Probably son of "old Matthew" (same farm) | Probable |
 | 10 | Mathew ("old Matthew") Bentley | bap. 1664 – 1735/6 | Ellin (d. 1719) | Son of Jonas (baptism) | Documented, if the same Mathew |
