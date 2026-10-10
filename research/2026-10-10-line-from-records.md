@@ -2,43 +2,33 @@
 
 10 October 2026
 
-The Ancestry tree has been set aside. This line starts from what the family knows for certain:
-Janet Bentley (deceased) was the mother of the present-day descendant who keeps this
-repository; her father was Roy Bentley; his father was Thomas Bentley. Each earlier generation
-has been added only where a record supports it. Every source is cited below.
+The Ancestry tree has been set aside. This line starts with Roy Bentley (1930–1998), whom the
+family knows to be the son of Thomas Bentley. Each earlier generation has been added only where
+a record supports it. Every source is cited below.
 
-The present-day descendant, their siblings and their children are living and are not named here.
+Roy's descendants are not included in this public record.
 
 ## Summary
 
 | Generation | Person | Key evidence | Link to the next generation down |
 | --- | --- | --- | --- |
-| 1 | Janet Bentley, 1958–2011 | Birth, Huddersfield, Jul–Sep 1958 | Known to the family |
-| 2 | Roy Bentley, 1930–1998, and Margaret Cartwright, 1934–1991 | Birth, Huddersfield, Apr–Jun 1930, mother's maiden name Jones; marriage 1953 | Known to the family; Janet's birth index (mother née Cartwright) |
-| 3 | Thomas Herbert Bentley, 1888/9–1965 | Birth registered Jan–Mar 1889; 1891 census; married Lauretta Jones 1920 | **Documented**: Roy's birth index gives his mother's maiden name as Jones |
-| 4 | John Bentley, 1861–1918, and Sarah Ann Haigh | Birth registered Jan–Mar 1861; 1861 and 1871 censuses; married 1883 | **Documented**: 1891 census lists Thomas H. as his son |
-| 5 | Charles Bentley, c.1827–1897, and Sarah Dyson | 1851, 1861 and 1871 censuses; married 1855 | **Documented**: 1861 and 1871 censuses list John as his son |
-| 6 | William Bentley and Betty Bottomley, married 1815 | Marriage at Saddleworth, 5 Jan 1815; Betty a widow in 1851 | **Documented** for Betty: 1851 census lists Charles as her son. **Probable** for William: marriage record only |
-| 7 | John Bentley and Ann Broadbent, married 1771 | Their children at Standedge, 1776–1784 | **Probable**: William's 1788 baptism still to be seen |
-| 8–12 | James (1722) → Matthew of Standedge (d. 1751) → "old Matthew" (1664) → Jonas → Mathew (1613) | See [the two breaks](2026-10-10-the-two-breaks.md) | Documented or probable within Saddleworth |
+| 1 | Roy Bentley, 1930–1998, and Margaret Cartwright, 1934–1991 | Birth, Huddersfield, Apr–Jun 1930, mother's maiden name Jones; marriage 1953 | — |
+| 2 | Thomas Herbert Bentley, 1888/9–1965 | Birth registered Jan–Mar 1889; 1891 census; married Lauretta Jones 1920 | **Documented**: Roy's birth index gives his mother's maiden name as Jones |
+| 3 | John Bentley, 1861–1918, and Sarah Ann Haigh | Birth registered Jan–Mar 1861; 1861 and 1871 censuses; married 1883 | **Documented**: 1891 census lists Thomas H. as his son |
+| 4 | Charles Bentley, c.1827–1897, and Sarah Dyson | 1851, 1861 and 1871 censuses; married 1855 | **Documented**: 1861 and 1871 censuses list John as his son |
+| 5 | William Bentley and Betty Bottomley, married 1815 | Marriage at Saddleworth, 5 Jan 1815; Betty a widow in 1851 | **Documented** for Betty: 1851 census lists Charles as her son. **Probable** for William: marriage record only |
+| 6 | John Bentley and Ann Broadbent, married 1771 | Their children at Standedge, 1776–1784 | **Probable** (working assumption): William's 1788 baptism still to be seen |
+| 7–11 | James (1722) → Matthew of Standedge (d. 1751) → "old Matthew" (1664) → Jonas → Mathew (1613) | See [the two breaks](2026-10-10-the-two-breaks.md) | Documented or probable within Saddleworth |
 
 So the records carry the line back without a gap to **William and Betty Bentley, married at
 Saddleworth in 1815**. One record is missing to connect William to the Saddleworth Bentleys of
 the 1700s, and through them back to 1613: his baptism, which the family tree gives as 8 April
-1788, son of John and Ann.
+1788, son of John and Ann. Until it is found, the line is traced on the working assumption that
+William was their son.
 
 ## Generation by generation
 
-### 1. Janet Bentley (1958–2011)
-
-- **Birth:** Janet Bentley, registered Jul–Sep 1958, Huddersfield, vol. 2b, p. 1088 (GRO index,
-  via [FreeBMD](https://www.freebmd.org.uk/)), **mother's maiden name Cartwright**, matching Roy
-  Bentley's 1953 marriage (below).
-- **Death:** 2011, Huddersfield (family knowledge; not yet checked in the index).
-- **Brothers:** Nigel C. Bentley, birth registered Jan–Mar 1954, Huddersfield, vol. 2b, p. 967
-  (mother's maiden name Cartwright), died 1973; Paul Bentley, died 2019.
-
-### 2. Roy Bentley (1930–1998) and Margaret Cartwright (1934–1991)
+### 1. Roy Bentley (1930–1998) and Margaret Cartwright (1934–1991)
 
 - **Birth:** Roy Bentley, registered Apr–Jun 1930, Huddersfield, vol. 9a, p. 436, **mother's
   maiden name Jones** (GRO index). This links him to Thomas H. Bentley and Lauretta Jones.
@@ -52,12 +42,12 @@ the 1700s, and through them back to 1613: his baptism, which the family tree giv
   vol. 9a, p. 432, **mother's maiden name Mayall** (GRO index). She is the only Margaret
   Cartwright registered in Huddersfield that quarter, which fits a birth on 2 June 1934.
 
-### 3. Thomas Herbert Bentley (1888/9–1965) and Lauretta Jones (1887/8–1963)
+### 2. Thomas Herbert Bentley (1888/9–1965) and Lauretta Jones (1887/8–1963)
 
 - **Birth:** Thomas Herbert Bentley, registered Jan–Mar 1889, Huddersfield, vol. 9a, p. 239
   (GRO index). The family tree gives 14 November 1888.
 - **1891 census**, Binn, Marsden: Thomas H., son, aged 2, born Marsden, in the household of John
-  and Sarah A. Bentley (see generation 4).
+  and Sarah A. Bentley (see generation 3).
 - **Marriage:** Thomas H. Bentley and Lauretta Jones, Jan–Mar 1920, Huddersfield, vol. 9a,
   p. 624. Each entry gives the other's surname (GRO index).
 - **Lauretta's birth:** Lauretta Jones, registered Jan–Mar 1888, Halifax district (which
@@ -67,12 +57,12 @@ the 1700s, and through them back to 1613: his baptism, which the family tree giv
 - **Children** (family knowledge): Dorothy (1920–1989), who married Norman A. Jagger (1911–1976),
   and Roy.
 
-### 4. John Bentley (1861–1918) and Sarah Ann Haigh (c.1857–1934)
+### 3. John Bentley (1861–1918) and Sarah Ann Haigh (c.1857–1934)
 
 - **Birth:** John Bentley, registered Jan–Mar 1861, Huddersfield, vol. 9a, p. 216 (GRO index).
   The 1861 census, taken on 7 April, gives his age as 3 months. So he was born early in 1861,
   not on 21 March 1862 as the family tree says.
-- **1861 and 1871 censuses:** son of Charles and Sarah Bentley (see generation 5).
+- **1861 and 1871 censuses:** son of Charles and Sarah Bentley (see generation 4).
 - **Marriage:** John Bentley and **Sarah Ann Haigh**, Jul–Sep 1883, Huddersfield. Both are
   indexed at vol. 9a, p. 361 in the same quarter (GRO index). The family tree had her as "Sarah
   Ann Bentley", her married name. Her maiden name, Haigh, is a new finding.
@@ -95,10 +85,10 @@ the 1700s, and through them back to 1613: his baptism, which the family tree giv
   John Bentley, also aged 57, died in Huddersfield in Jul–Sep 1918, so a certificate is needed to
   be sure. Sarah A. Bentley, Jul–Sep 1934, Huddersfield, aged 77 (vol. 9a, p. 268).
 
-### 5. Charles Bentley (c.1827–1897) and Sarah Dyson (c.1831–1874)
+### 4. Charles Bentley (c.1827–1897) and Sarah Dyson (c.1831–1874)
 
 - **1851 census**, Carr Clough, Marsden: Charles, 23, woollen weaver, born Saddleworth, living
-  with his widowed mother Betty (see generation 6).
+  with his widowed mother Betty (see generation 5).
 - **Marriage:** Charles Bentley and Sarah Dyson, Jul–Sep 1855, Huddersfield. Both are indexed at
   vol. 9a, p. 262 in the same quarter (GRO index).
 - **1861 census**, Carr Clough, Marsden
@@ -116,7 +106,7 @@ the 1700s, and through them back to 1613: his baptism, which the family tree giv
 - **Birth:** about 1827–1829 at Saddleworth (from his ages). The family tree gives 1 May 1828.
   His baptism hasn't been found online.
 
-### 6. William Bentley and Betty Bottomley (married 1815)
+### 5. William Bentley and Betty Bottomley (married 1815)
 
 - **Marriage:** William Bentley and Betty Bottomley, 5 January 1815, St Chad, Saddleworth,
   register entry 152. Both are "of this parish"; both signed with a mark; the witnesses were
@@ -146,7 +136,7 @@ the 1700s, and through them back to 1613: his baptism, which the family tree giv
 - **Betty's death:** the family tree gives 18 February 1859 at Carr Clough, Marsden. Not yet
   checked.
 
-### 7. William Bentley's parents: John Bentley and Ann Broadbent (probable)
+### 6. William Bentley's parents: John Bentley and Ann Broadbent (probable)
 
 The Ancestry tree records William as **William Standage Bentley**, born 8 April 1788 at
 "Meerlech", Saddleworth, son of John Bentley (1750–1789). It also gives him a marriage on 23 Dec
@@ -216,4 +206,4 @@ in 1613 (see [the two breaks](2026-10-10-the-two-breaks.md#the-saddleworth-line-
   [FreeCEN](https://www.freecen.org.uk/).
 - **Parish registers** of St Chad, Saddleworth, transcribed by
   [FreeREG](https://www.freereg.org.uk/).
-- **Family knowledge** for Janet, Roy and Thomas, Margaret's death in 1991, and deaths after 1990.
+- **Family knowledge** for Roy and Thomas, Margaret's death in 1991, and Roy's death in 1998.

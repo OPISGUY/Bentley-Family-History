@@ -28,7 +28,7 @@ the 1700s and back to 1613. See
 
 ## 2. Firm up the recent generations
 
-- [ ] Janet's and Roy's deaths (2011, 1998) in the GRO death index or probate calendar.
+- [ ] Roy's death (1998) in the GRO death index or probate calendar.
 - [ ] John Bentley's death: two John Bentleys aged 57 died in Huddersfield district in 1918
       (Jul–Sep, vol. 9a, p. 395; Oct–Dec, vol. 9a, p. 548). A certificate would show which is
       the one from Binn, Marsden.
@@ -92,7 +92,7 @@ them up again only if the Saddleworth line leads back to Halifax.
 
 ## Done
 
-- [x] Rebuild the line from Janet Bentley back using records (10 Oct 2026):
+- [x] Rebuild the line from Roy Bentley back using records (10 Oct 2026):
       [the line rebuilt from records](research/2026-10-10-line-from-records.md)
 - [x] Settle the two breaks in the Ancestry tree (10 Oct 2026):
       [the two breaks](research/2026-10-10-the-two-breaks.md)

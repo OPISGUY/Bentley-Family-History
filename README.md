@@ -10,12 +10,11 @@ work and carry it on.
 
 | Generation | Person | Where |
 | --- | --- | --- |
-| 1 | Janet Bentley (1958–2011) | Huddersfield |
-| 2 | Roy Bentley (1930–1998) m. Margaret Cartwright (1934–1991) | Huddersfield |
-| 3 | Thomas Herbert Bentley (1888/9–1965) m. Lauretta Jones | Marsden, Huddersfield |
-| 4 | John Bentley (1861–1918) m. Sarah Ann Haigh | Marsden |
-| 5 | Charles Bentley (c.1827–1897) m. Sarah Dyson | Saddleworth, then Marsden |
-| 6 | William Bentley m. Betty Bottomley, 1815 | Saddleworth |
+| 1 | Roy Bentley (1930–1998) m. Margaret Cartwright (1934–1991) | Huddersfield |
+| 2 | Thomas Herbert Bentley (1888/9–1965) m. Lauretta Jones | Marsden, Huddersfield |
+| 3 | John Bentley (1861–1918) m. Sarah Ann Haigh | Marsden |
+| 4 | Charles Bentley (c.1827–1897) m. Sarah Dyson | Saddleworth, then Marsden |
+| 5 | William Bentley m. Betty Bottomley, 1815 | Saddleworth |
 
 Each link in this list is supported by birth, marriage and death indexes, census returns or
 parish registers. See [family-tree.md](family-tree.md) for the chart and the evidence for each
@@ -34,7 +33,7 @@ Standedge. They lived at the same place and lost an earlier son William in 1779.
 | --- | --- |
 | [family-tree.md](family-tree.md) | The line as a chart, generation by generation, with the evidence status of each link |
 | [research-plan.md](research-plan.md) | Records to search next, in priority order |
-| [research/2026-10-10-line-from-records.md](research/2026-10-10-line-from-records.md) | The line rebuilt from Janet Bentley back, with every record cited |
+| [research/2026-10-10-line-from-records.md](research/2026-10-10-line-from-records.md) | The line rebuilt from Roy Bentley back, with every record cited |
 | [research/2026-10-10-the-two-breaks.md](research/2026-10-10-the-two-breaks.md) | The Saddleworth Bentleys back to 1613; how the Ancestry tree went wrong in the 1500s and 1600s |
 | [research/2026-10-10-tree-check.md](research/2026-10-10-tree-check.md) | The Ancestry tree checked generation by generation |
 | [research/2026-10-10-ancestry-tree.md](research/2026-10-10-ancestry-tree.md) | The Ancestry tree as exported, transcribed exactly |
