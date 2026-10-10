@@ -55,6 +55,9 @@ Once William is joined to John and Ann, these generations become part of the lin
 
 ## 4. Other family lines
 
+- [ ] **Cartwright:** Margaret Cartwright (born 2 June 1934, Huddersfield; died 1991). Confirm
+      her birth entry (Apr–Jun 1934, Huddersfield, vol. 9a, p. 432, mother's maiden name Mayall)
+      and find her parents' marriage (Cartwright–Mayall).
 - [ ] **Jones:** Lauretta Jones (born 1887/8, Barkisland): her parents and family.
 - [ ] **Haigh:** Sarah Ann Haigh (born about 1857, Marsden) and her uncle Dan Haigh.
 - [ ] **Dyson:** Sarah Dyson (born about 1831, Marsden).

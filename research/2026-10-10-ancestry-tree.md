@@ -32,7 +32,7 @@ Format: **B:** born, **D:** died, as written in the tree. "—" means the field 
 | 15 | Charles Bentley | 1 May 1828, Saddleworth | abt 1897, Marsden | Sarah Dyson (B: 1831 Marsden; D: buried 9 May 1874 Marsden, St Bartholomew) |
 | 16 | John D Bentley | 21 Mar 1862, Marsden | Dec 1918, Marsden | Sarah Ann Bentley (B: April 1857 Huddersfield; D: 10 Aug 1934 Huddersfield) |
 | 17 | Thomas H Bentley | 14 Nov 1888 | 23 May 1965 | Lauretta Bentley (B: 31 Dec 1887 Barkisland; D: Jul 1963 Upper Agbrigg) |
-| 18 | Roy Bentley | 25 Apr 1930, Huddersfield | 17 Apr 1998, Fartown | *private* |
+| 18 | Roy Bentley | 25 Apr 1930, Huddersfield | 17 Apr 1998, Fartown | Margaret Cartwright (marked "Living" in the tree; she died in 1991) |
 
 ### Other ancestors in the tree
 

@@ -30,7 +30,7 @@ flowchart TD
     B2["Charles Bentley<br/>b. c.1827 Saddleworth, d. 1897<br/>m. Sarah Dyson 1855"]:::found
     B3["John Bentley<br/>b. 1861 Marsden, d. 1918<br/>m. Sarah Ann Haigh 1883"]:::found
     B4["Thomas Herbert Bentley<br/>b. 1888/9 Marsden, d. 1965<br/>m. Lauretta Jones 1920"]:::found
-    B5["Roy Bentley<br/>1930–1998"]:::found
+    B5["Roy Bentley<br/>1930–1998<br/>m. Margaret Cartwright 1953"]:::found
     B6["Janet Bentley<br/>1958–2011"]:::found
     P["Living descendants<br/>(private)"]:::gap
 
@@ -73,7 +73,7 @@ the 1700s, and through them back to 1613: his baptism, which the earlier family 
 | Gen. | Person | Born – died | Married | Parent link | Status |
 | --- | --- | --- | --- | --- | --- |
 | 1 | **Janet Bentley** | 1958 Huddersfield – 2011 | — | Daughter of Roy (family; birth index matches) | Documented |
-| 2 | **Roy Bentley** | 1930 Huddersfield – 1998 | 1953, Upper Agbrigg (wife living) | Son of Thomas H. (birth index: mother née Jones) | Documented |
+| 2 | **Roy Bentley** | 1930 Huddersfield – 1998 | **Margaret Cartwright** (1934–1991), 1953, Upper Agbrigg | Son of Thomas H. (birth index: mother née Jones) | Documented |
 | 3 | **Thomas Herbert Bentley** | 1888/9 Marsden – 1965 Huddersfield | **Lauretta Jones** (1887/8–1963), 1920 | Son of John and Sarah A. (1891 census) | Documented |
 | 4 | **John Bentley** | early **1861** Marsden – 1918 | **Sarah Ann Haigh** (c.1857–1934), 1883 | Son of Charles and Sarah (1861, 1871 censuses) | Documented |
 | 5 | **Charles Bentley** | c.1827 Saddleworth – 1897 | **Sarah Dyson** (c.1831–1874), 1855 | Son of Betty, widow (1851 census) | Documented (mother); probable (father) |
@@ -101,6 +101,8 @@ the 1700s, and through them back to 1613: his baptism, which the earlier family 
 
 Each marriage brings in another family. None has been researched yet:
 
+- **Cartwright:** Margaret Cartwright, born 2 June 1934, Huddersfield; probably the Margaret
+  Cartwright whose birth index entry gives her mother's maiden name as Mayall.
 - **Jones:** Lauretta Jones, born 1887/8, Barkisland (Halifax district).
 - **Haigh:** Sarah Ann Haigh, born about 1857, Marsden; her uncle Dan Haigh (born about 1820,
   Marsden).

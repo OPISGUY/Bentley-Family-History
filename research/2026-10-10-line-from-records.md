@@ -7,15 +7,14 @@ Janet Bentley (deceased) was the mother of the present-day descendant who keeps 
 repository; her father was Roy Bentley; his father was Thomas Bentley. Each earlier generation
 has been added only where a record supports it. Every source is cited below.
 
-The present-day descendant, their siblings and children, and Roy's widow are living and are not
-named here.
+The present-day descendant, their siblings and their children are living and are not named here.
 
 ## Summary
 
 | Generation | Person | Key evidence | Link to the next generation down |
 | --- | --- | --- | --- |
 | 1 | Janet Bentley, 1958–2011 | Birth, Huddersfield, Jul–Sep 1958 | Known to the family |
-| 2 | Roy Bentley, 1930–1998 | Birth, Huddersfield, Apr–Jun 1930, mother's maiden name Jones; marriage 1953 | Known to the family; Janet's birth index |
+| 2 | Roy Bentley, 1930–1998, and Margaret Cartwright, 1934–1991 | Birth, Huddersfield, Apr–Jun 1930, mother's maiden name Jones; marriage 1953 | Known to the family; Janet's birth index (mother née Cartwright) |
 | 3 | Thomas Herbert Bentley, 1888/9–1965 | Birth registered Jan–Mar 1889; 1891 census; married Lauretta Jones 1920 | **Documented**: Roy's birth index gives his mother's maiden name as Jones |
 | 4 | John Bentley, 1861–1918, and Sarah Ann Haigh | Birth registered Jan–Mar 1861; 1861 and 1871 censuses; married 1883 | **Documented**: 1891 census lists Thomas H. as his son |
 | 5 | Charles Bentley, c.1827–1897, and Sarah Dyson | 1851, 1861 and 1871 censuses; married 1855 | **Documented**: 1861 and 1871 censuses list John as his son |
@@ -33,19 +32,25 @@ the 1700s, and through them back to 1613: his baptism, which the family tree giv
 ### 1. Janet Bentley (1958–2011)
 
 - **Birth:** Janet Bentley, registered Jul–Sep 1958, Huddersfield, vol. 2b, p. 1088 (GRO index,
-  via [FreeBMD](https://www.freebmd.org.uk/)). The index gives her mother's maiden name, which
-  matches Roy Bentley's 1953 marriage (below).
+  via [FreeBMD](https://www.freebmd.org.uk/)), **mother's maiden name Cartwright**, matching Roy
+  Bentley's 1953 marriage (below).
 - **Death:** 2011, Huddersfield (family knowledge; not yet checked in the index).
 - **Brothers:** Nigel C. Bentley, birth registered Jan–Mar 1954, Huddersfield, vol. 2b, p. 967
-  (same mother's maiden name), died 1973; Paul Bentley, died 2019.
+  (mother's maiden name Cartwright), died 1973; Paul Bentley, died 2019.
 
-### 2. Roy Bentley (1930–1998)
+### 2. Roy Bentley (1930–1998) and Margaret Cartwright (1934–1991)
 
 - **Birth:** Roy Bentley, registered Apr–Jun 1930, Huddersfield, vol. 9a, p. 436, **mother's
   maiden name Jones** (GRO index). This links him to Thomas H. Bentley and Lauretta Jones.
-- **Marriage:** Oct–Dec 1953, Upper Agbrigg district, vol. 2d, p. 989 (GRO index). His wife is
-  living and is not named here.
+- **Marriage:** Roy Bentley and **Margaret Cartwright**, Oct–Dec 1953, Upper Agbrigg district,
+  vol. 2d, p. 989. Each entry gives the other's surname (GRO index).
 - **Death:** 1998, Fartown, Huddersfield (family knowledge; not yet checked).
+- **Margaret's death:** Margaret Bentley, born 2 June 1934, died 1991, Huddersfield, register 4,
+  entry 1629 (GRO death index; from 1969 the index gives the date of birth instead of the age).
+  The Ancestry tree wrongly marks her as living.
+- **Margaret's birth (probable):** Margaret Cartwright, registered Apr–Jun 1934, Huddersfield,
+  vol. 9a, p. 432, **mother's maiden name Mayall** (GRO index). She is the only Margaret
+  Cartwright registered in Huddersfield that quarter, which fits a birth on 2 June 1934.
 
 ### 3. Thomas Herbert Bentley (1888/9–1965) and Lauretta Jones (1887/8–1963)
 
@@ -179,4 +184,4 @@ in 1613 (see [the two breaks](2026-10-10-the-two-breaks.md#the-saddleworth-line-
   [FreeCEN](https://www.freecen.org.uk/).
 - **Parish registers** of St Chad, Saddleworth, transcribed by
   [FreeREG](https://www.freereg.org.uk/).
-- **Family knowledge** for Janet, Roy and Thomas, and for deaths after 1990.
+- **Family knowledge** for Janet, Roy and Thomas, Margaret's death in 1991, and deaths after 1990.
