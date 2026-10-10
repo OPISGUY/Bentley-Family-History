@@ -14,18 +14,23 @@ work and carry it on.
 | 2 | Thomas Herbert Bentley (1888/9–1965) m. Lauretta Jones | Marsden, Huddersfield |
 | 3 | John Bentley (1861–1918) m. Sarah Ann Haigh | Marsden |
 | 4 | Charles Bentley (c.1827–1897) m. Sarah Dyson | Saddleworth, then Marsden |
-| 5 | William Bentley m. Betty Bottomley, 1815 | Saddleworth |
+| 5 | William Bentley (1788–1835?) m. Betty Bottomley, 1815 | Standedge, Saddleworth |
+| 6 | John Bentley (1750–1789), clothier, m. Ann Broadbent, 1771 | Standedge |
+| 7 | James Bentley (1722–1790?), clothier, m. Mary Nield, 1745 | Standedge |
+| 8 | Matthew Bentley of Standedge (d. 1751), clothier, m. Sarah | Standedge |
+| 9 | Mathew ("old Matthew") Bentley (1664–1736) m. Ellin | Standedge |
+| 10 | Jonas Bentley (d. 1686) | Saddleworth |
+| 11 | Mathew Bentley (fl. 1613) | Saddleworth |
 
-Each link in this list is supported by birth, marriage and death indexes, census returns or
-parish registers. See [family-tree.md](family-tree.md) for the chart and the evidence for each
-generation.
+Most links in this list are supported by birth, marriage and death indexes, census returns or
+parish registers. Three are probable rather than proven: William (5) as Charles's father,
+"old Matthew" (9) as Matthew of Standedge's father, and Mathew (11) as Jonas's father. See
+[family-tree.md](family-tree.md) for the chart and the evidence for each generation.
 
-**Before William:** the Bentleys of Saddleworth can be traced in the registers from the 1700s
-back to 1613: John (1750) ← James (1722) ← Matthew of Standedge (died 1751) ← Mathew (1664) ←
-Jonas ← Mathew (1613). William was very probably the son of John Bentley and Ann Broadbent of
-Standedge. They lived at the same place and lost an earlier son William in 1779. His baptism
-(8 April 1788) is the one record still needed to prove it. See the
-[research plan](research-plan.md).
+The family lived for generations at Standedge, high on the Pennines between Saddleworth and
+Marsden, where they were clothiers: they made woollen cloth at home. Their farm there was known
+as "Bentleys". The Saddleworth registers begin in 1613, and Mathew Bentley is the first of the
+family in them. See [the Saddleworth line](research/2026-10-10-saddleworth-line.md).
 
 ## Contents
 
@@ -33,7 +38,8 @@ Standedge. They lived at the same place and lost an earlier son William in 1779.
 | --- | --- |
 | [family-tree.md](family-tree.md) | The line as a chart, generation by generation, with the evidence status of each link |
 | [research-plan.md](research-plan.md) | Records to search next, in priority order |
-| [research/2026-10-10-line-from-records.md](research/2026-10-10-line-from-records.md) | The line rebuilt from Roy Bentley back, with every record cited |
+| [research/2026-10-10-line-from-records.md](research/2026-10-10-line-from-records.md) | The line rebuilt from Roy Bentley back to William, with every record cited |
+| [research/2026-10-10-saddleworth-line.md](research/2026-10-10-saddleworth-line.md) | William's 1788 baptism, the Saddleworth Bentleys back to 1613, their wills, and "Bentleys", the family's farm at Standedge |
 | [research/2026-10-10-the-two-breaks.md](research/2026-10-10-the-two-breaks.md) | The Saddleworth Bentleys back to 1613; how the Ancestry tree went wrong in the 1500s and 1600s |
 | [research/2026-10-10-tree-check.md](research/2026-10-10-tree-check.md) | The Ancestry tree checked generation by generation |
 | [research/2026-10-10-ancestry-tree.md](research/2026-10-10-ancestry-tree.md) | The Ancestry tree as exported, transcribed exactly |
@@ -74,4 +80,9 @@ High Bentley Hall.
   [baptisms](https://archive.org/details/parishregisterof37hali),
   [marriages and burials](https://archive.org/details/parishregisterof45hali)
 - Yorkshire Archaeological Society Record Series: indexes of wills in the York Registry
+- Record Society of Lancashire and Cheshire: indexes of wills proved at Chester, on
+  [archive.org](https://archive.org/search?query=index+to+the+wills+and+inventories+chester)
+- The National Archives' [Discovery](https://discovery.nationalarchives.gov.uk/) catalogue, for
+  records held in local archives (e.g. the "Bentleys" deeds at Oldham Archives)
+- [GENUKI](https://www.genuki.org.uk/): the 1379 poll tax for the West Riding
 - [Calderdale Companion](https://www.calderdalecompanion.co.uk/) (Malcolm Bull)

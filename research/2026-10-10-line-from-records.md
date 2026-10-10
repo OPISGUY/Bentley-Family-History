@@ -138,6 +138,10 @@ William was their son.
 
 ### 6. William Bentley's parents: John Bentley and Ann Broadbent (probable)
 
+> **Update, 10 October 2026:** William's baptism has since been found on FreeREG, under the
+> spelling "Bently": 8 April 1788, William, son of John and Ann Bently, of Meerleech, clothier.
+> His parents are now documented. See [the Saddleworth line](2026-10-10-saddleworth-line.md).
+
 The Ancestry tree records William as **William Standage Bentley**, born 8 April 1788 at
 "Meerlech", Saddleworth, son of John Bentley (1750–1789). It also gives him a marriage on 23 Dec
 1814 at St Chad (probably the banns, ahead of the 5 January 1815 wedding) and a death on 16 April
@@ -184,6 +188,9 @@ generations to Matthew Bentley of Standedge (died 1751), and very probably to a 
 in 1613 (see [the two breaks](2026-10-10-the-two-breaks.md#the-saddleworth-line-going-back)).
 
 ## How to close the gap
+
+> **Update, 10 October 2026:** step 1 is done (see the update in section 6). Steps 2–5 would
+> confirm that the William baptised in 1788 is Charles's father.
 
 1. **William's baptism, 8 April 1788:** open the record attached to the Birth fact on Ancestry
    (or search FamilySearch, which is free with an account). It should name the mother and the
