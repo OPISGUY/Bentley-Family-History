@@ -5,20 +5,29 @@ in a dated file under `research/`.
 
 _Last updated: 10 October 2026_
 
-## 1. Prove the Saddleworth line back from Matthew Bentley (most urgent)
+## 1. Take the Saddleworth line further back (most urgent)
 
-Matthew Bentley, clothier of Standedge (buried 1751), is the earliest ancestor the records
-currently support. See the
-[tree check](research/2026-10-10-tree-check.md#matthew-bentley-of-standedge-where-the-documented-line-begins-generation-11).
+The records support the line back to Matthew Bentley of Standedge (died 1751), and very
+probably to "old Matthew" (baptised 1664, son of Jonas) and a Mathew Bentley in 1613. See
+[the two breaks](research/2026-10-10-the-two-breaks.md#the-saddleworth-line-going-back).
 
-- [ ] Find Matthew's baptism (about 1690–1700) and his marriage to Sarah. The tree calls her
-      Sarah Joanes. Saddleworth (St Chad) registers are at Manchester Central Library. A printed
-      transcript of 1613–1751 by John Radcliffe (1887) may be easier to search.
-- [ ] Test the hypothesis that "old Matthew" Bentley of Standedge (buried 26 Feb 1735/6) was his
-      father, and that old Matthew is the Mathew son of Jonas Bentley baptised 11 Dec 1664.
-- [ ] Look for Bentley wills from Saddleworth (Chester or York probate courts; Saddleworth was in
-      Yorkshire but in the Chester diocese until 1847).
-- [ ] Only then: look for any record linking the Saddleworth Bentleys to Halifax.
+- [ ] **Matthew's baptism** (about 1690–1700, son of Mathew). The FreeREG transcript of St Chad
+      has only two Bentley baptisms in the 1690s, so check the original register or bishop's
+      transcripts. The originals are at Manchester Central Library (Archives+). Look also for
+      John Radcliffe's printed transcript of the registers for 1613–1751 (1887).
+- [ ] **Matthew's marriage** to Sarah (about 1715–1721). The tree calls her Sarah Joanes.
+- [ ] **Old Matthew's marriage** to Ellin, and his children's baptisms in the 1690s.
+- [ ] **Jonas Bentley:** his baptism (about 1620–1635), marriage, and burial (the "Jonah" of
+      1686?). Is he the son of the Mathew of 1613–14? The FreeREG transcript is thin from 1615 to
+      1653, so the originals are needed.
+- [ ] **Wills.** Saddleworth was a chapelry of Rochdale parish in the Diocese of Chester, not
+      York, so Bentley wills would have been proved in the Chester courts. Check Lancashire
+      Archives (which holds wills for the Lancashire deaneries, including Manchester) and Cheshire
+      Archives for Mathew (1657/8 and 1735/6), Jonas (1686) and Matthew (1751).
+- [ ] **Bentley Farmhouse,** Whimberry Lee Lane, Bleak Hey Nook (mid-18th century): find out
+      whether it is named after this family.
+- [ ] Saddleworth Historical Society: ask whether it holds Bentley deeds or notes on Standedge
+      and Stone-edge.
 
 ## 2. Fill the gap from John Bentley (1750) to Charles Bentley (1828)
 
@@ -37,59 +46,48 @@ The GRO index entries match, but the parent–child links need censuses or certi
 - [ ] Censuses 1841–1921 for Charles, John D. and Thomas H. Bentley at Marsden.
 - [ ] John D. Bentley's birth: the index has a John Bentley born Jan–Mar 1861 in Huddersfield;
       the tree says 21 March 1862. A certificate would also give his middle name.
-- [ ] John Bentley's marriage to Sarah Ann (Huddersfield, 1878 or 1883 in the index) to find her
+- [ ] John Bentley's marriage to Sarah Ann (Huddersfield, 1878 or 1883 in the index), to find her
       maiden name.
 - [ ] Lauretta Jones (born Barkisland 1887): parents and family.
 
-## 4. Correct or rebuild the 1600s
+## 4. Fix the Ancestry tree
 
-- [ ] Will of John Bentley of Staups House, Shibden (died 1640s): who inherited, and was there a
-      son?
-- [ ] Halifax registers after 1593 (originals at West Yorkshire Archive Service; partial
-      transcripts on FreeREG) for John Bentley and Phebe's children, and for Jon the Elder's
-      burial (21 Jan 1648 in the tree).
-- [ ] Remove or detach in the Ancestry tree: Jeremiah Bentley of Elland Hall as son of John and
-      Phoebe; John G. Bentley b. 1640; John Bentley b. 1665. These links are contradicted or
-      unsupported (see the tree check).
+Detach these links, which the records contradict (see
+[the two breaks](research/2026-10-10-the-two-breaks.md)):
 
-## 5. Settle the 1500s
+- [ ] Matthew Bentley's father: John Bentley (b. 1665, m. Grace Horsfeild) → unknown, probably
+      "old Matthew" (bap. 1664, son of Jonas).
+- [ ] John G. Bentley (b. 1640) as Jeremiah's son; Jeremiah as the son of John and Phoebe.
+- [ ] Richard Bentley (b. 1554) as Edward's son → son of Richard Bentley of Northowram. Also
+      correct Richard's death (before Aug 1600) and Isabel's (she remarried in 1600).
+- [ ] John (c.1603) and Jon "the Elder": probably one man, John of Staups House, married Agnes
+      Blackburne (1599) and Phebe (1612).
 
-- [ ] Edward or Richard? Decide whether the tree's Richard is the son of Richard Bentley of
-      Northowram (baptised 17 Aug 1554) or of Edward Bentley of Ovenden (baptised 28 May 1559).
-      Wills of Richard Bentley of Northowram (buried 20 June 1576) and Edward Bentley of Ovenden
-      (buried 23 April 1592) at the Borthwick Institute, York, would name their children.
-- [ ] Which Isabel Brodley married Richard in 1576? Look for a will of Richard Brodley of
-      Hipperholme (buried 16 Nov 1557) naming a daughter Isabel.
-- [ ] Settle whether there were two John Bentleys in 1540. See the
-      [source checks](research/2026-10-10-source-checks.md#the-conflict): read William Brooke's
-      original registered will (York probate register vol. 11, f. 427) and the original Halifax
-      burial entry for 1 August 1540.
-- [ ] Find the record behind Laurence Bentley's 1496 fine for land in Shelf (probably a manor
-      court roll). The same court should record later Bentley deaths and heirs.
+## 5. The Halifax and High Bentley Bentleys (separate for now)
 
-## 6. Agnes and High Bentley Hall
-
-- [ ] Look for a Waterhouse will (c. 1500–1545) naming a daughter Agnes married to a Bentley.
-- [ ] Follow Agnes Bentley, widow, who married Edward Berstowe on 20 November 1542.
-- [ ] Arthur Bentley "of High Bentley Hall" in 1537: find the William Thorpe charity deed and any
-      other record of him.
-- [ ] Read J. Lister's article in *Transactions of the Halifax Antiquarian Society* (1905), and
-      *Aisled Houses in the Halifax Area*, *Ancient Halls in & about Halifax* and *The Old Halls &
-      Manor Houses of Yorkshire*.
-- [ ] Find when and how the hall passed from the Bentleys to the Wade family (Richard Wade, 1661).
-
-## 7. Earlier Yorkshire generations and Monmouth
-
-- [ ] Identify the 1296 record of the Bentley family of Shelf, and read the 1379 poll tax return
-      for Shelf.
-- [ ] Read every Bentley entry in *Halifax Wills* Part I (1389–1514) for Shelf connections.
-- [ ] Check Joseph Foster, *Pedigrees of the County Families of Yorkshire* (1874).
-- [ ] Only once the Yorkshire line is documented: search for Sir John Bentley of Monmouth
-      (1470–1527), Isabel Brookhouse and James Bentley (b. 1419). Nothing found so far supports
-      them.
+- [ ] Read George Bentley's will (Halifax, chapman; proved 1624; York Reg. 38, f. 230) for
+      Jeremy's parentage.
+- [ ] Read the will of John Bentley of Northowram, yeoman (proved 1627; York Reg. 39, f. 214).
+      Is he John of Staups House?
+- [ ] Wakefield manor court rolls for Northowram/Hipperholme graveship, 1576 and 1593–1600: Richard
+      Bentley's admission to his father's land, and John's after Richard's death.
+- [ ] High Bentley: test whether the property passed to the Bairstows through Agnes Bentley's
+      marriage to Edward Berstowe (1542). Look for Bairstow wills and deeds of High Bentley, and
+      for John Bentley of Shelf's children.
+- [ ] Settle whether there were two John Bentleys in 1540 (William Brooke's original will, York
+      Reg. 11, f. 427; the original Halifax burial entry for 1 August 1540).
+- [ ] Find the record behind Laurence Bentley's 1496 fine for land in Shelf (probably a Wakefield
+      manor court roll).
+- [ ] Arthur Bentley "of High Bentley Hall" in 1537 (William Thorpe's charity deed).
+- [ ] Read J. Lister in *Transactions of the Halifax Antiquarian Society* (1905), *Aisled Houses in
+      the Halifax Area*, *Ancient Halls in & about Halifax* and *The Old Halls & Manor Houses of
+      Yorkshire*.
+- [ ] Earlier: the 1296 Shelf record, the 1379 poll tax, *Halifax Wills* Part I, and Foster's
+      *Pedigrees* (1874). Sir John of Monmouth only once the Yorkshire line is documented.
 
 ## Done
 
+- [x] Settle the two breaks in the tree (10 Oct 2026): [the two breaks](research/2026-10-10-the-two-breaks.md)
 - [x] Transcribe the Ancestry tree (10 Oct 2026): [transcription](research/2026-10-10-ancestry-tree.md)
 - [x] Check each generation against the printed Halifax registers (1538–1593), FreeREG
       (Saddleworth, to 1800), the GRO index and the Calderdale Companion (10 Oct 2026):
