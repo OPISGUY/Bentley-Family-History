@@ -5,92 +5,93 @@ in a dated file under `research/`.
 
 _Last updated: 10 October 2026_
 
-## 1. Take the Saddleworth line further back (most urgent)
+## 1. Close the gap at William Bentley (most urgent)
 
-The records support the line back to Matthew Bentley of Standedge (died 1751), and very
-probably to "old Matthew" (baptised 1664, son of Jonas) and a Mathew Bentley in 1613. See
+The records take the line back to William Bentley and Betty Bottomley, married at Saddleworth
+on 5 January 1815. Proving William's parents would join the line to the Saddleworth Bentleys of
+the 1700s and back to 1613. See
+[the line rebuilt from records](research/2026-10-10-line-from-records.md#how-to-close-the-gap).
+
+- [ ] **William's baptism.** The earlier family tree says 8 April 1788, at "Meerlech",
+      Saddleworth, son of John and Ann. The St Chad, Saddleworth registers are online as images
+      on Ancestry (Manchester Church of England baptism collections). Find the entry and note the
+      parents' names, abode and father's occupation. If it isn't there, check the other
+      Saddleworth chapels (Dobcross, Friarmere, Delph) and nonconformist registers.
+- [ ] **Charles's marriage certificate:** Charles Bentley and Sarah Dyson, Jul–Sep 1855,
+      Huddersfield, vol. 9a, p. 262. It names Charles's father and his occupation. Order a PDF
+      from the [General Register Office](https://www.gov.uk/order-copy-birth-death-marriage-certificate).
+- [ ] **William's burial** (tree: 16 April 1835, at Ridge, Saddleworth) and **Betty's** (tree:
+      18 February 1859, Carr Clough, Marsden). Burial entries often give age and abode.
+- [ ] **1841 census:** Betty Bentley and the younger children (Saddleworth or Marsden).
+- [ ] **Charles's baptism** (about 1827–1829, Saddleworth), naming William and Betty.
+
+## 2. Firm up the recent generations
+
+- [ ] Janet's and Roy's deaths (2011, 1998) in the GRO death index or probate calendar.
+- [ ] John Bentley's death: two John Bentleys aged 57 died in Huddersfield district in 1918
+      (Jul–Sep, vol. 9a, p. 395; Oct–Dec, vol. 9a, p. 548). A certificate would show which is
+      the one from Binn, Marsden.
+- [ ] 1881, 1901, 1911 and 1921 censuses for John, Sarah Ann and Thomas H. at Marsden.
+- [ ] John and Sarah Ann's 1883 marriage certificate (Huddersfield, vol. 9a, p. 361): her
+      father's name, and confirmation of Haigh.
+- [ ] Thomas H. and Lauretta's 1920 marriage certificate (Huddersfield, vol. 9a, p. 624).
+
+## 3. The Saddleworth Bentleys before 1750
+
+Once William is joined to John and Ann, these generations become part of the line. See
 [the two breaks](research/2026-10-10-the-two-breaks.md#the-saddleworth-line-going-back).
 
-- [ ] **Matthew's baptism** (about 1690–1700, son of Mathew). The FreeREG transcript of St Chad
-      has only two Bentley baptisms in the 1690s, so check the original register or bishop's
-      transcripts. The originals are at Manchester Central Library (Archives+). Look also for
-      John Radcliffe's printed transcript of the registers for 1613–1751 (1887).
-- [ ] **Matthew's marriage** to Sarah (about 1715–1721). The tree calls her Sarah Joanes.
-- [ ] **Old Matthew's marriage** to Ellin, and his children's baptisms in the 1690s.
-- [ ] **Jonas Bentley:** his baptism (about 1620–1635), marriage, and burial (the "Jonah" of
-      1686?). Is he the son of the Mathew of 1613–14? The FreeREG transcript is thin from 1615 to
-      1653, so the originals are needed.
-- [ ] **Wills.** Saddleworth was a chapelry of Rochdale parish in the Diocese of Chester, not
-      York, so Bentley wills would have been proved in the Chester courts. Check Lancashire
-      Archives (which holds wills for the Lancashire deaneries, including Manchester) and Cheshire
-      Archives for Mathew (1657/8 and 1735/6), Jonas (1686) and Matthew (1751).
-- [ ] **Bentley Farmhouse,** Whimberry Lee Lane, Bleak Hey Nook (mid-18th century): find out
-      whether it is named after this family.
-- [ ] Saddleworth Historical Society: ask whether it holds Bentley deeds or notes on Standedge
-      and Stone-edge.
+- [ ] Matthew of Standedge's baptism (about 1690–1700, son of Mathew) and his marriage to Sarah.
+      The FreeREG transcript has gaps in the 1690s; check the originals.
+- [ ] "Old Matthew" (baptised 1664, son of Jonas): his marriage to Ellin and his children's
+      baptisms in the 1690s.
+- [ ] Jonas Bentley: his baptism, marriage and burial (the "Jonah" of 1686?). Is he the son of
+      the Mathew of 1613–14?
+- [ ] Saddleworth Bentley wills. Saddleworth was in the Diocese of Chester, so check Lancashire
+      Archives and Cheshire Archives.
+- [ ] Bentley Farmhouse, Whimberry Lee Lane, Bleak Hey Nook (mid-18th century): is it named
+      after this family?
+- [ ] Saddleworth Historical Society: Bentley deeds or notes on Standedge and Stone-edge.
 
-## 2. Fill the gap from John Bentley (1750) to Charles Bentley (1828)
+## 4. Other family lines
 
-- [ ] Baptism of William S. Bentley, 8 April 1788 (Meerlech, Saddleworth), naming John and Ann as
-      parents. Check St Chad and the other Saddleworth chapels (Dobcross, Friarmere, Delph).
-- [ ] Marriage of William S. Bentley and Betty Bottomley (about 1810–1820). Try Saddleworth and
-      Almondbury, the parish that included Marsden.
-- [ ] Burial of John Bentley, 15 Nov 1789, and of William S. Bentley, 16 Apr 1835.
-- [ ] Baptism of Charles Bentley, 1 May 1828 (his age at death suggests 1826–27).
-- [ ] 1841 and 1851 censuses: Betty Bentley (widow) and her children at Marsden/Saddleworth.
+- [ ] **Jones:** Lauretta Jones (born 1887/8, Barkisland): her parents and family.
+- [ ] **Haigh:** Sarah Ann Haigh (born about 1857, Marsden) and her uncle Dan Haigh.
+- [ ] **Dyson:** Sarah Dyson (born about 1831, Marsden).
+- [ ] **Bottomley:** Betty Bottomley (born about 1782, Saddleworth).
+- [ ] The Australian branch: Joseph, William and Wright Bentley, who died at St Kilda, Victoria.
 
-## 3. Confirm the Marsden and Huddersfield generations
+## 5. Fix the Ancestry tree
 
-The GRO index entries match, but the parent–child links need censuses or certificates.
+- [ ] Correct John Bentley's birth (early 1861, not 21 March 1862) and Sarah Ann's maiden name
+      (Haigh).
+- [ ] Detach everything above Matthew Bentley of Standedge (John b. 1665, John G. b. 1640,
+      Jeremiah, John and Phoebe, Jon the Elder, Richard, Edward, John G. of High Bentley,
+      Sir John of Monmouth, James b. 1419). See [the two breaks](research/2026-10-10-the-two-breaks.md).
+- [ ] Mark William Bentley's parents (John and Ann) as unproven until his baptism is found.
 
-- [ ] Censuses 1841–1921 for Charles, John D. and Thomas H. Bentley at Marsden.
-- [ ] John D. Bentley's birth: the index has a John Bentley born Jan–Mar 1861 in Huddersfield;
-      the tree says 21 March 1862. A certificate would also give his middle name.
-- [ ] John Bentley's marriage to Sarah Ann (Huddersfield, 1878 or 1883 in the index), to find her
-      maiden name.
-- [ ] Lauretta Jones (born Barkisland 1887): parents and family.
+## Parked: the Halifax and High Bentley Bentleys
 
-## 4. Fix the Ancestry tree
+These families are documented in `research/`, but no record connects them to this line. Pick
+them up again only if the Saddleworth line leads back to Halifax.
 
-Detach these links, which the records contradict (see
-[the two breaks](research/2026-10-10-the-two-breaks.md)):
-
-- [ ] Matthew Bentley's father: John Bentley (b. 1665, m. Grace Horsfeild) → unknown, probably
-      "old Matthew" (bap. 1664, son of Jonas).
-- [ ] John G. Bentley (b. 1640) as Jeremiah's son; Jeremiah as the son of John and Phoebe.
-- [ ] Richard Bentley (b. 1554) as Edward's son → son of Richard Bentley of Northowram. Also
-      correct Richard's death (before Aug 1600) and Isabel's (she remarried in 1600).
-- [ ] John (c.1603) and Jon "the Elder": probably one man, John of Staups House, married Agnes
-      Blackburne (1599) and Phebe (1612).
-
-## 5. The Halifax and High Bentley Bentleys (separate for now)
-
-- [ ] Read George Bentley's will (Halifax, chapman; proved 1624; York Reg. 38, f. 230) for
-      Jeremy's parentage.
-- [ ] Read the will of John Bentley of Northowram, yeoman (proved 1627; York Reg. 39, f. 214).
-      Is he John of Staups House?
-- [ ] Wakefield manor court rolls for Northowram/Hipperholme graveship, 1576 and 1593–1600: Richard
-      Bentley's admission to his father's land, and John's after Richard's death.
-- [ ] High Bentley: test whether the property passed to the Bairstows through Agnes Bentley's
-      marriage to Edward Berstowe (1542). Look for Bairstow wills and deeds of High Bentley, and
-      for John Bentley of Shelf's children.
-- [ ] Settle whether there were two John Bentleys in 1540 (William Brooke's original will, York
-      Reg. 11, f. 427; the original Halifax burial entry for 1 August 1540).
-- [ ] Find the record behind Laurence Bentley's 1496 fine for land in Shelf (probably a Wakefield
-      manor court roll).
-- [ ] Arthur Bentley "of High Bentley Hall" in 1537 (William Thorpe's charity deed).
-- [ ] Read J. Lister in *Transactions of the Halifax Antiquarian Society* (1905), *Aisled Houses in
-      the Halifax Area*, *Ancient Halls in & about Halifax* and *The Old Halls & Manor Houses of
-      Yorkshire*.
-- [ ] Earlier: the 1296 Shelf record, the 1379 poll tax, *Halifax Wills* Part I, and Foster's
-      *Pedigrees* (1874). Sir John of Monmouth only once the Yorkshire line is documented.
+- [ ] George Bentley's will (Halifax, chapman; proved 1624; York Reg. 38, f. 230) for Jeremy of
+      Elland Hall's family.
+- [ ] John Bentley of Northowram's will (proved 1627; York Reg. 39, f. 214): is he John of Staups
+      House?
+- [ ] High Bentley: did the property pass to the Bairstows through Agnes Bentley's marriage to
+      Edward Berstowe (1542)?
+- [ ] The two John Bentleys of 1540 (William Brooke's will, York Reg. 11, f. 427).
+- [ ] The 1296 Shelf record, the 1379 poll tax, Laurence Bentley's 1496 fine, and Arthur
+      Bentley "of High Bentley Hall" (1537).
 
 ## Done
 
-- [x] Settle the two breaks in the tree (10 Oct 2026): [the two breaks](research/2026-10-10-the-two-breaks.md)
-- [x] Transcribe the Ancestry tree (10 Oct 2026): [transcription](research/2026-10-10-ancestry-tree.md)
-- [x] Check each generation against the printed Halifax registers (1538–1593), FreeREG
-      (Saddleworth, to 1800), the GRO index and the Calderdale Companion (10 Oct 2026):
-      [tree check](research/2026-10-10-tree-check.md)
+- [x] Rebuild the line from Janet Bentley back using records (10 Oct 2026):
+      [the line rebuilt from records](research/2026-10-10-line-from-records.md)
+- [x] Settle the two breaks in the Ancestry tree (10 Oct 2026):
+      [the two breaks](research/2026-10-10-the-two-breaks.md)
+- [x] Transcribe and check the Ancestry tree (10 Oct 2026):
+      [transcription](research/2026-10-10-ancestry-tree.md), [tree check](research/2026-10-10-tree-check.md)
 - [x] Check the sources in the first research summary (10 Oct 2026):
       [source checks](research/2026-10-10-source-checks.md)

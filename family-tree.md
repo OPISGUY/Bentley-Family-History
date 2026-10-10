@@ -1,60 +1,63 @@
 # Family tree
 
-The family's Bentley line as the records currently support it. The Ancestry tree carries this line back
-to John G. Bentley of High Bentley Hall (died 1540), but in the 1600s it joins together families
-that aren't connected (see [the two breaks](research/2026-10-10-the-two-breaks.md)). The
-documented line is a **Saddleworth** family. It goes back to Matthew Bentley of Standedge (died
-1751), and very probably to Jonas Bentley in the 1650s and a Mathew Bentley in 1613.
+The Bentley line rebuilt from records. It starts from what the family knows for certain: Janet
+Bentley (1958–2011), her father Roy Bentley, and his father Thomas Bentley. Each earlier
+generation is added only where a record supports it.
 
-Living people are not included. The public line stops at Roy Bentley (died 1998).
+Living people are not named in this public repository.
 
-Sources and citations:
-- [The two breaks](research/2026-10-10-the-two-breaks.md): the 1500s–1600s and the Saddleworth line back to 1613
-- [Tree check](research/2026-10-10-tree-check.md): each generation of the Ancestry tree checked
-- [Source checks](research/2026-10-10-source-checks.md): High Bentley, Shelf and the 1540 records
-- [Ancestry tree transcription](research/2026-10-10-ancestry-tree.md): the tree as exported
+Full evidence and citations: [the line rebuilt from records](research/2026-10-10-line-from-records.md),
+with the Saddleworth generations of the 1600s–1700s in [the two breaks](research/2026-10-10-the-two-breaks.md)
+and the [tree check](research/2026-10-10-tree-check.md).
 
 _Last updated: 10 October 2026_
 
-## The documented line
+## The line
 
 ```mermaid
 flowchart TD
     classDef found fill:#e6f4ea,stroke:#2e7d32,color:#1b1b1b
     classDef probable fill:#fff8e1,stroke:#b8860b,color:#1b1b1b
-    classDef unchecked fill:#f3f3f3,stroke:#777777,color:#1b1b1b
+    classDef gap fill:#f3f3f3,stroke:#777777,color:#1b1b1b
 
-    S1["Mathew Bentley<br/>children bap. Saddleworth 1613, 1614"]:::probable
-    S2["Jonas Bentley<br/>sons bap. 1654, 1664<br/>bur. 1686?"]:::probable
-    S3["Mathew Bentley<br/>bap. 11 Dec 1664<br/>'old Matthew' of Standedge, bur. 1735/6"]:::probable
-    G11["Matthew Bentley of Standedge<br/>clothier, bur. 20 Nov 1751<br/>m. Sarah"]:::found
-    G12["James Bentley<br/>bap. 25 Mar 1722<br/>m. Mary Nield 1745"]:::found
-    G13["John Bentley<br/>bap. 11 Oct 1750<br/>m. Ann Broadbent 1771"]:::found
-    G14["William S. Bentley<br/>1788–1835<br/>m. Betty Bottomley"]:::unchecked
-    G15["Charles Bentley<br/>c.1827–1897<br/>m. Sarah Dyson 1855"]:::found
-    G16["John D. Bentley<br/>1861–1918"]:::found
-    G17["Thomas Herbert Bentley<br/>1888–1965<br/>m. Lauretta Jones 1920"]:::found
-    G18["Roy Bentley<br/>1930–1998"]:::found
-    PRIV["Later generations<br/>(private)"]:::unchecked
+    A1["Mathew Bentley<br/>Saddleworth, children bap. 1613–14"]:::probable
+    A2["Jonas Bentley<br/>Saddleworth, sons bap. 1654, 1664"]:::probable
+    A3["Mathew ('old Matthew') Bentley<br/>bap. 1664, bur. 1735/6, Standedge"]:::probable
+    A4["Matthew Bentley of Standedge<br/>clothier, bur. 1751; m. Sarah"]:::found
+    A5["James Bentley<br/>bap. 1722; m. Mary Nield 1745"]:::found
+    A6["John Bentley<br/>bap. 1750; m. Ann Broadbent 1771"]:::found
+    B1["William Bentley<br/>m. Betty Bottomley 1815, Saddleworth<br/>d. before 1851"]:::found
+    B2["Charles Bentley<br/>b. c.1827 Saddleworth, d. 1897<br/>m. Sarah Dyson 1855"]:::found
+    B3["John Bentley<br/>b. 1861 Marsden, d. 1918<br/>m. Sarah Ann Haigh 1883"]:::found
+    B4["Thomas Herbert Bentley<br/>b. 1888/9 Marsden, d. 1965<br/>m. Lauretta Jones 1920"]:::found
+    B5["Roy Bentley<br/>1930–1998"]:::found
+    B6["Janet Bentley<br/>1958–2011"]:::found
+    P["Living descendants<br/>(private)"]:::gap
 
-    S1 -.->|not yet proven| S2
-    S2 -->|baptism| S3
-    S3 -.->|"probable: same farm"| G11
-    G11 -->|baptism| G12
-    G12 -->|baptism| G13
-    G13 -.->|not yet checked| G14
-    G14 -.->|not yet checked| G15
-    G15 -.->|"not yet checked<br/>(census)"| G16
-    G16 -.->|"not yet checked<br/>(census)"| G17
-    G17 -->|"birth index:<br/>mother née Jones"| G18
-    G18 --- PRIV
+    A1 -.->|not yet proven| A2
+    A2 -->|baptism| A3
+    A3 -.->|"probable:<br/>same farm"| A4
+    A4 -->|baptism| A5
+    A5 -->|baptism| A6
+    A6 -.->|"not yet proven:<br/>William's baptism needed"| B1
+    B1 -->|"1851 census<br/>(Betty's son)"| B2
+    B2 -->|"1861, 1871<br/>censuses"| B3
+    B3 -->|"1891 census"| B4
+    B4 -->|"birth index:<br/>mother née Jones"| B5
+    B5 -->|family| B6
+    B6 --- P
 
-    linkStyle 1,3,4,9 stroke:#2e7d32,stroke-width:2px
+    linkStyle 1,3,4,6,7,8,9,10 stroke:#2e7d32,stroke-width:2px
 ```
 
-Boxes: green means the person is found in records matching the tree; yellow means found in
-records, with a link still to prove; grey means not yet checked. Arrows: solid green means a
-record names the parent; dashed means no record yet either way.
+Boxes: green means the person is found in records; yellow means found in records, with the link
+to the next generation still to prove. Arrows: solid green means a record (or the family's own
+knowledge, for Janet) names the parent; dashed means not yet proven.
+
+The records carry the line back **without a gap to William and Betty Bentley, married at
+Saddleworth in 1815.** One record is missing to connect William to the Saddleworth Bentleys of
+the 1700s, and through them back to 1613: his baptism, which the earlier family tree gave as
+8 April 1788, son of John and Ann.
 
 ## Evidence status
 
@@ -63,88 +66,60 @@ record names the parent; dashed means no record yet either way.
 | **Documented** | A contemporary record says it directly |
 | **Probable** | Records point strongly this way, but no single record says it |
 | **Supported** | Records point this way but don't prove it on their own |
-| **Recorded only** | In a family tree or pedigree; no record found yet |
-| **Conflicting** | Records disagree with the claim |
+| **Not yet proven** | No record found yet either way |
 
-## Generations, oldest first
+## Generations, newest first
 
-Dates in **bold** are corrections from the records.
+| Gen. | Person | Born – died | Married | Parent link | Status |
+| --- | --- | --- | --- | --- | --- |
+| 1 | **Janet Bentley** | 1958 Huddersfield – 2011 | — | Daughter of Roy (family; birth index matches) | Documented |
+| 2 | **Roy Bentley** | 1930 Huddersfield – 1998 | 1953, Upper Agbrigg (wife living) | Son of Thomas H. (birth index: mother née Jones) | Documented |
+| 3 | **Thomas Herbert Bentley** | 1888/9 Marsden – 1965 Huddersfield | **Lauretta Jones** (1887/8–1963), 1920 | Son of John and Sarah A. (1891 census) | Documented |
+| 4 | **John Bentley** | early **1861** Marsden – 1918 | **Sarah Ann Haigh** (c.1857–1934), 1883 | Son of Charles and Sarah (1861, 1871 censuses) | Documented |
+| 5 | **Charles Bentley** | c.1827 Saddleworth – 1897 | **Sarah Dyson** (c.1831–1874), 1855 | Son of Betty, widow (1851 census) | Documented (mother); probable (father) |
+| 6 | **William Bentley** | ? – before 1851 (tree: d. 1835) | **Betty Bottomley** (c.1782–?), 5 Jan 1815, Saddleworth | Parents not yet found | Probable |
+| 7 | John Bentley | bap. 1750 Saddleworth – ? | Ann Broadbent, 1771 | Son of James and Mary (baptism) | Not yet proven as William's father |
+| 8 | James Bentley | bap. 1722 Saddleworth | Mary Nield, 1745 | Son of Matthew and Sarah (baptism) | Documented |
+| 9 | Matthew Bentley of Standedge | c.1692 – 1751 | Sarah | Probably son of "old Matthew" (same farm) | Probable |
+| 10 | Mathew ("old Matthew") Bentley | bap. 1664 – 1735/6 | Ellin (d. 1719) | Son of Jonas (baptism) | Documented, if the same Mathew |
+| 11 | Jonas Bentley | fl. 1654–1664; d. 1686? | — | Not yet proven | — |
+| 12 | Mathew Bentley | fl. 1613–1614 | — | — | Earliest Bentley in the Saddleworth registers |
 
-| Person | In the records | Link to parent |
-| --- | --- | --- |
-| Mathew Bentley of Saddleworth, fl. 1613–1614 | Children An (1613) and Mathew (1614) baptised; possibly the "Mathey" Bentley buried 1657/8 | — |
-| Jonas Bentley of Saddleworth, fl. 1654–1664 | Sons John (1654) and Mathew (1664) baptised; probably the "Jonah" Bentley buried 1686 | Not yet proven |
-| Mathew ("old Matthew") Bentley of Standedge, 1664–1736 | Baptised 11 Dec 1664, son of Jonas. Children 1700–1703; wife Ellin buried 1719. Buried 26 Feb 1735/6 as "old Matthew" of Stone-edge. | Documented, if this is the same Mathew |
-| Matthew Bentley of Standedge, c.1692–1751; m. Sarah | Clothier, buried 20 Nov 1751; nine children baptised 1722–1744 | Probable (son of old Matthew) |
-| James Bentley, b. **1722**; m. Mary Nield | Baptised 25 Mar 1722, son of Matthew and Sarah; married 26 Dec 1745 | Documented |
-| John Bentley, 1750–1789; m. Ann Broadbent | Baptised 11 Oct 1750, son of James and Mary; married 2 Apr 1771 | Documented |
-| William S. Bentley, 1788–1835; m. Betty Bottomley | Not yet checked | Not yet checked |
-| Charles Bentley, b. **c.1826–27**, d. 1897; m. Sarah Dyson | Married 1855; died 1897 aged 70 | Not yet checked |
-| John D. Bentley, b. **1861**, d. 1918; m. Sarah Ann | Birth and death in the GRO index | Not yet checked |
-| Thomas Herbert Bentley, 1888–1965; m. Lauretta **Jones** | Born Jan–Mar 1889 quarter; married 1920 | Not yet checked |
-| Roy Bentley, 1930–1998 | Born 1930, mother's maiden name Jones | Supported |
+## Brothers and sisters found in the records
 
-## What happened to the Ancestry tree's earlier generations
+- **Generation 1:** Nigel C. Bentley (1954–1973) and Paul Bentley (died 2019).
+- **Generation 2:** Dorothy Bentley (1920–1989), who married Norman A. Jagger (1911–1976).
+- **Generation 3** (1891 census): Willie (c.1885), Sarah H. (c.1887) and Sam (c.1890). The family
+  also records Mary Ellen (c.1894) and John E. (c.1895).
+- **Generation 4** (1861, 1871 censuses): Elizabeth (c.1856), Rebecca (c.1859), Joseph W.
+  (c.1864), James (c.1868) and Charles E. (c.1870).
+- **Generation 5** (1851 census): John (c.1815), William (c.1827), Wright (c.1830) and Ann
+  (c.1833). The family also records a Joseph (1821), and that Joseph, William and Wright died at
+  St Kilda, Victoria, Australia.
 
-The Ancestry tree reaches Matthew Bentley through people who belong to other families:
+## Other family lines to explore
 
-| In the Ancestry tree | Who they really are | Status |
-| --- | --- | --- |
-| John Bentley (b. 1665, Saddleworth; d. Baildon) m. Grace Horsfeild | A Bingley/Baildon John Bentley, married at Bingley 1684. No baptism in 1665. | **Conflicting** as Matthew's father |
-| John G. Bentley (b. 1640, Bingley) | No record | Recorded only |
-| Jeremiah Bentley (1624–1665) m. Dority Dyson | Jeremy Bentley of Elland Hall, MP, son of **George** Bentley; children 1647–1665, no John | **Conflicting** as John G.'s father and as John & Phoebe's son |
-| John Bentley (c.1603–1651) m. Phoebe Longbotham | Probably the same man as John of Staups House, split in two. Phoebe Longbotham (bap. 1609) was someone else. | **Conflicting** |
-| Jon Bentley "the Elder" (1579–1648) m. Agnes Blackburne | John Bentley of Staups House, Shibden: bap. 18 Jan 1578/9; m. Agnes Blackburne 1599 and Phebe 1612; his **daughters** inherited | Documented as Richard's son |
-| Richard Bentley (b. 17 Aug 1554, d. 1636) m. Isabel Brodley | Richard Bentley of Staups House: son of **Richard of Northowram**; m. Isabel 22 Oct 1576; **died before Aug 1600** | Documented (baptism); conflicting with the tree's father and death date |
-| Isabel Brodley (b. 1555, d. 1589) | Probably daughter of Richard Brodley of Hipperholme, bap. 26 Sep 1555; **remarried Edward Sawley 18 Aug 1600** | Supported |
-| Edwardus Bentley of Ovenden (d. 1592) | Buried 23 Apr 1592; his own son Richard (bap. 1559) stayed in Ovenden | **Conflicting** as the father of the tree's Richard |
-| John G. Bentley of High Bentley (d. 1540); Sir John of Monmouth; James (b. 1419) | See below | Recorded only |
+Each marriage brings in another family. None has been researched yet:
 
-## The High Bentley and Shelf Bentleys (not yet connected to this line)
+- **Jones:** Lauretta Jones, born 1887/8, Barkisland (Halifax district).
+- **Haigh:** Sarah Ann Haigh, born about 1857, Marsden; her uncle Dan Haigh (born about 1820,
+  Marsden).
+- **Dyson:** Sarah Dyson, born about 1831, Marsden.
+- **Bottomley:** Betty Bottomley, born about 1782, Saddleworth.
 
-### John G. Bentley of High Bentley Hall (recorded 1504 – 1 August 1540)
+## Earlier research: the Ancestry tree and High Bentley Hall
 
-| Claim | Status | Evidence |
-| --- | --- | --- |
-| Died 1 August 1540, Halifax | **Documented**, for *a* John Bentley of Shelf | Halifax parish register: "Joh̃es Bentley de Schelff" buried 1 August 1540. Not yet proven to be the man in the Ancestry tree. |
-| Of High Bentley Hall | **Supported** | A will of 30 June 1540 mentions land "at the Hie Bentley" leased from "Agnes, the late wif of John Bentley". |
-| Same man as both of the above | **Conflicting** | "Late wife" usually means widow, which would put John's death before 30 June 1540, a month *before* the 1 August burial. There may be two John Bentleys. |
-| Born 1504 at High Bentley | **Recorded only** | Halifax registers start in 1538, so no baptism record can exist. The year is an estimate. |
-| Middle initial "G." | **Doubtful** | Middle names were almost unknown in England at this date. |
-| Son of Sir John Bentley | **Recorded only** | No record found. |
-| Father of Edward Bentley of Ovenden | **Recorded only** | No record found. |
+This project began by testing an Ancestry family tree that traced the family back to John G.
+Bentley of High Bentley Hall, Shelf, near Halifax (died 1540), and beyond to Monmouth. Checked
+against the records, that tree turned out to join several unrelated families together, so it has
+been set aside. Its correct parts (Charles Bentley onwards) match the line above.
 
-### His wife: "Agnes Waterhouse" / "Lady A M Waterhouse"
+The research is kept for reference:
 
-| Claim | Status | Evidence |
-| --- | --- | --- |
-| Wife of John Bentley | **Supported** | "Agnes, the late wif of John Bentley" held land at High Bentley by 30 June 1540 (Brooke will). |
-| Maiden name Waterhouse | **Recorded only** | No record found yet. |
-| Died 8 August 1566 at Chelmsford, Essex (Ancestry) | **Doubtful** | No known link to Essex. "Agnes Bentley vidua" (widow) married Edward Berstowe (Bairstow) at Halifax on 20 November 1542; she may be the same Agnes. |
+- [The Ancestry tree as exported](research/2026-10-10-ancestry-tree.md)
+- [The tree checked against the records](research/2026-10-10-tree-check.md)
+- [The two breaks in the tree](research/2026-10-10-the-two-breaks.md): the Halifax and Elland
+  Bentleys, and how the Saddleworth line was found
+- [High Bentley Hall, Shelf and the 1540 records](research/2026-10-10-source-checks.md)
 
-### Sir John Bentley, Isabel Brookhouse and James Bentley
-
-| Claim | Status | Evidence |
-| --- | --- | --- |
-| Sir John Bentley of Monmouth existed as described | **Recorded only** | Not yet searched. |
-| Isabel Brookhouse was John G.'s mother | **Conflicting** | Her recorded death (1503) is before John G.'s recorded birth (1504). |
-| James Bentley (b. 1419) was Sir John's father | **Recorded only** | Not yet searched. |
-
-### Bentleys and Bairstows at Shelf and High Bentley
-
-| Person | Date | Record |
-| --- | --- | --- |
-| Bentley family of Shelf | 1296 | Recorded in Shelf (Calderdale Companion; underlying record not yet identified) |
-| Thomas de Bentley | 1379 | One of 10 people in Shelf who paid poll tax |
-| William Bentley | died by 1496 | Father of Laurence |
-| Laurence Bentley | 1496 | Paid a fine for waste land in Shelf after his father's death |
-| Arthur Bentley | 1537 | "Of High Bentley Hall, Shelf"; trustee of William Thorpe's charity |
-| Agnes, late wife of John Bentley | by 30 June 1540 | Leased out land at High Bentley |
-| John Bentley of Shelf | buried 1 August 1540 | Halifax parish register |
-| Agnes Bentley, widow | 20 November 1542 | Married Edward Berstowe (Bairstow) |
-| Edward Bentley of Shelf | died by June 1543 | Daughter Margaret buried 1541; widow Margaret buried 1543 |
-| John Berstowe "de Hie Bentlei" | buried 17 January 1562/3 | Halifax parish register |
-| Thomas Bairstowe of High Bentley | will dated 12 January 1576 | York will index |
-
-By the 1560s High Bentley was in the hands of the Bairstows, possibly through Agnes's second
-marriage. See [the two breaks](research/2026-10-10-the-two-breaks.md#a-lead-on-high-bentley-hall).
+No record so far connects this family to High Bentley Hall.
