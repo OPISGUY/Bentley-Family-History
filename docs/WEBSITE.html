@@ -1,0 +1,21 @@
+<!doctype html>
+<html lang="en-GB"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="description" content="Explore the Bentley family of Marsden and Saddleworth: family groups, historical stories and the evidence behind each connection.">
+<title>The family website · Bentley Family History</title><link rel="stylesheet" href="style.css"><script defer src="app.js"></script></head>
+<body><a class="skip" href="#main">Skip to content</a><header><div class="wrap"><a class="brand" href="index.html">Bentley<small>A Pennine family history</small></a>
+<nav aria-label="Main navigation"><a href="index.html#tree">Family tree</a><a href="index.html#families">Find a family</a><a href="index.html#stories">Our story</a><a href="index.html#evidence">The evidence</a></nav></div></header>
+<main id="main" class="wrap"><article class="reading"><p class="breadcrumb"><a href="index.html">← Back to the family home</a></p><h1 id="the-family-website">The family website</h1>
+<p>The website is built and saved in <code>docs/</code>. It has a clickable generation-by-generation tree, searchable family groups, story pages, source links and print controls. Visitors need no account. GitHub Pages has not yet been enabled for this repository.</p>
+<h2 id="one-time-publishing-step">One-time publishing step</h2>
+<p>Using the existing GitHub account, open this repository&#x27;s <strong>Settings → Pages</strong>. Under <strong>Build and deployment</strong>:</p>
+<p>1. Choose <strong>Deploy from a branch</strong>. 2. Select the branch containing these files: <strong>research/charles-william-free-sources-2026-11-04</strong> (or the default branch after the changes are merged). 3. Select <strong>/docs</strong>, then <strong>Save</strong>. 4. Wait for GitHub to finish publishing. The Pages settings will show the actual <strong>Visit site</strong> link. Share that link with relatives.</p>
+<p>GitHub Pages supports public repositories on GitHub Free. No custom domain, paid upgrade, new service or account is required. <a href="https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site">GitHub&#x27;s instructions</a>.</p>
+<p>This final setting could not be changed during this session: browser approval review stopped access to GitHub&#x27;s settings because of a usage limit. The website files and research are complete in the branch; this is a publishing-settings blocker.</p>
+<h2 id="updating-the-history">Updating the history</h2>
+<p>The Markdown files in the repository remain the editable research source. <code>family-groups.md</code> supplies the family panels. <code>scripts/build_site.py</code> supplies the home page and converts the notes to readable HTML. <code>site/</code> contains the styles and interactions.</p>
+<p>After changing research or site source, run:</p>
+<details><summary>Original research diagram / notation</summary><pre>python scripts/build_site.py
+python scripts/check_site.py
+node --check site/app.js</pre></details>
+<p>Commit the changed source and rebuilt <code>docs/</code> files together. The build needs only Python&#x27;s standard library and performs no network requests. The browser needs no external scripts, fonts, analytics or account integration.</p>
+<p>The website keeps ambiguous relationships visible and does not publish living generations. Earlier research notes display a notice pointing to the newer conclusions. Do not add a person merely because their name matches.</p><p class="source-link">Research record: <a href="https://github.com/OPISGUY/Bentley-Family-History/blob/research/charles-william-free-sources-2026-11-04/WEBSITE.md">view this note on GitHub</a></p></article></main><footer><div class="wrap"><span>Made for the family. Free to explore. No account needed.<br>Living generations are kept private. Research updated 4 November 2026.</span><span><a href="research-plan.html">What we’re researching next</a><br><a href="https://github.com/OPISGUY/Bentley-Family-History">Research archive on GitHub</a></span></div></footer></body></html>

@@ -1,12 +1,28 @@
 # Bentley Family History
 
 The documented ancestry of a Bentley family of Huddersfield, Marsden and Saddleworth, in West
-Yorkshire, traced back from the present day one generation at a time using original records.
+Yorkshire, traced back from the present day one generation at a time using records, cited transcriptions and explicitly labelled secondary accounts.
 
 The aim is to record every finding with its source, so that later generations can check the
 work and carry it on.
 
-## The line so far (10 October 2026)
+## Start here — for the family
+
+You do not need to understand GitHub to read the history. Choose a starting point:
+
+| I want to… | Open this |
+| --- | --- |
+| Find a person, partner or sibling | [Browse the family groups](family-groups.md) |
+| Follow the generations back from Roy | [See the family tree](family-tree.md) |
+| Understand how far back we can go | [Read the earliest evidence and the missing links](research/2026-11-04-origins-and-limits.md) |
+| Find out why the Bentleys lived in the hills | [Explore Standedge and the new legal-record leads](research/2026-11-04-origins-and-limits.md#was-he-running-from-something) |
+| Check a claim against its source | [Read the latest evidence](research/2026-11-04-wider-family.md) |
+
+A family-friendly website has also been built in `docs/`: a clickable tree, name search, family groups, stories and printable pages. **Publication is pending GitHub Pages setup.** [One-time publishing instructions](WEBSITE.md).
+
+The earliest local Bentley record identified is from **1613**. This is neither a proven arrival date nor an unbroken pedigree back from Roy. The [explanation](research/2026-11-04-origins-and-limits.md) makes each gap explicit.
+
+## The line so far (4 November 2026)
 
 | Generation | Person | Where |
 | --- | --- | --- |
@@ -23,7 +39,7 @@ work and carry it on.
 | 11 | Mathew Bentley (fl. 1613) | Saddleworth |
 
 Most links in this list are supported by birth, marriage and death indexes, census returns or
-parish registers. Three are probable rather than proven: William (5) as Charles's father,
+parish registers. Three are probable rather than proven: identifying Charles's documented father William with the William baptised in 1788,
 "old Matthew" (9) as Matthew of Standedge's father, and Mathew (11) as Jonas's father. See
 [family-tree.md](family-tree.md) for the chart and the evidence for each generation.
 
@@ -32,11 +48,18 @@ Marsden, where they were clothiers: they made woollen cloth at home. Their farm 
 as "Bentleys". The Saddleworth registers begin in 1613, and Mathew Bentley is the first of the
 family in them. See [the Saddleworth line](research/2026-10-10-saddleworth-line.md).
 
+**New finding, 4 November 2026:** a free SHS baptism transcription names William and Betty as Charles's parents on 8 June 1828. The father's identification with the 1788 William remains probable. See the [evidence review](research/2026-11-04-charles-william-review.md).
+
+**Wider family populated:** [family-groups.md](family-groups.md) now organises the known households and adds 18 people across the Haigh and Platt branches and a new Bentley sibling. New findings include Sarah Ann's parents, Thomas and Harriet Haigh; Helen Bentley's Platt descendants; and further evidence for Lauretta's and Joseph's deaths. Supported identifications and unresolved conflicts are retained. [Evidence and access log](research/2026-11-04-wider-family.md).
+
 ## Contents
 
 | File | What's in it |
 | --- | --- |
 | [family-tree.md](family-tree.md) | The line as a chart, generation by generation, with the evidence status of each link |
+| [family-groups.md](family-groups.md) | Households, siblings, Haigh parents and Platt descendants, with evidence status |
+| [research/2026-11-04-wider-family.md](research/2026-11-04-wider-family.md) | New sources, exact searches, competing identities and date conflicts |
+| [research/2026-11-04-charles-william-review.md](research/2026-11-04-charles-william-review.md) | Charles's baptism and William's unresolved identity |
 | [research-plan.md](research-plan.md) | Records to search next, in priority order |
 | [research/2026-10-10-line-from-records.md](research/2026-10-10-line-from-records.md) | The line rebuilt from Roy Bentley back to William, with every record cited |
 | [research/2026-10-10-saddleworth-line.md](research/2026-10-10-saddleworth-line.md) | William's 1788 baptism, the Saddleworth Bentleys back to 1613, their wills, and "Bentleys", the family's farm at Standedge |
@@ -57,6 +80,7 @@ High Bentley Hall.
 
 ## Conventions
 
+- **Access.** New research uses free sources without registration. Paid copies, subscriptions and account-required routes are outside the active plan.
 - **Privacy.** This repository is public. Living people, and anyone who may still be living,
   are never named here. Family members can keep later generations in a private copy.
 - **Evidence.** Each claim gets a status: **Documented**, **Probable**, **Supported** or **Not
