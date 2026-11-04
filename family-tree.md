@@ -21,31 +21,31 @@ flowchart TD
     classDef probable fill:#fff8e1,stroke:#b8860b,color:#1b1b1b
     classDef gap fill:#f3f3f3,stroke:#777777,color:#1b1b1b
 
-    A1["Mathew Bentley<br/>Saddleworth, children bap. 1613–14"]:::probable
-    A2["Jonas Bentley<br/>sons bap. 1654, 1664<br/>d. 1686, Saddleworth"]:::probable
-    A3["Mathew ('old Matthew') Bentley<br/>bap. 1664, bur. 1735/6, Standedge"]:::probable
-    A4["Matthew Bentley of Standedge<br/>clothier, d. 1751; m. Sarah"]:::found
-    A5["James Bentley<br/>bap. 1722, d. 1790?<br/>m. Mary Nield 1745"]:::found
-    A6["John Bentley of Standedge<br/>bap. 1750, d. 1789<br/>m. Ann Broadbent 1771"]:::found
-    B1["William Bently<br/>bap. 8 April 1788<br/>son of John and Ann"]:::found
-    BF["William Bentley, clothier<br/>father of Charles; wife Betty<br/>probably m. Betty Bottomley 1815"]:::probable
-    B2["Charles Bentley<br/>b. c.1827 Saddleworth, d. 1897<br/>m. Sarah Dyson 1855"]:::found
-    B3["John Bentley<br/>b. 1861 Marsden, d. 1918<br/>m. Sarah Ann Haigh 1883"]:::found
-    B4["Thomas Herbert Bentley<br/>b. 1888/9 Marsden, d. 1965<br/>m. Lauretta Jones 1920"]:::found
-    B5["Roy Bentley<br/>1930–1998<br/>m. Margaret Cartwright 1953"]:::found
-    P["Later generations<br/>(private)"]:::gap
+    A1["Mathew Bentley, Saddleworth, children bap. 1613–14"]:::probable
+    A2["Jonas Bentley, sons bap. 1654, 1664, d. 1686, Saddleworth"]:::probable
+    A3["Mathew ('old Matthew') Bentley, bap. 1664, bur. 1735/6, Standedge"]:::probable
+    A4["Matthew Bentley of Standedge, clothier, d. 1751; m. Sarah"]:::found
+    A5["James Bentley, bap. 1722, d. 1790?, m. Mary Nield 1745"]:::found
+    A6["John Bentley of Standedge, bap. 1750, d. 1789, m. Ann Broadbent 1771"]:::found
+    B1["William Bently, bap. 8 April 1788, son of John and Ann"]:::found
+    BF["William Bentley, clothier, father of Charles; wife Betty, probably m. Betty Bottomley 1815"]:::probable
+    B2["Charles Bentley, b. c.1827 Saddleworth, d. 1897, m. Sarah Dyson 1855"]:::found
+    B3["John Bentley, b. 1861 Marsden, d. 1918, m. Sarah Ann Haigh 1883"]:::found
+    B4["Thomas Herbert Bentley, b. 1888/9 Marsden, d. 1965, m. Lauretta Jones 1920"]:::found
+    B5["Roy Bentley, 1930–1998, m. Margaret Cartwright 1953"]:::found
+    P["Later generations, (private)"]:::gap
 
     A1 -.->|not yet proven| A2
     A2 -->|baptism| A3
-    A3 -.->|"probable:<br/>same farm"| A4
+    A3 -.->|"probable:, same farm"| A4
     A4 -->|baptism| A5
     A5 -->|baptism| A6
-    A6 -->|"baptism 1788<br/>(names John and Ann)"| B1
+    A6 -->|"baptism 1788, (names John and Ann)"| B1
     B1 -.->|"probable identity"| BF
     BF -->|"baptism 8 June 1828"| B2
-    B2 -->|"1861, 1871<br/>censuses"| B3
+    B2 -->|"1861, 1871, censuses"| B3
     B3 -->|"1891 census"| B4
-    B4 -->|"birth index:<br/>mother née Jones"| B5
+    B4 -->|"birth index:, mother née Jones"| B5
     B5 --- P
 
     linkStyle 1,3,4,5,7,8,9,10 stroke:#2e7d32,stroke-width:2px
@@ -89,6 +89,10 @@ from the lord of the manor in 1791 and selling it in 1806. See
 | 10 | Jonas Bentley | fl. 1654–1664 – bur. 6 Jul 1686; administration 1686 | — | Not yet proven | — |
 | 11 | Mathew Bentley | fl. 1613–1614 | — | — | Earliest Bentley in the Saddleworth registers |
 
+## Wider family groups
+
+The [family groups](family-groups.md) expand this chart into households, siblings and collateral branches. New research identifies **Thomas and Harriet Haigh** as Sarah Ann's parents and follows **Helen Bentley's Platt branch** through children and grandchildren. The [wider-family evidence note](research/2026-11-04-wider-family.md) distinguishes directly transcribed relationships from supported identifications.
+
 ## Brothers and sisters found in the records
 
 - **Generation 1:** Dorothy Bentley (1920–1989), who married Norman A. Jagger (1911–1976).
@@ -101,21 +105,25 @@ from the lord of the manor in 1791 and selling it in 1806. See
   St Kilda, Victoria, Australia.
 - **Generation 5** (baptisms, Saddleworth): John (1776, died in infancy), John (1777, died in
   infancy), James (died 1778), William (1779, died in infancy), John (1781) and James (1784).
-- **Generation 6:** Sarah (1748), Esther (1753), Mary (1756) and James (1761).
+- **Generation 6:** Sarah (1748), Esther (1753), Mary (1756), **Betty (1759)** and James (1761).
 - **Generation 7:** Mary (1723/4), Sarah (1726), John (1728/9, died 1736), Esther (1731), Helen
   (1733/4), Anna (1736, died 1755), Matthew (1738/9), Alice (1741) and Betty (1743/4).
 
 ## Other family lines to explore
 
-Each marriage brings in another family. None has been researched yet:
+Each marriage brings in another family. The Haigh and Platt branches now have findings; the others remain open:
 
 - **Cartwright:** Margaret Cartwright, born 2 June 1934, Huddersfield; probably the Margaret
   Cartwright whose birth index entry gives her mother's maiden name as Mayall.
 - **Jones:** Lauretta Jones, born 1887/8, Barkisland (Halifax district).
-- **Haigh:** Sarah Ann Haigh, born about 1857, Marsden; her uncle Dan Haigh (born about 1820,
-  Marsden).
+- **Haigh:** Sarah Ann Haigh (c.1857–10 August 1934), daughter of **Thomas and Harriet Haigh** in the Marsden memorial index. Dan Haigh (c.1820) is an uncle in the 1891 household; his precise relationship to her parents needs checking.
+- **Platt:** Helen Bentley's family with Thomas Platt, including seven children and a further generation; see [family groups](family-groups.md#10-helen-bentley-and-thomas-platt).
 - **Dyson:** Sarah Dyson, born about 1831, Marsden.
 - **Bottomley:** Betty Bottomley, born about 1782, Saddleworth.
+
+### New date evidence and conflicts
+
+Lauretta's preferred working death date is **25 September 1963**, supported by a public newspaper OCR notice naming Thomas Herbert as her husband. John's likely memorial gives **10 November 1918**, but its age **67** conflicts with his 1861 birth evidence; the conflict remains unresolved. Joseph's 1907 St Kilda death entry names William and Betty as parents and supports the Australian identification. See [the source review](research/2026-11-04-wider-family.md).
 
 ## Earlier research: the Ancestry tree and High Bentley Hall
 
