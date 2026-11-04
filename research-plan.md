@@ -1,114 +1,87 @@
 # Research plan
 
-Records to search next, in priority order. Tick items off and note the result (with a citation)
-in a dated file under `research/`.
-
 _Last updated: 4 November 2026_
 
-**Access rule:** Active research uses free sources accessible without registration. Do not order certificates or copies, subscribe, or require account creation. Older paid/account-based suggestions below are parked historical leads, not active tasks.
+Research uses **free sources accessible without registration**. No certificate orders, subscriptions, paid copies or new accounts. The [family groups](family-groups.md) contain the populated households; the dated notes record findings and limits. An unchecked item is a research question, not evidence of a relationship.
 
-## 1. Identify William, Charles's documented father
+## 1. William and Betty: resolve the identity gap
 
-[Review, 4 November 2026](research/2026-11-04-charles-william-review.md): SHS's public transcription names William and Betty as Charles's parents at his baptism on **8 June 1828**, Standage, clothier. Identifying this father with William baptised in 1788 remains probable.
+- [x] Find Charles's baptism: 8 June 1828, St Chad's, parents William and Betty, Standage, clothier. [Review](research/2026-11-04-charles-william-review.md).
+- [x] Record the William/Betty baptism cluster, including the three separate William entries.
+- [ ] Find a public burial for William, reportedly 16 April 1835, Ridge, age 47.
+- [ ] Establish whether this father is William Bently baptised 8 April 1788 to John and Ann.
+- [ ] Check the 1819, 1823 and 1826 William entries against burials; do not infer infant deaths solely from repeated names.
+- [ ] Find Ann's baptism around 1833.
+- [ ] Investigate Harry, baptised 29 November 1835, Ridge, status “Widow”; determine whether a delayed baptism or another couple explains the mother's apparent age.
+- [ ] Seek a freely readable Charles/Sarah Dyson marriage transcription for 1855.
+- [ ] Recheck FreeREG/FreeCEN citations when anonymous access works. HTTP 503 is an access failure, not a negative record search.
+- [ ] Compare other William candidates, including the 1779 child of Thomas Rhodes and Esther Bentley.
+- [ ] Locate Meerleech and connect the 1788 child's household to later Standage records.
 
-- [x] Find Charles's baptism in a free, no-account source: SHS, 8 June 1828. The earlier 1 May date is an unverified birth claim, not the baptism date.
-- [ ] Find a publicly accessible burial record for William, reportedly at Ridge on 16 April 1835, and check his age. The date and age 47 remain unverified.
-- [ ] Investigate Harry's baptism, 29 November 1835, William and Betty, Ridge, status “Widow”. Confirm whether this is the same household before treating it as evidence of William's death.
-- [ ] Trace the three William baptisms (1819, 1823, 1826), seek associated burials, and find Ann's baptism around 1833.
-- [ ] Find a free public transcription of Charles and Sarah Dyson's 1855 marriage to corroborate the father's name and trade. No certificate purchase.
-- [ ] Recheck the existing 1788 baptism, 1815 marriage and 1851 census citations when FreeREG/FreeCEN are accessible; anonymous retrieval returned HTTP 503 during this review.
-- [ ] Rule out William baptised in 1779, son of Thomas Rhodes and Esther Bentley, and consider migrants.
-- [ ] Locate “Meerleech” and seek further evidence connecting the 1788 child to the later Standage household.
+## 2. Haigh branch and recent generations
 
-## 2. Firm up the recent generations
+- [x] Find Sarah Ann's parents: Thomas and Harriet Haigh, explicitly named in her Marsden memorial entry.
+- [x] Record Sarah Ann's 10 August 1934 death and the memorial's conflicting age for John.
+- [ ] Find a pre-1883 census identifying Sarah Ann in Thomas/Harriet's household.
+- [ ] Establish Harriet's maiden name from a public marriage or baptism transcription.
+- [ ] Test the candidate deaths: Harriet 20 December 1866, 40; Thomas 7 November 1881, 60. Do not assign them until connected.
+- [ ] Explain Dan Haigh's relationship to the family.
+- [ ] Resolve John Bentley's death: likely memorial 10 November 1918, age 67, versus census birth 1861 and civil-index candidates aged 57. Q4 1918 Huddersfield 9a/548 is favoured only if the memorial identity is correct; Q3 9a/395 remains a competing entry.
+- [x] Locate Lauretta's public death-notice extract: 25 September 1963, wife of Thomas Herbert, age 75. Original image remains unchecked.
+- [ ] Find Lauretta Jones's parents, using Barkisland/Halifax and the 1887/8 birth range.
+- [ ] Find Margaret Cartwright's parents; confirm the proposed 1934 Huddersfield birth with mother Mayall before choosing a Cartwright–Mayall marriage.
+- [ ] Identify Sarah Dyson's parents, Marsden, born around 1831.
+- [ ] Seek Roy's 1998 death in a free index or probate calendar.
+- [ ] Locate further census households for John, Sarah Ann and Thomas Herbert.
+- [ ] Find public transcriptions for the 1883 Bentley–Haigh and 1920 Bentley–Jones marriages.
+- [ ] Verify Dorothy Bentley's marriage and the family-reported younger siblings Mary Ellen and John E.
 
-- [ ] Roy's death (1998) in the GRO death index or probate calendar.
-- [ ] John Bentley's death: two John Bentleys aged 57 died in Huddersfield district in 1918
-      (Jul–Sep, vol. 9a, p. 395; Oct–Dec, vol. 9a, p. 548). A certificate would show which is
-      the one from Binn, Marsden.
-- [ ] 1881, 1901, 1911 and 1921 censuses for John, Sarah Ann and Thomas H. at Marsden.
-- [ ] John and Sarah Ann's 1883 marriage certificate (Huddersfield, vol. 9a, p. 361): her
-      father's name, and confirmation of Haigh.
-- [ ] Thomas H. and Lauretta's 1920 marriage certificate (Huddersfield, vol. 9a, p. 624).
+## 3. Platt descendants and other collateral branches
 
-## 3. The Saddleworth Bentleys, 1613–1806
+- [x] Populate Helen Bentley's seven-child Platt group; identify the secondary-source marriage link.
+- [x] Find Sarah's 1752 baptism naming Helen Bentley and Thomas Platt.
+- [x] Find Ellen's 1773 baptism naming Sarah Platt and James Wrigley.
+- [x] Corroborate four Wham/Ogden Edge children of James and Betty Platt.
+- [ ] Resolve James Platt's February 1792 baptism: dates 4, 5 and 8 appear in secondary/transcription sources.
+- [ ] Independently verify the 1753 Platt–Bentley and 1787 Platt–Garside marriages.
+- [ ] Find the Shaw record for Hannah's 1760 baptism.
+- [ ] Verify the additional children, marriages and burials suggested by Kidd before expanding further.
+- [ ] Resolve John Platt's marriage and memorial age; avoid the same-name Slackcote family.
+- [x] Add Betty Bentley, baptised 4 February 1759, to the James/Mary group.
+- [ ] Resolve Alice Bentley's January/April 1741 baptism discrepancy.
+- [ ] Identify Ann Broadbent's and Mary Nield's parents with more than matching names and dates.
+- [ ] Disambiguate Betty Bottomley's competing baptism candidates using household, marriage witnesses or other connecting evidence.
 
-See [the Saddleworth line](research/2026-10-10-saddleworth-line.md).
+All new citations and exclusions: [wider-family research](research/2026-11-04-wider-family.md).
 
-- [ ] **Matthew of Standedge's will** (proved at Chester, 1753). It should name his wife and
-      children, and may name his father. Originals for Saddleworth are at Lancashire Archives,
-      Preston (copies for a fee).
-- [ ] **James Bentley of "Standage"'s will** (Chester, 1792). Is he James, baptised 1722 and
-      buried 1790? It may name his grandchildren, including William.
-- [ ] **Jonas Bentley's administration and inventory** (Chester, 1686).
-- [ ] **John Bentley of Diggle's will** (1713): a copy is at West Yorkshire Archive Service,
-      Leeds, ACC 2433. Is he Jonas's son John, baptised 1654?
-- [ ] **The "Bentleys" deeds**, Oldham Archives D-AAB/1/1–1/5 (1791–1806): who were John Bentley
-      of Bentleys and James Bentley of Bleak Hey Nook? Free to see in person.
-- [ ] Is **Bentley Farmhouse**, Bleak Hey Nook (Grade II), the "Bentleys" of the deeds?
-- [ ] Matthew of Standedge's baptism (about 1690–1700) and his marriage to Sarah. The FreeREG
-      transcript has gaps in the 1690s; check the originals or the printed registers.
-- [ ] "Old Matthew" (baptised 1664, son of Jonas): his marriage to Ellin.
-- [ ] Is Jonas the son of the Mathew of 1613–14?
-- [ ] Abraham Bentley of Standedge (about 1708–1792): another son of old Matthew?
-- [x] Chester probate indexes, 1545–1820: searched (10 Oct 2026).
-- [x] 1379 poll tax for Saddleworth (Quick): no Bentley (10 Oct 2026).
-- [ ] Before 1613: where did the Bentleys come from? Try the 1524–25 lay subsidy and
-      Saddleworth manor records.
+## 4. Australia
 
-## Next phase: profiles and notable people
+- [x] Find a matching secondary death-index entry for Joseph Bentley, 1907, St Kilda, age 85, William/Betty, registration 06379.
+- [ ] Corroborate Joseph through independent public notices, cemetery or probate records.
+- [ ] Verify the precise 3 June 1907 date and identify his wife and children.
+- [ ] Verify William's reported 12 October 1891 death and Wright's reported 27 July 1902 death.
+- [ ] Identify migration records and Australian households without attaching unrelated same-name families.
 
-Once the line is settled, give each person in it a profile drawn from the records (home,
-occupation, children, wills and inventories, what was happening in Saddleworth and Marsden at
-the time), and look for notable people in the wider family.
+## 5. Earlier Saddleworth ancestry
 
-## 4. Other family lines
+See [the Saddleworth line](research/2026-10-10-saddleworth-line.md). The early connections remain conditional on the William identity gap.
 
-- [ ] **Cartwright:** Margaret Cartwright (born 2 June 1934, Huddersfield; died 1991). Confirm
-      her birth entry (Apr–Jun 1934, Huddersfield, vol. 9a, p. 432, mother's maiden name Mayall)
-      and find her parents' marriage (Cartwright–Mayall).
-- [ ] **Jones:** Lauretta Jones (born 1887/8, Barkisland): her parents and family.
-- [ ] **Haigh:** Sarah Ann Haigh (born about 1857, Marsden) and her uncle Dan Haigh.
-- [ ] **Dyson:** Sarah Dyson (born about 1831, Marsden).
-- [ ] **Bottomley:** Betty Bottomley (born about 1782, Saddleworth).
-- [ ] The Australian branch: Joseph, William and Wright Bentley, who died at St Kilda, Victoria.
+- [ ] Locate free images or transcriptions of Matthew's will, proved 1753, and James of Standage's will, indexed 1792.
+- [ ] Locate public versions of Jonas's 1686 administration and John of Diggle's 1713 will (WYAS ACC 2433).
+- [ ] Investigate the “Bentleys” deeds, Oldham D-AAB/1/1–1/5, 1791–1806, through available catalogues or public transcriptions.
+- [ ] Establish whether Bentley Farmhouse at Bleak Hey Nook is the deeds' property.
+- [ ] Find Matthew of Standedge's baptism and marriage to Sarah.
+- [ ] Identify old Matthew's marriage to Ellin and independently connect him to Matthew of Standedge.
+- [ ] Determine whether Jonas is the son of the Mathew appearing in 1613–14.
+- [ ] Test the possible Abraham Bentley connection without adding him as a son yet.
+- [x] Chester probate indexes and the Saddleworth 1379 poll tax searched in the October research.
 
-## 5. Fix the Ancestry tree
+## Historical leads and corrections
 
-- [ ] Correct John Bentley's birth (early 1861, not 21 March 1862) and Sarah Ann's maiden name
-      (Haigh).
-- [ ] Detach everything above Matthew Bentley of Standedge (John b. 1665, John G. b. 1640,
-      Jeremiah, John and Phoebe, Jon the Elder, Richard, Edward, John G. of High Bentley,
-      Sir John of Monmouth, James b. 1419). See [the two breaks](research/2026-10-10-the-two-breaks.md).
-- [ ] Remove "William Bentley (1781–1805)" as John and Ann's son: their 1781 baby was John, and
-      their first William died at two days old in 1779.
-- [ ] Correct Matthew and Sarah's son John: he died as a child on 26 July 1736, not in 1799.
+The old Ancestry tree and High Bentley Hall families are preserved as research history, not attached ancestors. No changes to external genealogy accounts are authorised or required.
 
-## Parked: the Halifax and High Bentley Bentleys
+Corrections already reflected in this repository include John's 1861 birth, Sarah Ann's Haigh surname, the distinction between John born 1781 and William born 1788, and the childhood death of Matthew/Sarah's son John. Earlier instructions to buy certificates or obtain paid archive copies are parked and superseded by the free/no-registration rule.
 
-These families are documented in `research/`, but no record connects them to this line. Pick
-them up again only if the Saddleworth line leads back to Halifax.
+## Completed this pass
 
-- [ ] George Bentley's will (Halifax, chapman; proved 1624; York Reg. 38, f. 230) for Jeremy of
-      Elland Hall's family.
-- [ ] John Bentley of Northowram's will (proved 1627; York Reg. 39, f. 214): is he John of Staups
-      House?
-- [ ] High Bentley: did the property pass to the Bairstows through Agnes Bentley's marriage to
-      Edward Berstowe (1542)?
-- [ ] The two John Bentleys of 1540 (William Brooke's will, York Reg. 11, f. 427).
-- [ ] The 1296 Shelf record, the 1379 poll tax, Laurence Bentley's 1496 fine, and Arthur
-      Bentley "of High Bentley Hall" (1537).
-
-## Done
-
-- [x] Find William's baptism (8 Apr 1788, FreeREG, under "Bently"); trace the Saddleworth line
-      through wills and deeds (10 Oct 2026):
-      [the Saddleworth line](research/2026-10-10-saddleworth-line.md)
-- [x] Rebuild the line from Roy Bentley back using records (10 Oct 2026):
-      [the line rebuilt from records](research/2026-10-10-line-from-records.md)
-- [x] Settle the two breaks in the Ancestry tree (10 Oct 2026):
-      [the two breaks](research/2026-10-10-the-two-breaks.md)
-- [x] Transcribe and check the Ancestry tree (10 Oct 2026):
-      [transcription](research/2026-10-10-ancestry-tree.md), [tree check](research/2026-10-10-tree-check.md)
-- [x] Check the sources in the first research summary (10 Oct 2026):
-      [source checks](research/2026-10-10-source-checks.md)
+The chart, family groups and source notes now include 18 additional people from the wider-family research, plus the previously gathered household and sibling records. The work also records competing identities and dates, so future research can resolve them without repeatedly making the same false matches.
