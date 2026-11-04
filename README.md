@@ -1,7 +1,7 @@
 # Bentley Family History
 
 The documented ancestry of a Bentley family of Huddersfield, Marsden and Saddleworth, in West
-Yorkshire, traced back from the present day one generation at a time using original records.
+Yorkshire, traced back from the present day one generation at a time using records, cited transcriptions and explicitly labelled secondary accounts.
 
 The aim is to record every finding with its source, so that later generations can check the
 work and carry it on.
@@ -34,11 +34,16 @@ family in them. See [the Saddleworth line](research/2026-10-10-saddleworth-line.
 
 **New finding, 4 November 2026:** a free SHS baptism transcription names William and Betty as Charles's parents on 8 June 1828. The father's identification with the 1788 William remains probable. See the [evidence review](research/2026-11-04-charles-william-review.md).
 
+**Wider family populated:** [family-groups.md](family-groups.md) now organises the known households and adds 18 people across the Haigh and Platt branches and a new Bentley sibling. New findings include Sarah Ann's parents, Thomas and Harriet Haigh; Helen Bentley's Platt descendants; and further evidence for Lauretta's and Joseph's deaths. Supported identifications and unresolved conflicts are retained. [Evidence and access log](research/2026-11-04-wider-family.md).
+
 ## Contents
 
 | File | What's in it |
 | --- | --- |
 | [family-tree.md](family-tree.md) | The line as a chart, generation by generation, with the evidence status of each link |
+| [family-groups.md](family-groups.md) | Households, siblings, Haigh parents and Platt descendants, with evidence status |
+| [research/2026-11-04-wider-family.md](research/2026-11-04-wider-family.md) | New sources, exact searches, competing identities and date conflicts |
+| [research/2026-11-04-charles-william-review.md](research/2026-11-04-charles-william-review.md) | Charles's baptism and William's unresolved identity |
 | [research-plan.md](research-plan.md) | Records to search next, in priority order |
 | [research/2026-10-10-line-from-records.md](research/2026-10-10-line-from-records.md) | The line rebuilt from Roy Bentley back to William, with every record cited |
 | [research/2026-10-10-saddleworth-line.md](research/2026-10-10-saddleworth-line.md) | William's 1788 baptism, the Saddleworth Bentleys back to 1613, their wills, and "Bentleys", the family's farm at Standedge |
