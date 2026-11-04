@@ -6,6 +6,22 @@ Yorkshire, traced back from the present day one generation at a time using recor
 The aim is to record every finding with its source, so that later generations can check the
 work and carry it on.
 
+## Start here — for the family
+
+You do not need to understand GitHub to read the history. Choose a starting point:
+
+| I want to… | Open this |
+| --- | --- |
+| Find a person, partner or sibling | [Browse the family groups](family-groups.md) |
+| Follow the generations back from Roy | [See the family tree](family-tree.md) |
+| Understand how far back we can go | [Read the earliest evidence and the missing links](research/2026-11-04-origins-and-limits.md) |
+| Find out why the Bentleys lived in the hills | [Explore Standedge and the new legal-record leads](research/2026-11-04-origins-and-limits.md#was-he-running-from-something) |
+| Check a claim against its source | [Read the latest evidence](research/2026-11-04-wider-family.md) |
+
+A family-friendly website has also been built in `docs/`: a clickable tree, name search, family groups, stories and printable pages. **Publication is pending GitHub Pages setup.** [One-time publishing instructions](WEBSITE.md).
+
+The earliest local Bentley record identified is from **1613**. This is neither a proven arrival date nor an unbroken pedigree back from Roy. The [explanation](research/2026-11-04-origins-and-limits.md) makes each gap explicit.
+
 ## The line so far (4 November 2026)
 
 | Generation | Person | Where |

@@ -64,6 +64,14 @@ All new citations and exclusions: [wider-family research](research/2026-11-04-wi
 
 ## 5. Earlier Saddleworth ancestry
 
+New [origins review](research/2026-11-04-origins-and-limits.md): the 1612 return has no Bentley event, but this is not a resident list. The earlier 1379–1613 migration window is not established.
+
+- [x] Inspect the published 1612 return and explain the difference between surviving registers and diocesan returns.
+- [x] Locate a Mathew Bentley wounded in the 1619–20 Manchester constables’ accounts and a Mathewe Bentley committal order in January 1638/9. Keep both unlinked to the pedigree.
+- [ ] Test those two men against the 1613 and 1614 parish household. Do not infer a migration motive from the legal records.
+- [x] Locate SHS catalogue H/KID, p. 248, listing copies of Jonas’s inventory (18 August 1686) and Matthew’s will (18 November 1751, proved 3 March 1753).
+
+
 See [the Saddleworth line](research/2026-10-10-saddleworth-line.md). The early connections remain conditional on the William identity gap.
 
 - [ ] Locate free images or transcriptions of Matthew's will, proved 1753, and James of Standage's will, indexed 1792.

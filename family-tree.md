@@ -13,6 +13,10 @@ back to 1613), with more in [the two breaks](research/2026-10-10-the-two-breaks.
 
 _Last updated: 4 November 2026_
 
+## How far back does the evidence reach?
+
+The earliest identified local Bentley appears in 1613, but three unresolved steps prevent calling this an unbroken ancestry. Read [the origins and limits](research/2026-11-04-origins-and-limits.md) for the missing relationships, record losses and new seventeenth-century legal leads. The earliest appearance is not proof of first arrival.
+
 ## The line
 
 ```mermaid
