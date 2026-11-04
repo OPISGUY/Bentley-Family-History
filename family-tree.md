@@ -11,7 +11,7 @@ Full evidence and citations: [the line rebuilt from records](research/2026-10-10
 back to 1613), with more in [the two breaks](research/2026-10-10-the-two-breaks.md) and the
 [tree check](research/2026-10-10-tree-check.md).
 
-_Last updated: 10 October 2026_
+_Last updated: 4 November 2026_
 
 ## The line
 
@@ -27,7 +27,8 @@ flowchart TD
     A4["Matthew Bentley of Standedge<br/>clothier, d. 1751; m. Sarah"]:::found
     A5["James Bentley<br/>bap. 1722, d. 1790?<br/>m. Mary Nield 1745"]:::found
     A6["John Bentley of Standedge<br/>bap. 1750, d. 1789<br/>m. Ann Broadbent 1771"]:::found
-    B1["William Bentley<br/>bap. 1788 Saddleworth, d. 1835?<br/>m. Betty Bottomley 1815"]:::probable
+    B1["William Bently<br/>bap. 8 April 1788<br/>son of John and Ann"]:::found
+    BF["William Bentley, clothier<br/>father of Charles; wife Betty<br/>probably m. Betty Bottomley 1815"]:::probable
     B2["Charles Bentley<br/>b. c.1827 Saddleworth, d. 1897<br/>m. Sarah Dyson 1855"]:::found
     B3["John Bentley<br/>b. 1861 Marsden, d. 1918<br/>m. Sarah Ann Haigh 1883"]:::found
     B4["Thomas Herbert Bentley<br/>b. 1888/9 Marsden, d. 1965<br/>m. Lauretta Jones 1920"]:::found
@@ -40,27 +41,23 @@ flowchart TD
     A4 -->|baptism| A5
     A5 -->|baptism| A6
     A6 -->|"baptism 1788<br/>(names John and Ann)"| B1
-    B1 -.->|"probable: Betty's husband<br/>(1815 marriage, 1851 census)"| B2
+    B1 -.->|"probable identity"| BF
+    BF -->|"baptism 8 June 1828"| B2
     B2 -->|"1861, 1871<br/>censuses"| B3
     B3 -->|"1891 census"| B4
     B4 -->|"birth index:<br/>mother née Jones"| B5
     B5 --- P
 
-    linkStyle 1,3,4,5,7,8,9 stroke:#2e7d32,stroke-width:2px
+    linkStyle 1,3,4,5,7,8,9,10 stroke:#2e7d32,stroke-width:2px
 ```
 
 Boxes: green means the person is found in records; yellow means found in records, but part of
 how they join the line is still inference (see the table below). Arrows: solid green means a
 record names the parent; dashed means probable, not yet proven.
 
-The records carry the line back **without a gap to William and Betty Bentley, married at
-Saddleworth in 1815**, and William's own baptism has now been found: **8 April 1788, William,
-son of John and Ann Bently, clothier.** John and Ann were the only John and Ann Bentley having
-children at Saddleworth at the time, so William's parents are documented. What is still
-inference is that this William is the one who married Betty and fathered Charles. It is very
-probable: he is the only William Bentley of the right age, and the family's own dates fit him.
-**This tree works on that assumption.** See
-[the Saddleworth line](research/2026-10-10-saddleworth-line.md#1-william-bentley-baptised-1788).
+The new [free-source review](research/2026-11-04-charles-william-review.md) found a St Chad's baptism transcription naming **William and Betty as Charles's parents on 8 June 1828**, at Standage, father a clothier. This strongly matches Charles in the previously recorded 1851 household.
+
+The remaining gap is **which William**: identifying Charles's father with William baptised on 8 April 1788 to John and Ann Bently remains probable. The baptism of that earlier William documents his parents, but does not by itself identify him as Betty's husband. The chart now separates these two Williams as identities awaiting confirmation. The older line remains a working hypothesis across that gap.
 
 The family lived at **Standedge** for at least four generations, from the 1720s to the 1800s,
 on a farm known as **"Bentleys"**. Deeds at Oldham Archives show two Bentley clothiers buying it
@@ -71,7 +68,7 @@ from the lord of the manor in 1791 and selling it in 1806. See
 
 | Status | Meaning |
 | --- | --- |
-| **Documented** | A contemporary record says it directly |
+| **Documented** | A contemporary record says it directly; where consulted through a transcription, that limitation is stated |
 | **Probable** | Records point strongly this way, but no single record says it |
 | **Supported** | Records point this way but don't prove it on their own |
 | **Not yet proven** | No record found yet either way |
@@ -83,7 +80,7 @@ from the lord of the manor in 1791 and selling it in 1806. See
 | 1 | **Roy Bentley** | 1930 Huddersfield – 1998 | **Margaret Cartwright** (1934–1991), 1953, Upper Agbrigg | Son of Thomas H. (birth index: mother née Jones) | Documented |
 | 2 | **Thomas Herbert Bentley** | 1888/9 Marsden – 1965 Huddersfield | **Lauretta Jones** (1887/8–1963), 1920 | Son of John and Sarah A. (1891 census) | Documented |
 | 3 | **John Bentley** | early **1861** Marsden – 1918 | **Sarah Ann Haigh** (c.1857–1934), 1883 | Son of Charles and Sarah (1861, 1871 censuses) | Documented |
-| 4 | **Charles Bentley** | c.1827 Saddleworth – 1897 | **Sarah Dyson** (c.1831–1874), 1855 | Son of Betty, widow (1851 census) | Documented (mother); probable (father) |
+| 4 | **Charles Bentley** | c.1827 Saddleworth – 1897 | **Sarah Dyson** (c.1831–1874), 1855 | Son of William and Betty (8 June 1828 baptism transcription); Betty in 1851 census | Documented through transcription; father’s identity with 1788 William probable |
 | 5 | **William Bentley** | bap. 8 Apr 1788 Saddleworth – before 1851 (tree: d. 1835) | **Betty Bottomley** (c.1782–?), 5 Jan 1815, Saddleworth | Son of John and Ann (baptism) | Documented (parents); probable that he is Betty's husband |
 | 6 | John Bentley of Standedge, clothier | bap. 1750 Saddleworth – bur. 15 Nov 1789, Standedge | Ann Broadbent, 1771 | Son of James and Mary (baptism) | Documented |
 | 7 | James Bentley, clothier | bap. 1722 Saddleworth – probably bur. 8 Feb 1790, Standedge | Mary Nield, 1745 | Son of Matthew and Sarah (baptism) | Documented |
