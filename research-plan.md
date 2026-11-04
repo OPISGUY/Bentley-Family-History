@@ -3,29 +3,22 @@
 Records to search next, in priority order. Tick items off and note the result (with a citation)
 in a dated file under `research/`.
 
-_Last updated: 10 October 2026_
+_Last updated: 4 November 2026_
 
-## 1. Confirm William Bentley as Charles's father
+**Access rule:** Active research uses free sources accessible without registration. Do not order certificates or copies, subscribe, or require account creation. Older paid/account-based suggestions below are parked historical leads, not active tasks.
 
-William's baptism has been found (8 April 1788, son of John and Ann Bently, clothier): see
-[the Saddleworth line](research/2026-10-10-saddleworth-line.md#1-william-bentley-baptised-1788).
-What is left is to prove that this William is the one who married Betty Bottomley in 1815 and
-fathered Charles. The first three records are the strongest tests:
+## 1. Identify William, Charles's documented father
 
-- [ ] **William's burial, 16 April 1835**, at Ridge, Saddleworth (the Ancestry tree's date). An
-      age of about 47 would tie him to the 1788 baptism. Saddleworth burials after 1800 aren't on
-      FreeREG. Try FamilySearch (free with an account) or Oldham Archives.
-- [ ] **Charles's baptism, 1 May 1828**, Saddleworth: does it name William and Betty, and give
-      Standedge? Same sources.
-- [ ] **Charles's marriage certificate:** Charles Bentley and Sarah Dyson, Jul–Sep 1855,
-      Huddersfield, vol. 9a, p. 262. It names Charles's father. A PDF copy from the
-      [General Register Office](https://www.gov.uk/order-copy-birth-death-marriage-certificate)
-      costs a small fee.
-- [ ] **Betty's burial** (tree: 18 February 1859, Carr Clough, Marsden) and the **1841 census**
-      (Betty and the younger children).
-- [ ] Where was **"Meerleech"**, William's birthplace? Probably near Standedge.
-- [ ] Rule out the other William: William, son of Thomas Rhodes and Esther Bentley, baptised
-      4 April 1779. Was he known as Rhodes, and what happened to him?
+[Review, 4 November 2026](research/2026-11-04-charles-william-review.md): SHS's public transcription names William and Betty as Charles's parents at his baptism on **8 June 1828**, Standage, clothier. Identifying this father with William baptised in 1788 remains probable.
+
+- [x] Find Charles's baptism in a free, no-account source: SHS, 8 June 1828. The earlier 1 May date is an unverified birth claim, not the baptism date.
+- [ ] Find a publicly accessible burial record for William, reportedly at Ridge on 16 April 1835, and check his age. The date and age 47 remain unverified.
+- [ ] Investigate Harry's baptism, 29 November 1835, William and Betty, Ridge, status “Widow”. Confirm whether this is the same household before treating it as evidence of William's death.
+- [ ] Trace the three William baptisms (1819, 1823, 1826), seek associated burials, and find Ann's baptism around 1833.
+- [ ] Find a free public transcription of Charles and Sarah Dyson's 1855 marriage to corroborate the father's name and trade. No certificate purchase.
+- [ ] Recheck the existing 1788 baptism, 1815 marriage and 1851 census citations when FreeREG/FreeCEN are accessible; anonymous retrieval returned HTTP 503 during this review.
+- [ ] Rule out William baptised in 1779, son of Thomas Rhodes and Esther Bentley, and consider migrants.
+- [ ] Locate “Meerleech” and seek further evidence connecting the 1788 child to the later Standage household.
 
 ## 2. Firm up the recent generations
 
