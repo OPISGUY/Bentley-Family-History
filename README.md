@@ -6,7 +6,7 @@ Yorkshire, traced back from the present day one generation at a time using origi
 The aim is to record every finding with its source, so that later generations can check the
 work and carry it on.
 
-## The line so far (10 October 2026)
+## The line so far (4 November 2026)
 
 | Generation | Person | Where |
 | --- | --- | --- |
@@ -23,7 +23,7 @@ work and carry it on.
 | 11 | Mathew Bentley (fl. 1613) | Saddleworth |
 
 Most links in this list are supported by birth, marriage and death indexes, census returns or
-parish registers. Three are probable rather than proven: William (5) as Charles's father,
+parish registers. Three are probable rather than proven: identifying Charles's documented father William with the William baptised in 1788,
 "old Matthew" (9) as Matthew of Standedge's father, and Mathew (11) as Jonas's father. See
 [family-tree.md](family-tree.md) for the chart and the evidence for each generation.
 
@@ -31,6 +31,8 @@ The family lived for generations at Standedge, high on the Pennines between Sadd
 Marsden, where they were clothiers: they made woollen cloth at home. Their farm there was known
 as "Bentleys". The Saddleworth registers begin in 1613, and Mathew Bentley is the first of the
 family in them. See [the Saddleworth line](research/2026-10-10-saddleworth-line.md).
+
+**New finding, 4 November 2026:** a free SHS baptism transcription names William and Betty as Charles's parents on 8 June 1828. The father's identification with the 1788 William remains probable. See the [evidence review](research/2026-11-04-charles-william-review.md).
 
 ## Contents
 
@@ -57,6 +59,7 @@ High Bentley Hall.
 
 ## Conventions
 
+- **Access.** New research uses free sources without registration. Paid copies, subscriptions and account-required routes are outside the active plan.
 - **Privacy.** This repository is public. Living people, and anyone who may still be living,
   are never named here. Family members can keep later generations in a private copy.
 - **Evidence.** Each claim gets a status: **Documented**, **Probable**, **Supported** or **Not
