@@ -8,7 +8,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 OUT = ROOT / 'docs'
 REPO = 'https://github.com/OPISGUY/Bentley-Family-History'
-REF = 'research/charles-william-free-sources-2026-11-04'
+REF = 'ccr-469e384c-x98nc5'
 
 def slug(text):
     return re.sub(r'[^\w\s-]', '', text.lower()).replace(' ', '-')

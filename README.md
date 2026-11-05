@@ -22,7 +22,9 @@ A family-friendly website has also been built in `docs/`: a clickable tree, name
 
 The earliest local Bentley record identified is from **1613**. This is neither a proven arrival date nor an unbroken pedigree back from Roy. The [explanation](research/2026-11-04-origins-and-limits.md) makes each gap explicit.
 
-## The line so far (4 November 2026)
+Latest search: [5 November — earlier-line searches and new collateral leads](research/2026-11-05-earlier-line-search.md). No new earlier generation has yet been proved.
+
+## The line so far (5 November 2026)
 
 | Generation | Person | Where |
 | --- | --- | --- |
@@ -39,8 +41,7 @@ The earliest local Bentley record identified is from **1613**. This is neither a
 | 11 | Mathew Bentley (fl. 1613) | Saddleworth |
 
 Most links in this list are supported by birth, marriage and death indexes, census returns or
-parish registers. Three are probable rather than proven: identifying Charles's documented father William with the William baptised in 1788,
-"old Matthew" (9) as Matthew of Standedge's father, and Mathew (11) as Jonas's father. See
+parish registers. Important links remain unresolved: identifying Charles's documented father William with the William baptised in 1788; identifying the 1664 child with "old Matthew"; and establishing the younger Matthew's parentage. The relationship of Mathew (11) to Jonas is unknown, not a demonstrated father–son link. See
 [family-tree.md](family-tree.md) for the chart and the evidence for each generation.
 
 The family lived for generations at Standedge, high on the Pennines between Saddleworth and

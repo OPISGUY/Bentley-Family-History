@@ -1,6 +1,6 @@
 # Research plan
 
-_Last updated: 4 November 2026_
+_Last updated: 5 November 2026_
 
 Research uses **free sources accessible without registration**. No certificate orders, subscriptions, paid copies or new accounts. The [family groups](family-groups.md) contain the populated households; the dated notes record findings and limits. An unchecked item is a research question, not evidence of a relationship.
 
@@ -93,3 +93,13 @@ Corrections already reflected in this repository include John's 1861 birth, Sara
 ## Completed this pass
 
 The chart, family groups and source notes now include 18 additional people from the wider-family research, plus the previously gathered household and sibling records. The work also records competing identities and dates, so future research can resolve them without repeatedly making the same false matches.
+
+## Follow-up to the 5 November search
+
+- [x] Check the published 1696 register supplement: no Bentley entry.
+- [x] Search the Rochdale marriage transcription, 1683–1700: John Bentley–Sara Birchley, 1684; identity unresolved.
+- [ ] Test Mary Bentley of Standedge, bride of John Hall on 1 February 1781, against James and Mary's daughter baptised 1756.
+- [ ] Identify Matthew Bentley at Woodmans in 1784; he is not the man who died in 1751.
+- [ ] Locate freely readable copies of the H/KID probate papers; catalogue descriptions alone do not establish parentage.
+
+[Full search results and sources](research/2026-11-05-earlier-line-search.md).
