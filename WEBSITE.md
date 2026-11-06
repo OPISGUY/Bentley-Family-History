@@ -1,19 +1,8 @@
 # The family website
 
-The website is built and saved in `docs/`. It has a clickable generation-by-generation tree, searchable family groups, story pages, source links and print controls. Visitors need no account. GitHub Pages has not yet been enabled for this repository.
+Visit [Bentley Family History](https://opisguy.github.io/Bentley-Family-History/). GitHub Pages is enabled. Visitors need no account or payment.
 
-## One-time publishing step
-
-Using the existing GitHub account, open this repository's **Settings → Pages**. Under **Build and deployment**:
-
-1. Choose **Deploy from a branch**.
-2. Select the branch containing these files: **ccr-469e384c-x98nc5** (the default branch).
-3. Select **/docs**, then **Save**.
-4. Wait for GitHub to finish publishing. The Pages settings will show the actual **Visit site** link. Share that link with relatives.
-
-GitHub Pages supports public repositories on GitHub Free. No custom domain, paid upgrade, new service or account is required. [GitHub's instructions](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site).
-
-The website and research changes were merged into the default branch in PR #1. Pages setup remains pending: the available browser was signed out of GitHub, and the connected repository tools do not expose Pages administration. Publication is authorised; another approval is not required.
+The published branch is `research/charles-william-free-sources-2026-11-04`, deployed from its root. The root landing page forwards visitors to the generated family website in `docs/`; a visible link works if automatic forwarding is unavailable. The default branch also holds the same research and website updates.
 
 ## Updating the history
 

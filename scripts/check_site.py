@@ -31,7 +31,7 @@ for path, page in pages.items():
         elif u.fragment and target in pages and unquote(u.fragment) not in pages[target].ids:
             errors.append(f'{path.name}: missing anchor {link}')
 home = pages[(ROOT / 'index.html').resolve()]
-if home.families != [f'family-{n}' for n in range(1,12)]: errors.append('Expected eleven uniquely ordered family panels')
+if home.families != [f'family-{n}' for n in range(1,15)]: errors.append('Expected fourteen uniquely ordered family panels')
 if not (ROOT / '.nojekyll').is_file(): errors.append('Missing .nojekyll')
 if errors: raise SystemExit('\n'.join(errors))
-print(f'Passed: {len(pages)} pages, {sum(len(p.links) for p in pages.values())} links, assets, anchors and 11 family panels.')
+print(f'Passed: {len(pages)} pages, {sum(len(p.links) for p in pages.values())} links, assets, anchors and 14 family panels.')

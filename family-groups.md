@@ -1,6 +1,6 @@
 # Family groups
 
-_Last updated: 4 November 2026_
+_Last updated: 5 November 2026_
 
 This is the populated companion to [the direct-line chart](family-tree.md). It includes siblings and the newly researched Haigh and Platt branches. It is not a claim that every child or spouse has been found. Living and possibly living people are excluded.
 
@@ -90,7 +90,7 @@ Baptisms are at St Chad's; father a clothier in the earlier entries. The three W
 
 1851: Betty, widow, age 69, Carr Clough, HO107/2291 f.133 p.9. Sources: R, CW.
 
-**Australian branch:** a secondary Victorian index gives Joseph's death in 1907, St Kilda, age 85, parents William Bentley and Betty, registration 06379. This supports the 1821 Joseph but does not verify 3 June. William's reported 12 October 1891 and Wright's reported 27 July 1902 deaths at St Kilda remain F. Wives, children and migration details are not yet established. Source: NEW.
+**Australian branch:** death-index transcriptions now support all three brothers at St Kilda: Joseph (1907 / 06379, age 85, parents William and Betty), William (1891 / 18081, age 66, parents William and “Bottombey Betty”), and Wright (1902 / 11699, age 70, parents William and Betty Bottomley). These are S identifications across records; exact death days remain unverified. Three candidate households with children appear below. Their fathers' identity with these brothers still needs corroboration. [Full Australian evidence and conflicts](research/2026-11-05-australian-households.md).
 
 ## 7. John Bentley and Ann Broadbent
 
@@ -178,3 +178,55 @@ This is a partial child list. Other children and marriages suggested in the seco
 | Mathew baptised 1664, probably “old Matthew”; Ellin, died 1719 | Matthew of Standedge, died 1751, is a proposed son | Probable identity and parent link; not a documented baptism, SAD |
 
 No descent from High Bentley Hall is asserted. Further ancestors of the spouses remain research questions rather than invented entries.
+
+
+## 12. Joseph Bentley and Irvine Nisbett — Australian connection unproved
+
+Marriage 1854 / 01499. Children name Joseph and Irvine (variously Nisbet/Nesbit/Nesbitt). Irvine probably died in 1861, registration 06859, age 37.
+
+**Connection to our Bentley line is unproved.** The parent-child relationships below are D in a public index transcription, not inspected certificates.
+
+| Child | Victorian registration |
+| --- | --- |
+| William Bentley | 1855 / 01308 |
+| Mary Ann Bentley | 1857 / 05408; died 1858 / 03916, age 1 |
+| Archibald Bentley | 1859 / 19982 |
+| Joseph Bentley | 1861 / 19226 |
+
+[Sources, places, conflicts and next-generation leads](research/2026-11-05-australian-households.md).
+
+
+## 13. Joseph Bentley and Ann Jones — separate candidate household
+
+Marriage 1865 / 00835. This could be Irvine’s widower remarrying, but the identity has not been established. Do not merge the two Josephs yet.
+
+**Connection to our Bentley line is unproved.** The parent-child relationships below are D in a public index transcription, not inspected certificates.
+
+| Child | Victorian registration |
+| --- | --- |
+| David Bentley | 1866 / 05091 |
+| Eliza Bentley | 1868 / 05634 |
+| Dorothy Jane Bentley | 1870 / 26533 |
+| Ann Bentley | 1873 / 12966; died 1875 / 15259, age 2 |
+| Henry Joseph Bentley | 1876 / 12517 |
+
+[Sources, places, conflicts and next-generation leads](research/2026-11-05-australian-households.md).
+
+
+## 14. William Bentley and Hannah Thorpe — Australian connection unproved
+
+Marriage not yet established. The children’s records name William and Hannah Thorpe/Thorp. Hannah’s likely death is 1901 / 15624, age 66, parents John Thorpe and Mally Wrigley.
+
+**Connection to our Bentley line is unproved.** The parent-child relationships below are D in a public index transcription, not inspected certificates.
+
+| Child | Victorian registration |
+| --- | --- |
+| Joseph Bentley | Death 1858 / 03915, age 1, birthplace York |
+| Anne Bentley | 1859 / 19983 |
+| John William Bentley | 1865 / 25174 |
+| Charles Henry Bentley | 1869 / 19011 |
+| James Thomas Bentley | 1871 / 12574 |
+| Ada Sarah Bentley | 1873 / 20446 |
+| Elsie May Bentley | 1882 / 26069 |
+
+[Sources, places, conflicts and next-generation leads](research/2026-11-05-australian-households.md).

@@ -103,3 +103,17 @@ The chart, family groups and source notes now include 18 additional people from 
 - [ ] Locate freely readable copies of the H/KID probate papers; catalogue descriptions alone do not establish parentage.
 
 [Full search results and sources](research/2026-11-05-earlier-line-search.md).
+
+
+## Update: 5 November — collateral households
+
+- [x] Record Victorian death-index support for William, Wright and Joseph, with parent names and registration references.
+- [x] Populate three separately labelled Australian candidate households: 16 children in total.
+- [x] Record next-generation marriage candidates without treating parentage as proved.
+- [x] Preserve nearby Standedge baptism households as unplaced research leads.
+- [x] Update the enabled Pages site's root landing page.
+- [ ] Find a free record explicitly connecting the Australian spouses and children to the brothers whose parents were William and Betty.
+- [ ] Establish whether the Joseph/Irvine and Joseph/Ann households have the same father.
+- [ ] Resolve the William 1788 identity and the earlier Matthew/Jonas gaps before extending the direct pedigree.
+
+[Australian evidence](research/2026-11-05-australian-households.md) · [Standedge households](research/2026-11-05-standedge-households.md).

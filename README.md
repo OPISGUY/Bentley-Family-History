@@ -18,7 +18,7 @@ You do not need to understand GitHub to read the history. Choose a starting poin
 | Find out why the Bentleys lived in the hills | [Explore Standedge and the new legal-record leads](research/2026-11-04-origins-and-limits.md#was-he-running-from-something) |
 | Check a claim against its source | [Read the latest evidence](research/2026-11-04-wider-family.md) |
 
-A family-friendly website has also been built in `docs/`: a clickable tree, name search, family groups, stories and printable pages. **Publication is pending GitHub Pages setup.** [One-time publishing instructions](WEBSITE.md).
+Visit the [family website](https://opisguy.github.io/Bentley-Family-History/): a clickable tree, name search, family groups, stories and printable pages. No account is needed.
 
 The earliest local Bentley record identified is from **1613**. This is neither a proven arrival date nor an unbroken pedigree back from Roy. The [explanation](research/2026-11-04-origins-and-limits.md) makes each gap explicit.
 
@@ -111,3 +111,5 @@ High Bentley Hall.
   records held in local archives (e.g. the "Bentleys" deeds at Oldham Archives)
 - [GENUKI](https://www.genuki.org.uk/): the 1379 poll tax for the West Riding
 - [Calderdale Companion](https://www.calderdalecompanion.co.uk/) (Malcolm Bull)
+
+Latest additions: [Australian households and children](research/2026-11-05-australian-households.md), with uncertain identities clearly marked; [unplaced Standedge households](research/2026-11-05-standedge-households.md) for testing possible sibling connections.
