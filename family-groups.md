@@ -121,6 +121,21 @@ James, baptised 25 March 1722, son of Matthew and Sarah; probable burial 8 Febru
 | **Betty Bentley** | **4 February 1759**, Stand-edge | D parent names; S identification of couple, NEW |
 | James Bentley | 24 May 1761 | D, SAD and SHS transcription |
 
+### Mary Bentley and the Hall children at Standedge
+
+Mary Bentley of Standedge married John Hall on 1 February 1781. Her baptismal identity is open. She may be the Mary in the table above. Six St Chad’s baptisms name John and Mary Hall at Standedge or Standedge Foot. John was baptised just three days after the wedding. The entries describe the father as a clothier in 1781–86 and a labourer in 1788 and 1792. The parents’ names and place support a household match, but the entries give no maiden name for Mary.
+
+| Hall child | Baptism |
+| --- | --- |
+| John | 4 February 1781 |
+| Mary | 5 April 1783 |
+| Sarah | 29 January 1786 |
+| Abraham | 24 October 1788 |
+| James | 16 January 1792 |
+| Jonas | 16 April 1797 |
+
+A second James was baptised to a John and Mary Hall of Ryehole in October 1792. His different home and chapel give reason to keep him separate. [Marriage source](research/2026-11-05-earlier-line-search.md) · [Saddleworth baptism transcriptions](https://www.saddleworth-historical-society.org.uk/baptisms-search-results/?surname=Hall&fathersname=John&mothersname=Mary).
+
 ## 9. Matthew Bentley of Standedge and Sarah
 
 Matthew, clothier, buried 20 November 1751; will proved 1753. Sarah's surname is unknown: “Joanes” from the earlier tree has not been established. The link to old Matthew remains probable. Source: SAD.
@@ -168,6 +183,19 @@ Marriage **4 January 1787**, supported by Kidd. The Wham/Ogden Edge baptism clus
 | John Platt | 30 March 1794 | Ogden Edge, Delph Independent; D |
 
 This is a partial child list. Other children and marriages suggested in the secondary account await independent corroboration.
+
+### More of Helen Bentley’s grandchildren
+
+L. N. Kidd identifies four more children of James Platt and Betty. His account gives precise register dates for Ellen and Joseph. Mary and Betty have weaker evidence for their parentage. These identifications come through Kidd’s research.
+
+| Grandchild | Record or family detail reported by Kidd |
+| --- | --- |
+| Ellen Platt | Born 15 February 1803. Registered at Ogden Baptist on 9 March 1803. |
+| Joseph Platt | Born 15 July 1805. Registered at Ogden Baptist on 31 July 1805. |
+| Mary Platt | Reported marriage to Abraham Henthorn of Whiteslack in 1818 at Rochdale. Her baptism is unresolved. |
+| Betty Platt | Reported marriage to Charles Broadbent in 1817 at Rochdale. Her baptism is unresolved. |
+
+Kidd also traces Hannah Platt, the eldest listed above, to a marriage with John Gartside at Rochdale on 21 May 1810. He reports her death at Liverpool on 6 August 1833, aged 45. James Platt’s will, dated 17 March 1815 according to Kidd, identifies sons James and John as executors and distinguishes Jeremiah Garside as Betty’s son. [Kidd’s article, printed pages 5–6](https://www.saddleworth-historical-society.org.uk/wp-content/uploads/2016/04/vol24no3-2.pdf).
 
 ## 11. Earlier Bentley generations
 
