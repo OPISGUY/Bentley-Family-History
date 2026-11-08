@@ -40,3 +40,37 @@ let beforePrint = [];
 window.addEventListener('beforeprint', () => {beforePrint = families.map(f => f.open); families.forEach(f => f.open = true);});
 window.addEventListener('afterprint', () => families.forEach((f,i) => f.open = beforePrint[i]));
 document.querySelectorAll('[data-print]').forEach(button => button.addEventListener('click', () => window.print()));
+
+const generations = [...document.querySelectorAll('.generation')];
+if (generations.length) {
+  const choice = document.querySelector('#generation-select');
+  const younger = document.querySelector('#younger');
+  const older = document.querySelector('#older');
+  let current = 3;
+  function show(index) {
+    current = index;
+    const key = generations[index].id;
+    choice.value = key;
+    generations.forEach((panel, i) => panel.hidden = i !== index);
+    document.querySelectorAll('.index a').forEach((link, i) => {
+      if (i === index) link.setAttribute('aria-current', 'true');
+      else link.removeAttribute('aria-current');
+    });
+    younger.disabled = index === 0;
+    older.disabled = index === generations.length - 1;
+  }
+  function followHash() {
+    const index = generations.findIndex(panel => '#' + panel.id === location.hash);
+    if (index >= 0) show(index);
+  }
+  function jump(index) {
+    show(index);
+    location.hash = generations[index].id;
+  }
+  choice.addEventListener('change', () => jump(choice.selectedIndex));
+  younger.addEventListener('click', () => jump(current - 1));
+  older.addEventListener('click', () => jump(current + 1));
+  window.addEventListener('hashchange', followHash);
+  show(current);
+  followHash();
+}
