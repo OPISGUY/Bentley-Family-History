@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """Build the family website using Python's standard library. No network or packages."""
 from tree_view import tree
+import hashlib
 import html
 import re
 import shutil
@@ -124,7 +125,11 @@ def home():
     body = tree(sections)
     body += """<section id="families"><h2>Family directory</h2><p>Look up a name, place or year to see the household and its records.</p><div class="tools js-only"><label>Find a person<input id="family-search" type="search" placeholder="Name, place or year"></label><label>Family<select id="branch"><option value="all">All families</option><option value="bentley">Bentley and spouses</option><option value="haigh">Haigh</option><option value="platt">Platt</option></select></label><button id="reset" class="secondary">Clear</button></div><div class="actions js-only"><button id="expand" class="secondary">Open results</button><button id="collapse" class="secondary">Close results</button><button data-print class="secondary">Print</button></div><p id="result-count" role="status"></p><p id="no-results" hidden>No matching household. Try a surname or clear the filters.</p><p class="small">D = documented record · S = supported identification · F = family account</p>""" + ''.join(family_html) + '</section>'
     body += """<section id="stories"><h2>Family stories</h2><div class="story-grid"><a class="story" href="research/2026-11-04-origins-and-limits.html"><h3>Why Standedge?</h3><p>The earliest Bentleys and the records that place them in the hills.</p></a><a class="story" href="research/2026-11-05-australian-households.html"><h3>From Saddleworth to St Kilda</h3><p>Follow the names of Joseph, William and Wright to Australia.</p></a></div></section><section id="evidence"><h2>Research and sources</h2><p><a href="research-plan.html">Research questions</a> · <a href="research/2026-11-05-earlier-line-search.html">Earlier Bentley records</a> · <a href="family-groups.html">All family records</a></p></section>"""
-    (OUT / 'index.html').write_text(shell('Our family', body))
+    page = shell('Our family', body)
+    for asset in ('style.css', 'app.js'):
+        version = hashlib.sha256((OUT / asset).read_bytes()).hexdigest()[:10]
+        page = page.replace(f'"{asset}"', f'"{asset}?v={version}"')
+    (OUT / 'index.html').write_text(page)
 
 def build():
     OUT.mkdir(exist_ok=True)
