@@ -113,7 +113,33 @@ def article(path):
     dest.parent.mkdir(parents=True, exist_ok=True)
     dest.write_text(shell(title, body, depth))
 
-def home():
+def publish_stories():
+    sources = (ROOT / 'bentley-lives.md').read_text()
+    chapters = re.findall(r'^## (.+)$', sources, re.M)
+    order = [slug(title) for title in chapters[:-1]]
+    extra = {'old-matthew-of-stone-edge': order[1], 'ann-at-carr-clough': order[7]}
+    for key, source in extra.items():
+        order.insert(order.index(source) + 1, key)
+    stories = []
+    for key in order:
+        title, setting, prose = (ROOT / 'stories' / f'{key}.md').read_text().strip().split('\n\n', 2)
+        stories.append((key, title.removeprefix('# '), setting, prose))
+    (OUT / 'stories').mkdir(exist_ok=True)
+    for i, (key, title, setting, prose) in enumerate(stories):
+        source = extra.get(key, key)
+        next_link = '<a href="../bentley-lives.html">Back to all stories</a>'
+        if i + 1 < len(stories):
+            next_key, next_title, *_ = stories[i+1]
+            next_link = f'<a href="{next_key}.html">Next story: {html.escape(next_title)} →</a>'
+        body = f'<article class="reading life"><a href="../bentley-lives.html">← Family stories</a><p class="dateline">{html.escape(setting)}</p><h1>{html.escape(title)}</h1>{markdown(prose)}<details class="records"><summary>Records behind this story</summary><p><a href="../life-sources.html#{source}">Read the evidence and original references</a></p></details><p class="next-life">{next_link}</p></article>'
+        (OUT / 'stories' / f'{key}.html').write_text(shell(title, body, 1))
+    shelf = ''.join(f'<li id="{key}"><a href="stories/{key}.html"><strong>{html.escape(title)}</strong><span>{html.escape(setting)}</span></a></li>' for key,title,setting,_ in stories)
+    body = '<article class="reading"><h1>Family stories</h1><p>From a baptism in Saddleworth to a wedding in postwar Yorkshire.</p><ol class="bookshelf">' + shelf + '</ol><p id="' + slug(chapters[-1]) + '"><a href="life-sources.html#' + slug(chapters[-1]) + '">Newspapers and military searches</a></p></article>'
+    (OUT / 'bentley-lives.html').write_text(shell('Family stories', body))
+    (OUT / 'life-sources.html').write_text(shell('Records behind the stories', '<article class="reading"><a href="bentley-lives.html">← Family stories</a>'+markdown(sources.replace('# The lives of the Bentleys', '# Records behind the stories', 1))+'</article>'))
+    return shelf
+
+def home(shelf):
     groups_text = (ROOT / 'family-groups.md').read_text()
     sections = re.split(r'^## ', groups_text, flags=re.M)[1:]
     family_html = []
@@ -124,10 +150,7 @@ def home():
         family_html.append(f'<details class="family" id="family-{n}" data-branch="{group}"><summary>{html.escape(clean_title)}</summary><div class="family-body">{markdown(content)}<a class="permalink" href="#family-{n}">Link to this family</a></div></details>')
     body = tree(sections)
     body += """<section id="families"><h2>Family directory</h2><p>Look up a name, place or year to see the household and its records.</p><div class="tools js-only"><label>Find a person<input id="family-search" type="search" placeholder="Name, place or year"></label><label>Family<select id="branch"><option value="all">All families</option><option value="bentley">Bentley and spouses</option><option value="haigh">Haigh</option><option value="platt">Platt</option></select></label><button id="reset" class="secondary">Clear</button></div><div class="actions js-only"><button id="expand" class="secondary">Open results</button><button id="collapse" class="secondary">Close results</button><button data-print class="secondary">Print</button></div><p id="result-count" role="status"></p><p id="no-results" hidden>No matching household. Try a surname or clear the filters.</p><p class="small">D = documented record · S = supported identification · F = family account</p>""" + ''.join(family_html) + '</section>'
-    chapters = (ROOT / 'bentley-lives.md').read_text()
-    story_links = ''.join(f'<li><a href="bentley-lives.html#{slug(title)}">{html.escape(title)}</a></li>'
-                          for title in re.findall(r'^## (.+)$', chapters, re.M))
-    body += '<section id="stories"><h2>Family stories</h2><p>From An’s baptism in 1613 to Roy and Margaret’s wedding in 1953. Choose a life to read.</p><ol class="chapter-list">' + story_links + '</ol><a class="button" href="bentley-lives.html">Read from the beginning →</a></section>'
+    body += '<section id="stories"><h2>Family stories</h2><ol class="bookshelf">' + re.sub(r' id="[^"]+"','',shelf) + '</ol></section>'
     body += """<section id="evidence"><h2>Research and sources</h2><p><a href="research-plan.html">Research questions</a> · <a href="research/2026-11-05-earlier-line-search.html">Earlier Bentley records</a> · <a href="family-groups.html">All family records</a></p></section>"""
     page = shell('Our family', body)
     for asset in ('style.css', 'app.js'):
@@ -142,7 +165,7 @@ def build():
     (OUT / '.nojekyll').write_text('')
     for path in sorted(ROOT.glob('*.md')) + sorted((ROOT / 'research').glob('*.md')):
         article(path)
-    home()
+    home(publish_stories())
     print(f'Built {len(list(OUT.rglob("*.html")))} pages in docs/')
 
 if __name__ == '__main__':

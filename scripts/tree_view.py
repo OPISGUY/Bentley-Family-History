@@ -32,7 +32,7 @@ LIFE_CHAPTERS = [
     'john-the-piecer-becomes-a-weaver', 'charles-leaves-weaving-for-stone',
     'betty-and-the-four-weavers-at-carr-clough', 'john-and-ann-give-a-name-again',
     'james-and-mary-marry-at-christmas', 'matthew-and-sarah-in-the-cloth-country',
-    'jonas-and-the-two-matthews', 'jonas-and-the-two-matthews', 'mathew-and-his-daughter-an',
+    'old-matthew-of-stone-edge', 'jonas-and-the-two-matthews', 'mathew-and-his-daughter-an',
 ]
 
 def first_table(section):
@@ -71,7 +71,7 @@ def tree(sections):
         parent_link = f'<a href="#family-{parents or own}">{escape(parent)}</a>'
         panels.append(f'''<article class="generation" id="{key}" aria-label="{escape(name)}, {escape(dates)}">
 <div class="parent-node"><small>Parents</small>{parent_link}</div>
-<div class="fork"><div class="ancestor"><small>Bentley line</small><h2>{escape(name)}</h2><p>{escape(dates)}</p>{partner_line}<a href="#family-{own}">View household →</a> <a href="bentley-lives.html#{LIFE_CHAPTERS[i]}">Read the story →</a></div>
+<div class="fork"><div class="ancestor"><small>Bentley line</small><h2>{escape(name)}</h2><p>{escape(dates)}</p>{partner_line}<a href="#family-{own}">View household →</a> <a href="stories/{LIFE_CHAPTERS[i]}.html">Read the story →</a></div>
 <div class="siblings"><h3>{caption}</h3>{sibling_list}</div></div>{note_html}</article>''')
         options.append(f'<option value="{key}">{name} · {dates}</option>')
         links.append(f'<a href="#{key}"><b>{escape(name)}</b><span>{escape(dates)}</span></a>')
