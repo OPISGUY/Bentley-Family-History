@@ -29,6 +29,8 @@ Thomas Herbert (1888/9–1965), son of John and Sarah Ann; Lauretta (1887/8–19
 | Dorothy Bentley | 5 December 1920 – 22 March 1989 | Norman A. Jagger (1911–1976); family information in R | F |
 | Roy Bentley | 1930–1998 | Margaret Cartwright, 1953; birth entry April–June 1930, Huddersfield 9a/436, mother Jones | D for index; parent identification uses family evidence |
 
+The family remembers Thomas dying in a terraced house on Binn Road below the reservoir in 1965, and a move with Roy to a farm in Slaithwaite. Roy carrying on the farm and Thomas returning from it to Binn are the family's proposed sequence. The 1891 census gives Thomas's childhood address as Binn. [The road below the reservoir](stories/the-road-below-the-reservoir.html).
+
 Lauretta's preferred working death date is **25 September 1963**, from a public newspaper OCR extract naming her husband. The previously supplied July date is conflicting family information. Source: NEW; original image not inspected.
 
 ## 3. John Bentley and Sarah Ann Haigh

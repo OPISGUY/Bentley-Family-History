@@ -1,0 +1,13 @@
+# The road below the reservoir
+
+Three generations of Bentleys at Binn · A family recollection from Marsden
+
+For years, one of Thomas Herbert Bentley’s great-grandchildren drove the six or seven miles to walk around Butterley and Wessenden. Given the choice of a place to spend an afternoon, this was where they kept going. Only later did they learn who had lived along the road below.
+
+Thomas was two when the census taker found him at Binn in 1891. His father John had been ten when another census taker came through Binn twenty years earlier. In that first household John was a boy already working in wool, and Charles, his father, was digging stone. In the second, John was the father and Thomas the little boy. Both clerks wrote down the same place name. Neither gave a house number.
+
+The family remembers a move with Thomas’s son Roy to a farm in Slaithwaite. What happened afterwards is less certain. Roy may have carried on with the farm, and Thomas may have moved back to the part of Marsden where he grew up. The family is clearer about where Thomas’s life ended. When he died in 1965, it was in one of the terraced houses on Binn Road, down below the reservoir.
+
+There was a second Binn address in living memory. In the 1990s a child in the family went to visit a relative in a rural house further up Binn Lane. Was she their mother’s aunt or their mother’s cousin? The child, now grown, remembers the visit better than the precise relationship. It was a different house from the terrace where Thomas died.
+
+That child grew up to be the walker. By the time the Bentley history came to light, they had been choosing Butterley and Wessenden for about ten years, ever since they could drive. The walks came first. The names came afterwards. Now the road down from the reservoir passes the terraces where their great-grandfather’s life ended, and the road further up belongs to a visit they can still remember for themselves.

@@ -5,6 +5,10 @@
 The family has supplied the first personal detail for [Roy and Margaret’s story](stories/roy-and-margaret-in-postwar-yorkshire.html). Both remarried. Roy’s later wife was Betty. Margaret had already died before the reporting relative was born. The relative was six when Roy died. Margaret’s later married surname would help identify the right death entry. Her exact dates remain open.
 
 
+## Binn and the Slaithwaite farm
+
+Thomas’s family identifies the terrace below the reservoir as the place where he died. A historical directory or electoral register pairing Thomas or Roy with a named Slaithwaite farm would help date the move. Roy continuing at the farm and Thomas returning to Binn are plausible recollections to test. [Read the family account](stories/the-road-below-the-reservoir.html).
+
 ## A day at work in Marsden
 
 For Charles, Ann, Elizabeth and John, the censuses tell us exactly what jobs they did. An 1870 notice places proposed roadworks at Binn Lane. An 1889 notice names Dyson and Co. at Upper Bank Bottom Mill. Neither names a Bentley employee. The next question is which workplace employed each person. A named mill, quarry, employer or contemporary newspaper item tied to Binn or Carr Clough would let us tell more of their working day. [Read Ann’s story](stories/ann-at-carr-clough.html).
