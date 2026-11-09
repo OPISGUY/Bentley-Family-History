@@ -76,3 +76,7 @@ section {padding:42px 0}.family summary {font-size:21px;padding:15px 20px}
   .generation {break-inside:avoid}.ancestor {color:black;background:white;border:1px solid black}
   .ancestor a,.ancestor small {color:black}
 }
+.chapter-list {columns:2;column-gap:2.5rem;padding-left:1.6rem;margin-bottom:1.6rem}
+.chapter-list li {break-inside:avoid;padding:.3rem 0 .3rem .2rem}
+.ancestor a + a {margin-left:.6rem}
+@media(max-width:700px){.chapter-list{columns:1}}
