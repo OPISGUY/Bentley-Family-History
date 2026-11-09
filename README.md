@@ -28,7 +28,7 @@ Latest search: [5 November — earlier-line searches and new collateral leads](r
 
 | Generation | Person | Where |
 | --- | --- | --- |
-| 1 | Roy Bentley (1930–1998) m. Margaret Cartwright (1934–1991) | Huddersfield |
+| 1 | Roy Bentley (1930–1998) m. Margaret Cartwright, 1953; later Betty (family account) | Huddersfield |
 | 2 | Thomas Herbert Bentley (1888/9–1965) m. Lauretta Jones | Marsden, Huddersfield |
 | 3 | John Bentley (1861–1918) m. Sarah Ann Haigh | Marsden |
 | 4 | Charles Bentley (c.1827–1897) m. Sarah Dyson | Saddleworth, then Marsden |

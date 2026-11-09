@@ -14,7 +14,9 @@ Sources used throughout:
 
 ## 1. Roy Bentley and Margaret Cartwright
 
-Roy (1930–1998) married Margaret (1934–1991), registered October–December 1953, Upper Agbrigg, 2d/989. Roy's parents are Thomas Herbert Bentley and Lauretta Jones. Margaret's parents remain unidentified; Mayall is the mother's maiden name in a probable birth-index match, not a proven maternal identity. Source: R.
+Roy (1930–1998) married Margaret Cartwright, registered October–December 1953, Upper Agbrigg, 2d/989. Roy's parents are Thomas Herbert Bentley and Lauretta Jones. Margaret's parents remain unidentified; Mayall is the mother's maiden name in a probable birth-index match, not a proven maternal identity. Source: R.
+
+**Later marriages (family account):** Roy later married Betty. Margaret also remarried. Her later spouse’s name and the dates of the remarriages are unknown here. A relative reports that Margaret died before their birth and that they were six when Roy died. The Huddersfield death registered under Margaret Bentley in 1991 remains an unconfirmed candidate. Her exact birth date previously came from that same entry.
 
 Later generations are private and deliberately absent.
 

@@ -12,7 +12,7 @@ Roy's descendants are not included in this public record.
 
 | Generation | Person | Key evidence | Link to the next generation down |
 | --- | --- | --- | --- |
-| 1 | Roy Bentley, 1930–1998, and Margaret Cartwright, 1934–1991 | Birth, Huddersfield, Apr–Jun 1930, mother's maiden name Jones; marriage 1953 | — |
+| 1 | Roy Bentley, 1930–1998, and Margaret Cartwright | Birth, Huddersfield, Apr–Jun 1930, mother's maiden name Jones; marriage 1953 | — |
 | 2 | Thomas Herbert Bentley, 1888/9–1965 | Birth registered Jan–Mar 1889; 1891 census; married Lauretta Jones 1920 | **Documented**: Roy's birth index gives his mother's maiden name as Jones |
 | 3 | John Bentley, 1861–1918, and Sarah Ann Haigh | Birth registered Jan–Mar 1861; 1861 and 1871 censuses; married 1883 | **Documented**: 1891 census lists Thomas H. as his son |
 | 4 | Charles Bentley, c.1827–1897, and Sarah Dyson | 1851, 1861 and 1871 censuses; married 1855 | **Documented**: 1861 and 1871 censuses list John as his son |
@@ -28,19 +28,16 @@ William was their son.
 
 ## Generation by generation
 
-### 1. Roy Bentley (1930–1998) and Margaret Cartwright (1934–1991)
+### 1. Roy Bentley (1930–1998) and Margaret Cartwright
 
 - **Birth:** Roy Bentley, registered Apr–Jun 1930, Huddersfield, vol. 9a, p. 436, **mother's
   maiden name Jones** (GRO index). This links him to Thomas H. Bentley and Lauretta Jones.
 - **Marriage:** Roy Bentley and **Margaret Cartwright**, Oct–Dec 1953, Upper Agbrigg district,
   vol. 2d, p. 989. Each entry gives the other's surname (GRO index).
 - **Death:** 1998, Fartown, Huddersfield (family knowledge; not yet checked).
-- **Margaret's death:** Margaret Bentley, born 2 June 1934, died 1991, Huddersfield, register 4,
-  entry 1629 (GRO death index; from 1969 the index gives the date of birth instead of the age).
-  The Ancestry tree wrongly marks her as living.
-- **Margaret's birth (probable):** Margaret Cartwright, registered Apr–Jun 1934, Huddersfield,
-  vol. 9a, p. 432, **mother's maiden name Mayall** (GRO index). She is the only Margaret
-  Cartwright registered in Huddersfield that quarter, which fits a birth on 2 June 1934.
+- **Updated from family testimony:** Both Roy and Margaret married again. Roy’s later wife was Betty. Margaret died before the reporting relative was born, and the relative was six when Roy died.
+- **Unresolved index match:** The 1991 Huddersfield death entry for Margaret Bentley, register 4, entry 1629, gives a birth date of 2 June 1934. No record connects that entry to Roy’s first wife after her remarriage. The exact birth and death dates from it are unconfirmed.
+- **Possible birth:** Margaret Cartwright, Huddersfield, Apr–Jun 1934, 9a/432, mother Mayall. Her marriage to Roy is documented, but this birth identification needs independent support.
 
 ### 2. Thomas Herbert Bentley (1888/9–1965) and Lauretta Jones (1887/8–1963)
 
@@ -213,4 +210,4 @@ in 1613 (see [the two breaks](2026-10-10-the-two-breaks.md#the-saddleworth-line-
   [FreeCEN](https://www.freecen.org.uk/).
 - **Parish registers** of St Chad, Saddleworth, transcribed by
   [FreeREG](https://www.freereg.org.uk/).
-- **Family knowledge** for Roy and Thomas, Margaret's death in 1991, and Roy's death in 1998.
+- **Family knowledge** for Roy and Thomas, the later marriages, Margaret’s death before the reporting relative’s birth, and Roy’s death in 1998.

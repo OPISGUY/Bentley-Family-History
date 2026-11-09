@@ -4,7 +4,7 @@ from html import escape
 
 # Ancestor, dates, partner, own group, parents' group, own entry in its first table.
 GENERATIONS = [
-    ('Roy Bentley', '1930–1998', 'Margaret Cartwright', 1, 2, 1),
+    ('Roy Bentley', '1930–1998', 'Margaret Cartwright; later Betty (family account)', 1, 2, 1),
     ('Thomas Herbert Bentley', '1888/9–1965', 'Lauretta Jones', 2, 3, 2),
     ('John Bentley', '1861–1918', 'Sarah Ann Haigh', 3, 5, 2),
     ('Charles Bentley', 'Baptised 1828 · died 1897', 'Sarah Dyson', 5, 6, 6),

@@ -36,7 +36,7 @@ flowchart TD
     B2["Charles Bentley, b. c.1827 Saddleworth, d. 1897, m. Sarah Dyson 1855"]:::found
     B3["John Bentley, b. 1861 Marsden, d. 1918, m. Sarah Ann Haigh 1883"]:::found
     B4["Thomas Herbert Bentley, b. 1888/9 Marsden, d. 1965, m. Lauretta Jones 1920"]:::found
-    B5["Roy Bentley, 1930–1998, m. Margaret Cartwright 1953"]:::found
+    B5["Roy Bentley, 1930–1998, m. Margaret Cartwright 1953; later Betty (family account)"]:::found
     P["Later generations, (private)"]:::gap
 
     A1 -.->|not yet proven| A2
@@ -81,7 +81,7 @@ from the lord of the manor in 1791 and selling it in 1806. See
 
 | Gen. | Person | Born – died | Married | Parent link | Status |
 | --- | --- | --- | --- | --- | --- |
-| 1 | **Roy Bentley** | 1930 Huddersfield – 1998 | **Margaret Cartwright** (1934–1991), 1953, Upper Agbrigg | Son of Thomas H. (birth index: mother née Jones) | Documented |
+| 1 | **Roy Bentley** | 1930 Huddersfield – 1998 | **Margaret Cartwright**, 1953, Upper Agbrigg. Both remarried; Roy’s later wife was Betty (family account) | Son of Thomas H. (birth index: mother née Jones) | Documented |
 | 2 | **Thomas Herbert Bentley** | 1888/9 Marsden – 1965 Huddersfield | **Lauretta Jones** (1887/8–1963), 1920 | Son of John and Sarah A. (1891 census) | Documented |
 | 3 | **John Bentley** | early **1861** Marsden – 1918 | **Sarah Ann Haigh** (c.1857–1934), 1883 | Son of Charles and Sarah (1861, 1871 censuses) | Documented |
 | 4 | **Charles Bentley** | c.1827 Saddleworth – 1897 | **Sarah Dyson** (c.1831–1874), 1855 | Son of William and Betty (8 June 1828 baptism transcription); Betty in 1851 census | Documented through transcription; father’s identity with 1788 William probable |
@@ -117,8 +117,7 @@ The [family groups](family-groups.md) expand this chart into households, sibling
 
 Each marriage brings in another family. The Haigh and Platt branches now have findings; the others remain open:
 
-- **Cartwright:** Margaret Cartwright, born 2 June 1934, Huddersfield; probably the Margaret
-  Cartwright whose birth index entry gives her mother's maiden name as Mayall.
+- **Cartwright:** The 1934 Huddersfield birth indexed with mother Mayall is a candidate. Margaret’s exact birth date, later married surname and death registration are still open.
 - **Jones:** Lauretta Jones, born 1887/8, Barkisland (Halifax district).
 - **Haigh:** Sarah Ann Haigh (c.1857–10 August 1934), daughter of **Thomas and Harriet Haigh** in the Marsden memorial index. Dan Haigh (c.1820) is an uncle in the 1891 household; his precise relationship to her parents needs checking.
 - **Platt:** Helen Bentley's family with Thomas Platt, including seven children and a further generation; see [family groups](family-groups.md#10-helen-bentley-and-thomas-platt).

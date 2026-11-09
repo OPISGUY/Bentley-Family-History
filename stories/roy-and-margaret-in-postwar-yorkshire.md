@@ -2,8 +2,8 @@
 
 Roy Bentley and Margaret Cartwright · Huddersfield, 1930–98
 
-In the autumn of 1953 Roy Bentley married Margaret Cartwright. Roy was twenty-three, Margaret nineteen. For the older people in these stories we sometimes have only a single name, written by a parish clerk. Here we have a couple many relatives will remember by faces, voices and turns of phrase.
+Roy Bentley was twenty-three when he married Margaret Cartwright. The marriage was registered in Upper Agbrigg in the closing months of 1953. He was the son of Thomas Herbert, who had grown up in a weaver’s house at Binn, and Lauretta Jones. His older sister Dorothy had been born almost ten years before him.
 
-Roy was born in 1930, the son of Thomas Herbert Bentley and Lauretta Jones. An older sister, Dorothy, was already part of the family. His father had grown up among the woollen workers at Binn. By Roy’s wedding, the boy once counted there at two years old was the bridegroom’s father.
+That wedding is where Roy and Margaret appear together in the public record. It is only part of either life. They each married again. Roy’s later wife was Betty. Margaret made a second marriage of her own.
 
-Margaret died in Huddersfield in 1991. The family remembers Roy dying at Fartown in 1998. The public dates bring us as far as that. A photograph with a name on the back, or somebody remembering how Roy and Margaret first met, would tell a different part of their story. They are the generation for whom someone in the family might still be able to say, ‘I remember.’
+In the family the two deaths belong to different kinds of memory. Margaret had already died before the relative who told us this story was born. Roy was still within reach of that childhood: when he died at Fartown in 1998, that relative was six. One life had ended before theirs began. The other overlapped it by six years.
