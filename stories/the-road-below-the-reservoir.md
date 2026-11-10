@@ -6,6 +6,12 @@ For years, one of Thomas Herbert Bentley’s great-grandchildren drove the six o
 
 Thomas was two when the census taker found him at Binn in 1891. His father John had been ten when another census taker came through Binn twenty years earlier. In that first household John was a boy already working in wool, and Charles, his father, was digging stone. In the second, John was the father and Thomas the little boy. Both clerks wrote down the same place name. Neither gave a house number.
 
+Butterley itself was younger than Thomas. In November 1889, while he was still a baby, Huddersfield was proposing to dam the valley where Butterley Clough Brook met Wessenden Brook. Binn Lane was already a name people knew. In 1870 the town clerk had used it to describe one end of the road from Wessenden Reservoir, a road the corporation wanted to widen and divert. How closely that old route followed the one walked today is still an open question. The water at Butterley, which feels such a settled part of the walk today, was still a plan on paper.
+
+The Ordnance Survey mapped Thomas’s neighbourhood in 1890. On the sheet, Binn Road passes Lane Syke, with a quarry nearby. Bank Bottom Bridge and a woollen mill are marked close by. Further up the sheet are Shady Row, Grove Cottages and Spring Terrace. There were several rows a family could have meant by “the terraces”. The family’s house number is still unknown. [Explore the 1890 survey](https://maps.nls.uk/view/125647278).
+
+By November 1901, when Thomas was about thirteen, the new reservoir was under construction. These are two quite different ways to picture his childhood: the little boy at Binn in the census, and a valley being reshaped over the years when that boy was growing up.
+
 The family remembers a move with Thomas’s son Roy to a farm in Slaithwaite. What happened afterwards is less certain. Roy may have carried on with the farm, and Thomas may have moved back to the part of Marsden where he grew up. The family is clearer about where Thomas’s life ended. When he died in 1965, it was in one of the terraced houses on Binn Road, down below the reservoir.
 
 There was a second Binn address in living memory. In the 1990s a child in the family went to visit a relative in a rural house further up Binn Lane. Was she their mother’s aunt or their mother’s cousin? The child, now grown, remembers the visit better than the precise relationship. It was a different house from the terrace where Thomas died.
