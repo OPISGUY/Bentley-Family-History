@@ -14,17 +14,17 @@ You do not need to understand GitHub to read the history. Choose a starting poin
 | --- | --- |
 | Find a person, partner or sibling | [Browse the family groups](family-groups.md) |
 | Follow the generations back from Roy | [See the family tree](family-tree.md) |
-| Understand how far back we can go | [Read the earliest evidence and the missing links](research/2026-11-04-origins-and-limits.md) |
+| Understand how far back we can go | [Read the 1600s & Standedge probate, map and parish evidence](research/2026-11-11-standedge-to-1600s-and-beyond.md) |
 | Find out why the Bentleys lived in the hills | [Explore Standedge and the new legal-record leads](research/2026-11-04-origins-and-limits.md#was-he-running-from-something) |
-| Check a claim against its source | [Read the latest evidence](research/2026-11-04-wider-family.md) |
+| Check a claim against its source | [Read the latest evidence](research/2026-11-11-standedge-to-1600s-and-beyond.md) |
 
 Visit the [family website](https://opisguy.github.io/Bentley-Family-History/): a clickable tree, name search, family groups, stories and printable pages. No account is needed.
 
-The earliest local Bentley record identified is from **1613**. This is neither a proven arrival date nor an unbroken pedigree back from Roy. The [explanation](research/2026-11-04-origins-and-limits.md) makes each gap explicit.
+The earliest local Bentley record identified is from **1613**, and **Jonas Bentley's 18 August 1686 probate inventory (`H/KID`, p. 248)** now places the family explicitly at **Standedge** forty years earlier than the parish registers first name the farm. This is neither a proven arrival date nor an unbroken pedigree back from Roy: the [11 November review](research/2026-11-11-standedge-to-1600s-and-beyond.md) and the [origins explanation](research/2026-11-04-origins-and-limits.md) make both the new corroborating evidence and each remaining gap explicit.
 
-Latest search: [5 November — earlier-line searches and new collateral leads](research/2026-11-05-earlier-line-search.md). No new earlier generation has yet been proved.
+Latest search: [11 November — Standedge to the 1600s and beyond: probate, 1822 map, 1819 double baptism and seventeenth-century parish/manor checks](research/2026-11-11-standedge-to-1600s-and-beyond.md).
 
-## The line so far (5 November 2026)
+## The line so far (11 November 2026)
 
 | Generation | Person | Where |
 | --- | --- | --- |
@@ -37,7 +37,7 @@ Latest search: [5 November — earlier-line searches and new collateral leads](r
 | 7 | James Bentley (1722–1790?), clothier, m. Mary Nield, 1745 | Standedge |
 | 8 | Matthew Bentley of Standedge (d. 1751), clothier, m. Sarah | Standedge |
 | 9 | Mathew ("old Matthew") Bentley (1664–1736) m. Ellin | Standedge |
-| 10 | Jonas Bentley (d. 1686) | Saddleworth |
+| 10 | Jonas Bentley of Standedge (d. 1686) | Standedge, Saddleworth |
 | 11 | Mathew Bentley (fl. 1613) | Saddleworth |
 
 Most links in this list are supported by birth, marriage and death indexes, census returns or
@@ -59,6 +59,8 @@ family in them. See [the Saddleworth line](research/2026-10-10-saddleworth-line.
 | --- | --- |
 | [family-tree.md](family-tree.md) | The line as a chart, generation by generation, with the evidence status of each link |
 | [family-groups.md](family-groups.md) | Households, siblings, Haigh parents and Platt descendants, with evidence status |
+| [research/2026-11-11-standedge-to-1600s-and-beyond.md](research/2026-11-11-standedge-to-1600s-and-beyond.md) | Jonas Bentley at Standedge in 1686, four-point correlation to Matthew of Standedge (d. 1751), the 1822 map of "Bentleys" vs. Bleak Hey Nook, the 6 June 1819 double baptism, and 17th-century Protestation, Hearth Tax and manor checks |
+| [research/2026-11-10-binn-and-carlisle-street.md](research/2026-11-10-binn-and-carlisle-street.md) | Carlisle Street, St Kilda newspaper notices, Binn in the 1881 census, Bank Bottom mill demolitions and additional Marsden memorials |
 | [research/2026-11-04-wider-family.md](research/2026-11-04-wider-family.md) | New sources, exact searches, competing identities and date conflicts |
 | [research/2026-11-04-charles-william-review.md](research/2026-11-04-charles-william-review.md) | Charles's baptism and William's unresolved identity |
 | [research-plan.md](research-plan.md) | Records to search next, in priority order |
@@ -112,4 +114,4 @@ High Bentley Hall.
 - [GENUKI](https://www.genuki.org.uk/): the 1379 poll tax for the West Riding
 - [Calderdale Companion](https://www.calderdalecompanion.co.uk/) (Malcolm Bull)
 
-Latest additions: [Australian households and children](research/2026-11-05-australian-households.md), with uncertain identities clearly marked; [unplaced Standedge households](research/2026-11-05-standedge-households.md) for testing possible sibling connections.
+Latest additions: [11 November Standedge-to-1600s probate, 1822 map, 1819 double baptism and 17th-century checks](research/2026-11-11-standedge-to-1600s-and-beyond.md); [10 November Binn workplaces, Marsden memorials and Carlisle Street, St Kilda](research/2026-11-10-binn-and-carlisle-street.md); [Australian households and children](research/2026-11-05-australian-households.md); [unplaced Standedge households](research/2026-11-05-standedge-households.md) for testing possible sibling connections.

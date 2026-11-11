@@ -11,11 +11,11 @@ Full evidence and citations: [the line rebuilt from records](research/2026-10-10
 back to 1613), with more in [the two breaks](research/2026-10-10-the-two-breaks.md) and the
 [tree check](research/2026-10-10-tree-check.md).
 
-_Last updated: 4 November 2026_
+_Last updated: 11 November 2026_
 
 ## How far back does the evidence reach?
 
-The earliest identified local Bentley appears in 1613, but three unresolved steps prevent calling this an unbroken ancestry. Read [the origins and limits](research/2026-11-04-origins-and-limits.md) for the missing relationships, record losses and new seventeenth-century legal leads. The earliest appearance is not proof of first arrival.
+The earliest identified local Bentley appears in 1613, but three unresolved steps prevent calling this an unbroken ancestry. Read [the origins and limits](research/2026-11-04-origins-and-limits.md) and the [11 November Standedge-to-1600s evidence review](research/2026-11-11-standedge-to-1600s-and-beyond.md) for the missing relationships, record losses, seventeenth-century tax and legal checks, and new probate and map evidence. The earliest appearance is not proof of first arrival.
 
 ## The line
 
@@ -26,7 +26,7 @@ flowchart TD
     classDef gap fill:#f3f3f3,stroke:#777777,color:#1b1b1b
 
     A1["Mathew Bentley, Saddleworth, children bap. 1613–14"]:::probable
-    A2["Jonas Bentley, sons bap. 1654, 1664, d. 1686, Saddleworth"]:::probable
+    A2["Jonas Bentley of Standedge, sons bap. 1654, 1664, d. 1686"]:::probable
     A3["Mathew ('old Matthew') Bentley, bap. 1664, bur. 1735/6, Standedge"]:::probable
     A4["Matthew Bentley of Standedge, clothier, d. 1751; m. Sarah"]:::found
     A5["James Bentley, bap. 1722, d. 1790?, m. Mary Nield 1745"]:::found
@@ -59,14 +59,11 @@ Boxes: green means the person is found in records; yellow means found in records
 how they join the line is still inference (see the table below). Arrows: solid green means a
 record names the parent; dashed means probable, not yet proven.
 
-The new [free-source review](research/2026-11-04-charles-william-review.md) found a St Chad's baptism transcription naming **William and Betty as Charles's parents on 8 June 1828**, at Standage, father a clothier. This strongly matches Charles in the previously recorded 1851 household.
+The [free-source review](research/2026-11-04-charles-william-review.md) found a St Chad's baptism transcription naming **William and Betty as Charles's parents on 8 June 1828**, at Standage, father a clothier. This strongly matches Charles in the previously recorded 1851 household.
 
-The remaining gap is **which William**: identifying Charles's father with William baptised on 8 April 1788 to John and Ann Bently remains probable. The baptism of that earlier William documents his parents, but does not by itself identify him as Betty's husband. The chart now separates these two Williams as identities awaiting confirmation. The older line remains a working hypothesis across that gap.
+The remaining gap is **which William**: identifying Charles's father with William baptised on 8 April 1788 to John and Ann Bently remains probable. On **6 June 1819**, **William and Betty Bentley of Standage, clothier**, and **James and Ann Bentley of Standage, clothier**, brought their sons **William** and **Charles** to be baptised at St Chad's on the exact same Sunday—matching the names, hamlet and trade of the two younger surviving brothers (**James**, bap. 1784, and **William**, bap. 1788) of John and Ann's family, and introducing the forename **Charles** that William and Betty also gave our ancestor in 1828. Because neither the 1815 marriage entry nor the baptisms explicitly name William's father, the chart continues to separate the two Williams as a probable identity.
 
-The family lived at **Standedge** for at least four generations, from the 1720s to the 1800s,
-on a farm known as **"Bentleys"**. Deeds at Oldham Archives show two Bentley clothiers buying it
-from the lord of the manor in 1791 and selling it in 1806. See
-[the Saddleworth line](research/2026-10-10-saddleworth-line.md#7-bentleys-the-family-home-at-standedge).
+The family is now documented at **Standedge** even earlier than previously thought: the Leonard Kidd probate abstract (`H/KID`, p. 248) of **Jonas Bentley's 18 August 1686 inventory** explicitly describes him as **"of Standedge, Saddleworth"**, forty years before the parish registers first name the farm in 1726. Deeds at Oldham Archives (`D-AAB/1/1–1/5`) show two Bentley clothiers—**James Bentley of Blakehey Nook** and **John Bentley of Bentleys / Standedge**—buying the freehold tenement called **"Bentleys"** from the lord of the manor in 1791 and selling it in 1806, while the **1822 Map of Saddleworth** marks **BENTLEYS** next to **STANEDGE FOOT** on the Standedge turnpike, distinct from **Bleak Hey Nook** lower down the hill. See [the 11 November Standedge-to-1600s review](research/2026-11-11-standedge-to-1600s-and-beyond.md) and [the Saddleworth line](research/2026-10-10-saddleworth-line.md#7-bentleys-the-family-home-at-standedge).
 
 ## Evidence status
 
@@ -88,9 +85,9 @@ from the lord of the manor in 1791 and selling it in 1806. See
 | 5 | **William Bentley** | bap. 8 Apr 1788 Saddleworth – before 1851 (tree: d. 1835) | **Betty Bottomley** (c.1782–?), 5 Jan 1815, Saddleworth | Son of John and Ann (baptism) | Documented (parents); probable that he is Betty's husband |
 | 6 | John Bentley of Standedge, clothier | bap. 1750 Saddleworth – bur. 15 Nov 1789, Standedge | Ann Broadbent, 1771 | Son of James and Mary (baptism) | Documented |
 | 7 | James Bentley, clothier | bap. 1722 Saddleworth – probably bur. 8 Feb 1790, Standedge | Mary Nield, 1745 | Son of Matthew and Sarah (baptism) | Documented |
-| 8 | Matthew Bentley of Standedge, clothier | c.1692 – bur. 20 Nov 1751; will proved 1753 | Sarah | Probably son of "old Matthew" (same farm) | Probable |
+| 8 | Matthew Bentley of Standedge, clothier | c.1692 – bur. 20 Nov 1751; will proved 3 Mar 1753 | Sarah | Probably son of "old Matthew" (same farm at Standedge, plus naming of children John, Esther, Helen/Ellin and Matthew) | Probable |
 | 9 | Mathew ("old Matthew") Bentley | bap. 1664 – bur. 26 Feb 1735/6, Stone-edge | Ellin (d. 1719) | Son of Jonas (baptism) | Documented, if the same Mathew |
-| 10 | Jonas Bentley | fl. 1654–1664 – bur. 6 Jul 1686; administration 1686 | — | Not yet proven | — |
+| 10 | Jonas Bentley of Standedge | fl. 1654–1664 – bur. 6 Jul 1686; inventory 18 Aug 1686 ("of Standedge") | — | Not yet proven | — |
 | 11 | Mathew Bentley | fl. 1613–1614 | — | — | Earliest Bentley in the Saddleworth registers |
 
 ## Wider family groups
@@ -126,7 +123,7 @@ Each marriage brings in another family. The Haigh and Platt branches now have fi
 
 ### New date evidence and conflicts
 
-Lauretta's preferred working death date is **25 September 1963**, supported by a public newspaper OCR notice naming Thomas Herbert as her husband. John's likely memorial gives **10 November 1918**, but its age **67** conflicts with his 1861 birth evidence; the conflict remains unresolved. Joseph's 1907 St Kilda death entry names William and Betty as parents and supports the Australian identification. See [the source review](research/2026-11-04-wider-family.md).
+Lauretta's preferred working death date is **25 September 1963**, supported by a public newspaper OCR notice naming Thomas Herbert as her husband. John's likely memorial gives **10 November 1918**, but its age **67** conflicts with his 1861 birth evidence; a nearby Marsden memorial for **Sam Bentley** (husband of Rose Hannah, died **14 December 1966**, age **82**) shows a similar age discrepancy if he is John's son born about 1890. In Australia, Melbourne newspaper notices on **Carlisle Street, St Kilda** now verify **12 October 1891** for William's death and **27 July 1902** for Wright's death, and link Joseph's two St Kilda households (with Irvine Nisbett and Ann Jones) to one father at **66 Carlisle Street**. See [the 4 November source review](research/2026-11-04-wider-family.md) and [the 10 November Binn and Carlisle Street evidence](research/2026-11-10-binn-and-carlisle-street.md).
 
 ## Earlier research: the Ancestry tree and High Bentley Hall
 

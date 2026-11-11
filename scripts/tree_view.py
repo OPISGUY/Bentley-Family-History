@@ -21,9 +21,9 @@ PARENTS = {2:'Thomas Herbert Bentley & Lauretta Jones',3:'John Bentley & Sarah A
            7:'John Bentley & Ann Broadbent',8:'James Bentley & Mary Nield',
            9:'Matthew Bentley & Sarah'}
 EARLY = {
-    7: ('Proposed father: Mathew Bentley', [('Ester Bentley','Baptised 1700'),('Unnamed daughter','Buried 1702 · identity open'),('John Bentley','Baptised 1702/3')], 'Possible siblings. These entries name a father Mathew. The clothier buried in 1751 is a proposed son. The unnamed burial may refer to a child listed here.'),
-    8: ('Jonas Bentley', [('John Bentley','Baptised 1654')], 'The 1664 baptism names Jonas. Identifying this child with the adult later called “old Matthew” remains uncertain.'),
-    9: ('Parents unknown', [], 'The relationship between Jonas and the Bentleys recorded in 1613–14 is unresolved.'),
+    7: ('Proposed father: Mathew Bentley', [('Ester Bentley','Baptised 1700'),('Unnamed daughter','Buried 1702 · identity open'),('John Bentley','Baptised 1702/3')], 'Possible siblings. These entries name a father Mathew. The clothier buried in 1751 is a proposed son, supported by shared Standedge residence and child-naming correlations (Ellin, John, Esther and Matthew).'),
+    8: ('Jonas Bentley of Standedge', [('John Bentley','Baptised 1654')], 'The 1664 baptism names Jonas, whose 18 August 1686 inventory describes him as of Standedge. Identifying the 1664 child with “old Matthew” of Stone-edge remains probable.'),
+    9: ('Parents unknown', [], 'Jonas is documented at Standedge in his 1686 inventory. His relationship to the Bentleys recorded in 1613–14 remains unresolved.'),
     10: ('Parents unknown', [], 'The 1613 and 1614 records name Mathew as a father. His own parents and siblings remain unknown.'),
 }
 
