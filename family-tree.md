@@ -87,8 +87,8 @@ The family is now documented at **Standedge** even earlier than previously thoug
 | 7 | James Bentley, clothier | bap. 1722 Saddleworth – probably bur. 8 Feb 1790, Standedge | Mary Nield, 1745 | Son of Matthew and Sarah (baptism) | Documented |
 | 8 | Matthew Bentley of Standedge, clothier | c.1692 – bur. 20 Nov 1751; will proved 3 Mar 1753 | Sarah | Probably son of "old Matthew" (same farm at Standedge, plus naming of children John, Esther, Helen/Ellin and Matthew) | Probable |
 | 9 | Mathew ("old Matthew") Bentley | bap. 1664 – bur. 26 Feb 1735/6, Stone-edge | Ellin (d. 1719) | Son of Jonas (baptism) | Documented, if the same Mathew |
-| 10 | Jonas Bentley of Standedge | fl. 1654–1664 – bur. 6 Jul 1686; inventory 18 Aug 1686 ("of Standedge") | — | Not yet proven | — |
-| 11 | Mathew Bentley | fl. 1613–1614 | — | — | Earliest Bentley in the Saddleworth registers |
+| 10 | Jonas Bentley of Standedge | fl. 1654–1664 – bur. 6 Jul 1686; inventory 18 Aug 1686 ("of Standedge") | — | Not yet proven directly; **Supported** 3-point correlation to Mathew of 1613–14 (1615–31 BT gap matches Jonas's birth window; only two Bentley fathers in Saddleworth 1613–86; named next son Mathew in 1664 after 1657/8 burial of "Mathey") | Supported correlation; direct paternity not yet proven |
+| 11 | Mathew Bentley | fl. 1613–1614 (compare "Mathey" Bentley bur. 8 Feb 1657/8) | — | — | Earliest Bentley in the Saddleworth registers |
 
 ## Wider family groups
 
