@@ -75,6 +75,6 @@ def tree(sections):
 <div class="siblings"><h3>{caption}</h3>{sibling_list}</div></div>{note_html}</article>''')
         options.append(f'<option value="{key}">{name} · {dates}</option>')
         links.append(f'<a href="#{key}"><b>{escape(name)}</b><span>{escape(dates)}</span></a>')
-    return f'''<section id="tree" class="atlas"><div class="mast"><div><p>Marsden &nbsp;/&nbsp; Standedge &nbsp;/&nbsp; Saddleworth</p><h1>The Bentley family tree</h1></div><a href="#families">Find a relative ↓</a></div>
+    return f'''<section id="tree" class="atlas"><div class="mast"><div><h2>The family tree</h2></div><a href="#families">Find a relative ↓</a></div>
 <div class="explorer"><div class="index"><h2>Generations</h2>{''.join(links)}</div>
 <div class="chart"><div class="chart-tools"><label for="generation-select">Choose an ancestor</label><select id="generation-select">{''.join(options)}</select></div>{''.join(panels)}<div class="step js-only"><button id="younger">← More recent</button><button id="older">Earlier generation →</button></div></div></div></section>'''

@@ -148,7 +148,7 @@ def home(shelf):
         group = 'haigh' if n == 4 else 'platt' if n == 10 else 'bentley'
         clean_title = re.sub(r'^\d+\. ', '', title)
         family_html.append(f'<details class="family" id="family-{n}" data-branch="{group}"><summary>{html.escape(clean_title)}</summary><div class="family-body">{markdown(content)}<a class="permalink" href="#family-{n}">Link to this family</a></div></details>')
-    body = tree(sections)
+    body = (ROOT / 'site' / 'welcome.html').read_text() + tree(sections)
     body += """<section id="families"><h2>Family directory</h2><p>Look up a name, place or year to see the household and its records.</p><div class="tools js-only"><label>Find a person<input id="family-search" type="search" placeholder="Name, place or year"></label><label>Family<select id="branch"><option value="all">All families</option><option value="bentley">Bentley and spouses</option><option value="haigh">Haigh</option><option value="platt">Platt</option></select></label><button id="reset" class="secondary">Clear</button></div><div class="actions js-only"><button id="expand" class="secondary">Open results</button><button id="collapse" class="secondary">Close results</button><button data-print class="secondary">Print</button></div><p id="result-count" role="status"></p><p id="no-results" hidden>No matching household. Try a surname or clear the filters.</p><p class="small">D = documented record · S = supported identification · F = family account</p>""" + ''.join(family_html) + '</section>'
     body += '<section id="stories"><h2>Family stories</h2><ol class="bookshelf">' + re.sub(r' id="[^"]+"','',shelf) + '</ol></section>'
     body += """<section id="evidence"><div class="section-head"><div><p class="eyebrow">Key findings &amp; primary sources</p><h2>What the records now show</h2></div><p>Every generation is tested against free parish, civil, census, probate, map and newspaper records, keeping proven facts distinct from working hypotheses.</p></div>
@@ -169,7 +169,7 @@ def home(shelf):
 
 def build():
     OUT.mkdir(exist_ok=True)
-    for asset in ('style.css','app.js'):
+    for asset in ('style.css','app.js','butterley.jpg'):
         shutil.copyfile(ROOT / 'site' / asset, OUT / asset)
     (OUT / '.nojekyll').write_text('')
     for path in sorted(ROOT.glob('*.md')) + sorted((ROOT / 'research').glob('*.md')):
