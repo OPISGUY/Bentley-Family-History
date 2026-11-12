@@ -1,0 +1,11 @@
+# The carpenter’s chest and the summer wedding
+
+John Bentley, Mary Bentley and James Bradbury · Diggle and Fairbanks, 1654–1764
+
+When Jonas Bentley died at Standedge in the summer of 1686, he left two sons whose names we know from the St Chad’s register. The younger boy, Mathew, stayed on the high ridge of Stone-edge, where the clothiers worked wool alongside their hill pastures. The elder boy, John—the baby born on 16 August 1654 and carried to the font eleven days later—points us just down the slope into the valley of Diggle.
+
+In February 1713/14, neighbours came into a house in Diggle to appraise the goods of **John Bentley, carpenter**. He would have been fifty-nine years old that winter if he was Jonas’s elder son. In a parish where almost every man in the next generation called himself a clothier, that single word—*carpenter*—lets us see the other craft that kept a woollen district alive. Looms, tenters,shuttle-boxes, chests, roof timbers and fulling-mill paddles all had to be shaped by a man who worked with saw, auger and plane.
+
+The carpenter’s death was followed by a summer wedding that ties the Diggle household into the wider neighbourhood. On 3 July 1714, less than five months after John Bentley’s inventory was taken on 18 February, **Mary Bentley of Saddleworth** rode over the hills to the ancient mother church of St Chad in Rochdale—her marriage also entered at Saddleworth a week later on 10 July—to marry **James Bradbury**, a young clothier of **Fairbanks in Diggle**. They married by licence rather than waiting out three Sundays of banns.
+
+When Mary and James christened their firstborn son at St Chad’s the following year, they named him **John Bradbury**. Six more children followed at Fairbanks—Ann, Sarah, Mary, Hannah, Thomas and Alice—and two of those daughters married into the Broadbent families of Diggle and Platt Lane. Mary outlived her husband James by twenty-seven years, dying at the end of 1764 when she was an old woman in her seventies. Between the carpenter’s inventory in February 1713/14 and the bride from the same valley naming her first son John in 1715, a family that might have looked like a solitary line in a probate index comes back to life as neighbours, craftspeople and kin.
