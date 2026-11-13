@@ -351,8 +351,9 @@ def home(shelf):
 
 def build():
     OUT.mkdir(exist_ok=True)
-    for asset in ('style.css', 'app.js'):
-        shutil.copyfile(ROOT / 'site' / asset, OUT / asset)
+    for asset in ('style.css', 'app.js', 'butterley.jpg'):
+        if (ROOT / 'site' / asset).exists():
+            shutil.copyfile(ROOT / 'site' / asset, OUT / asset)
     (OUT / '.nojekyll').write_text('')
     for path in sorted(ROOT.glob('*.md')) + sorted((ROOT / 'research').glob('*.md')):
         article(path)
