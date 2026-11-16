@@ -136,8 +136,8 @@ def shell(title, body, depth=0):
 <html lang="en-GB"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <meta name="description" content="Explore the Bentley family of Saddleworth, Standedge, Marsden and St Kilda: human stories, 11 generations of family groups, and the archival evidence behind every link.">
 <title>{html.escape(title)} · Bentley Family History</title><link rel="stylesheet" href="{prefix}style.css"><script defer src="{prefix}app.js"></script></head>
-<body><a class="skip" href="#main">Skip to content</a><header><div class="wrap"><a class="brand" href="{prefix}index.html">Bentley<small>A Pennine &amp; St Kilda Family Chronicle · 1613–1998</small></a>
-<nav aria-label="Main navigation"><a href="{prefix}index.html#atlas-map">Interactive Map</a><a href="{prefix}index.html#tree">Family Tree</a><a href="{prefix}index.html#stories">20 Stories</a><a href="{prefix}index.html#families">14 Households</a><a href="{prefix}index.html#evidence">The Evidence</a><a href="{prefix}bentley-lives.html">Story Book</a></nav></div></header>
+<body><a class="skip" href="#main">Skip to content</a><header class="site-header"><div class="wrap"><a class="brand" href="{prefix}index.html">Bentley family history</a>
+<nav aria-label="Main navigation"><a href="{prefix}index.html#tree">Tree</a><a href="{prefix}index.html#atlas-map">Map</a><a href="{prefix}bentley-lives.html">Stories</a><a href="{prefix}index.html#families">Households</a><a href="{prefix}index.html#evidence">Records</a></nav></div></header>
 <main id="main" class="wrap">{body}</main><footer><div class="wrap"><div><strong>The Bentley Family Chronicle (1613–1998)</strong><br><span>Rebuilt from parish registers, probate inventories, manor rolls, maps and newspapers. Free to explore, with no account required.<br>Living generations are kept private. Research and stories updated 11 November 2026.</span></div><div><a href="{prefix}bentley-lives.html">Read all 20 family stories</a> · <a href="{prefix}family-tree.html">Full chart &amp; status guide</a><br><a href="{prefix}earlier-research-plan.html">Research checklist</a> · <a href="{REPO}">Source archive on GitHub</a></div></div></footer></body></html>'''
 
 def article(path):
@@ -249,87 +249,7 @@ def home(shelf):
         sub_html = f'<span class="fam-sub">{html.escape(sub)}</span>' if sub else ''
         family_html.append(f'<details class="family" id="family-{n}" data-branch="{group}"><summary><span class="fam-title">{html.escape(clean_title)}</span>{sub_html}</summary><div class="family-body">{markdown(content)}<a class="permalink" href="#family-{n}">Direct link to this household</a></div></details>')
 
-    hero = '''<section class="hero-chronicle" id="places">
-<div class="hero-grid">
-<div class="hero-copy">
-<p class="eyebrow">Saddleworth · Standedge · Marsden · St Kilda (1613–1998)</p>
-<h1>More than names on a parish page.</h1>
-<p class="lede">Most genealogy sites flatten human lives into boxes and dates. This chronicle rebuilds eleven generations of the Bentley family from free parish registers, wills, manor court rolls, maps and newspapers—following the work of their hands from a 1613 Saddleworth christening and a 1686 Standedge farmhouse to the stone quarries and woollen mills of Marsden and three brothers’ houses on Carlisle Street in St Kilda.</p>
-<div class="actions">
-<a class="button" href="#atlas-map">Explore the 15-place interactive map ↓</a>
-<a class="button secondary" href="#stories">Read the 20 family stories →</a>
-<a class="button secondary" href="#tree">Explore the 11-generation tree ↓</a>
-</div>
-</div>
-<figure class="landscape-card" aria-label="Illustrated triptych of the three Bentley landscapes: Standedge in Saddleworth, Binn and Butterley Reservoir in Marsden, and Carlisle Street in St Kilda">
-<svg viewBox="0 0 640 360" role="img" aria-label="Pennine hills of Standedge, the woollen mill and reservoir valley of Binn in Marsden, and the three houses on Carlisle Street in St Kilda">
-<defs>
-<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#1d3242"/><stop offset="55%" stop-color="#355263"/><stop offset="100%" stop-color="#dfcfb4"/></linearGradient>
-<linearGradient id="moor1" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#3b5249"/><stop offset="100%" stop-color="#253832"/></linearGradient>
-<linearGradient id="moor2" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#556b59"/><stop offset="100%" stop-color="#2f4339"/></linearGradient>
-<linearGradient id="water" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#3d657a"/><stop offset="100%" stop-color="#6992a4"/></linearGradient>
-</defs>
-<rect width="640" height="360" fill="url(#sky)"/>
-<circle cx="520" cy="78" r="34" fill="#f3dfc1" opacity="0.85"/>
-<!-- Distant Standedge Escarpment -->
-<path d="M0 190 Q95 130 195 152 T390 140 T640 175 L640 360 L0 360 Z" fill="url(#moor1)"/>
-<!-- Midground Marsden / Binn Hillside -->
-<path d="M0 225 Q140 185 280 218 T540 205 L640 220 L640 360 L0 360 Z" fill="url(#moor2)"/>
-<!-- Packhorse track winding up to Standedge Foot & Bentleys -->
-<path d="M35 350 Q95 260 155 170" fill="none" stroke="#d9be93" stroke-width="2.5" stroke-dasharray="5,4"/>
-<!-- Standedge Weaver's Cottage ("Bentleys" / Stone-edge) -->
-<g transform="translate(128,142)">
-<rect x="0" y="10" width="38" height="20" fill="#e5d5b5" stroke="#1d2c28" stroke-width="1.5"/>
-<polygon points="-3,10 19,0 41,10" fill="#7c4d2b"/>
-<rect x="6" y="15" width="7" height="6" fill="#243845"/><rect x="16" y="15" width="7" height="6" fill="#243845"/><rect x="26" y="15" width="7" height="6" fill="#243845"/>
-</g>
-<!-- Butterley Reservoir Water & Embankment -->
-<path d="M235 258 Q315 248 395 258 L380 288 Q310 294 245 286 Z" fill="url(#water)" stroke="#b8c9ce" stroke-width="1"/>
-<!-- Five-Storey Woollen Mill in the Clough (Ottiwells / Bank Bottom) -->
-<g transform="translate(275,212)">
-<rect x="0" y="14" width="52" height="34" fill="#c9b493" stroke="#1e2b30" stroke-width="1.5"/>
-<polygon points="-2,14 26,3 54,14" fill="#473930"/>
-<rect x="56" y="-8" width="7" height="56" fill="#8b4d32"/>
-<path d="M60 -8 Q72 -22 92 -18" fill="none" stroke="#e8dfd1" stroke-width="2" opacity="0.65"/>
-<rect x="6" y="20" width="6" height="6" fill="#20323d"/><rect x="16" y="20" width="6" height="6" fill="#20323d"/><rect x="26" y="20" width="6" height="6" fill="#20323d"/><rect x="36" y="20" width="6" height="6" fill="#20323d"/>
-<rect x="6" y="30" width="6" height="6" fill="#20323d"/><rect x="16" y="30" width="6" height="6" fill="#20323d"/><rect x="26" y="30" width="6" height="6" fill="#20323d"/><rect x="36" y="30" width="6" height="6" fill="#20323d"/>
-</g>
-<!-- Three Houses on Carlisle Street, St Kilda (No. 62, Stockwell, Baroona No. 66) -->
-<g transform="translate(455,216)">
-<rect x="0" y="14" width="36" height="24" fill="#f2e6d0" stroke="#243845" stroke-width="1.4"/>
-<polygon points="-2,14 18,3 38,14" fill="#8f5329"/>
-<rect x="44" y="11" width="38" height="27" fill="#f7eedc" stroke="#243845" stroke-width="1.4"/>
-<polygon points="42,11 63,0 82,11" fill="#6d4c3d"/>
-<rect x="90" y="14" width="36" height="24" fill="#f2e6d0" stroke="#243845" stroke-width="1.4"/>
-<polygon points="88,14 108,3 128,14" fill="#8f5329"/>
-</g>
-<!-- Labels inside Panorama -->
-<g font-family="Georgia, serif" font-size="12" fill="#fff9ec">
-<text x="26" y="132" font-weight="bold">I. Standedge &amp; Saddleworth</text>
-<text x="26" y="147" font-size="10.5" fill="#e5d6bc">St Chad’s, “Bentleys” &amp; Diggle · 1613–1835</text>
-<text x="235" y="192" font-weight="bold">II. Carr Clough &amp; Binn, Marsden</text>
-<text x="235" y="206" font-size="10.5" fill="#e5d6bc">Quarry, Mills &amp; Butterley · 1851–1965</text>
-<text x="442" y="192" font-weight="bold">III. Carlisle Street, St Kilda</text>
-<text x="442" y="206" font-size="10.5" fill="#e5d6bc">No. 62, “Stockwell” &amp; No. 66 · 1854–1950</text>
-</g>
-</svg>
-<figcaption><strong>Three Landscapes, One Family Thread:</strong> From the high packhorse ridge of Standedge in Saddleworth (left), across the moor to the quarries, woollen mills and drowned valley floor of Binn and Butterley in Marsden (centre), and across the sea to the three brothers’ houses on Carlisle Street, St Kilda (right).</figcaption>
-</figure>
-</div>
-<div class="intro-strip">
-<div><b>1613 – 1998</b><p><strong>Eleven Generations:</strong> From Mathew Bentley and his baby daughter An at St Chad’s on 1 May 1613 to Roy Bentley in Huddersfield.</p></div>
-<div><b>20 Chapters</b><p><strong>Human Stories:</strong> Handloom clothiers, a Diggle carpenter, a York Castle prisoner, a 10-year-old woollen piecer, and three St Kilda brothers.</p></div>
-<div><b>14 Households</b><p><strong>Searchable Family Groups:</strong> Full sibling lists, spouses, census returns, gravestones and collateral branches (Haigh, Platt &amp; Bradbury).</p></div>
-<div><b>100% Cited</b><p><strong>Honest Evidence Grades:</strong> Every link graded <em>Documented</em>, <em>Probable</em>, <em>Supported</em> or <em>Not yet proven</em>—never fabricated.</p></div>
-</div>
-<div class="era-grid" aria-label="Four historical eras of the Bentley family">
-<article class="era-card"><span class="era-tag">Era I · 1613–1686</span><h3>The 17th-Century Pennine Frontier</h3><p>Only three loose annual register sheets survive at St Chad’s before 1632, capturing <strong>Mathew Bentley</strong> christening his daughter <strong>An</strong> (1613) and son <strong>Mathew</strong> (1614). A 1619–20 Manchester hue and cry and a January 1638/9 committal order to <strong>York Castle</strong> trace the name through turbulent decades before <strong>Jonas Bentley’s 1686 inventory</strong> places the family on the ridge at <strong>Standedge</strong>.</p><a href="stories/the-road-to-york-castle.html">Read the York Castle story →</a></article>
-<article class="era-card"><span class="era-tag">Era II · 1686–1835</span><h3>The Yeoman Clothiers of Standedge</h3><p>Across five generations on the Standedge escarpment—at <strong>Deanhead, Knowl, Barn, Meerleech, Bleak Hey Nook</strong> and the two-cottage freehold called <strong>“Bentleys”</strong> beside <strong>Standedge Foot</strong>—the family wove woollen cloth while a Diggle kinsman worked as a carpenter. On Sunday, <strong>6 June 1819</strong>, brothers <strong>William and James Bentley</strong> stood side by side at St Chad’s font to christen their sons.</p><a href="stories/bentleys-at-standedge-foot.html">Visit “Bentleys” &amp; Woodmans →</a></article>
-<article class="era-card"><span class="era-tag">Era III · 1851–1918</span><h3>Marsden Stone &amp; Melbourne Sea</h3><p>In 1851 widowed <strong>Betty Bentley</strong> headed a cottage of four woollen-weaving sons at <strong>Carr Clough, Marsden</strong>. Within a decade their paths split across the world: <strong>Joseph, William and Wright</strong> remade their neighbourhood at <strong>62–66 Carlisle Street, St Kilda</strong>, while <strong>Charles</strong> stayed in Marsden, putting down the shuttle to quarry stone at <strong>Binn</strong> while ten-year-old <strong>John</strong> pieced wool in the mill below.</p><a href="stories/three-houses-on-carlisle-street.html">Walk Carlisle Street, St Kilda →</a></article>
-<article class="era-card"><span class="era-tag">Era IV · 1891–1998</span><h3>Below the Reservoir Embankment</h3><p>As Huddersfield Corporation demolished <strong>Upper Bank Bottom Mill (“Th’ Top Bonk”)</strong> in 1891 to build <strong>Butterley Reservoir</strong>, <strong>John and Sarah Ann (née Haigh)</strong> raised their children at Binn alongside Uncle Dan Haigh. Their son <strong>Thomas Herbert</strong> married <strong>Lauretta Jones</strong> in 1920, farmed in Slaithwaite with his son <strong>Roy</strong>, and ended his life in a terrace on Binn Road below the water.</p><a href="stories/the-road-below-the-reservoir.html">Walk the road below Butterley →</a></article>
-</div>
-</section>'''
-
+    hero = (ROOT / 'site' / 'welcome.html').read_text()
     body = hero + render_map_atlas() + tree(sections)
     body += '''<section id="stories"><div class="section-head"><div><p class="eyebrow">Twenty Chronological Chapters · 1613 to 1998</p><h2>The Family Stories</h2></div><p>Read the family history as a continuous narrative of real people, places and trades—from the first surviving parish entry in 1613 to living memory in Huddersfield and Marsden.</p></div><ol class="bookshelf">''' + re.sub(r' id="[^"]+"', '', shelf) + '</ol></section>'
     body += """<section id="families"><div class="section-head"><div><p class="eyebrow">Fourteen Populated Households</p><h2>Family &amp; Household Directory</h2></div><p>Search by given name, surname, farm or hamlet (such as <em>Standedge</em>, <em>Diggle</em>, <em>Binn</em>, <em>Carlisle Street</em>, <em>Haigh</em> or <em>Platt</em>), or filter by branch to inspect every child, baptism, census line and source citation.</p></div><div class="tools js-only"><label>Search people, places, trades or years<input id="family-search" type="search" placeholder="e.g. Standedge, Binn, Carlisle Street, Ellin, Wright, 1714..."></label><label>Branch or region<select id="branch"><option value="all">All 14 households</option><option value="marsden">Marsden &amp; Huddersfield (Groups 1–3, 5)</option><option value="saddleworth">Standedge &amp; Saddleworth (Groups 6–9, 11)</option><option value="australia">St Kilda, Australia (Groups 12–14)</option><option value="haigh">Haigh branch (Group 4)</option><option value="platt">Platt branch (Group 10)</option></select></label><button id="reset" class="secondary">Reset</button></div><div class="quick-chips js-only" aria-label="Quick search filters"><span>Quick filters:</span><button type="button" class="chip" data-chip="Standedge">Standedge</button><button type="button" class="chip" data-chip="Binn">Binn &amp; Marsden</button><button type="button" class="chip" data-chip="Carlisle Street">Carlisle Street, St Kilda</button><button type="button" class="chip" data-chip="Diggle">Diggle &amp; Fairbanks</button><button type="button" class="chip" data-chip="Woodmans">Woodmans &amp; Rhodes</button><button type="button" class="chip" data-chip="1819">6 June 1819 Baptism</button></div><div class="actions js-only"><button id="expand" class="secondary">Open all shown</button><button id="collapse" class="secondary">Collapse all</button><button data-print class="secondary">Print directory</button></div><p id="result-count" role="status"></p><p id="no-results" class="no-results" hidden>No matching household found. Try another name, farm, or click Reset.</p><p class="small"><strong>Evidence key:</strong> <code>D</code> = Documented in contemporary record &nbsp;·&nbsp; <code>Probable</code> = Strong multi-point correlation &nbsp;·&nbsp; <code>S</code> = Supported identification &nbsp;·&nbsp; <code>F</code> = Family recollection</p>""" + ''.join(family_html) + '</section>'
@@ -354,6 +274,7 @@ def build():
     for asset in ('style.css', 'app.js', 'butterley.jpg'):
         if (ROOT / 'site' / asset).exists():
             shutil.copyfile(ROOT / 'site' / asset, OUT / asset)
+    shutil.copytree(ROOT / 'site' / 'album', OUT / 'album', dirs_exist_ok=True)
     (OUT / '.nojekyll').write_text('')
     for path in sorted(ROOT.glob('*.md')) + sorted((ROOT / 'research').glob('*.md')):
         article(path)

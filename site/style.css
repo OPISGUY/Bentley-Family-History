@@ -1905,3 +1905,62 @@ html.js .place-quick-list {
     color: #000;
   }
 }
+
+/* Family album: paper, burgundy ink and ochre rules. */
+:root {
+  --paper:#fffdfb; --white:#fff; --ink:#2e2028; --muted:#675661;
+  --green:#681637; --moor:#61203d; --gold:#945100; --gold-light:#e2b77e;
+  --soft:#f8ebee; --line:#e2d4d8; --amber:#fff0df;
+}
+.site-header {position:static;background:var(--paper);border:0;border-bottom:1px solid var(--line);box-shadow:none}
+.site-header .brand,.site-header nav a {color:var(--green)}
+.site-header .brand {font-size:21px}
+.site-header nav a {padding:10px 3px}
+.site-header .wrap {padding-block:4px}
+body:has(.album-opening) .site-header .brand {display:none}
+body:has(.album-opening) .site-header .wrap {align-items:center;justify-content:center}
+h1,h2,h3,.bookshelf strong {color:var(--green)}
+.album-opening,.album-history,.album-directory {padding:0;border:0}
+.album-title {text-align:center;padding:clamp(17px,3vw,38px) 0 20px}
+.album-title h1 {font:700 clamp(34px,6vw,78px)/1.06 Georgia,serif;letter-spacing:-.045em;margin:0}
+.album-title p {font:700 clamp(10px,1.2vw,14px)/1.5 Georgia,serif;letter-spacing:.23em;text-transform:uppercase;margin:0}
+.album-title p:before {content:"";display:block;width:70px;height:3px;background:#b66c12;margin:12px auto}
+.album-panorama {display:block;width:100%;height:auto;max-height:340px;object-fit:cover}
+.album-intro {margin:clamp(22px,3vw,40px) 5%;padding-left:clamp(16px,2.5vw,32px);border-left:5px solid #c47d23}
+.album-opening h2,.album-history h2,.album-directory h2 {font:700 clamp(29px,3.9vw,48px)/1.13 Georgia,serif;letter-spacing:-.035em;margin:0 0 10px}
+.album-intro p {max-width:52ch;font:clamp(18px,2.15vw,28px)/1.38 Georgia,serif;margin:0}
+.album-history {background:#faedf0;padding:clamp(20px,3.5vw,44px) 5%}
+.album-history ol {list-style:none;padding:0;margin:14px 0 0}
+.album-history a {display:grid;grid-template-columns:4.1em 1fr;align-items:baseline;position:relative;min-height:44px;text-decoration:none;color:var(--ink);font:clamp(16px,1.65vw,21px)/1.45 Georgia,serif}
+.album-history a b {font-size:1.22em;color:var(--green);padding-top:7px}
+.album-history a span {position:relative;padding:7px 0 9px 24px;border-left:1px solid #c08b49;align-self:stretch}
+.album-history a span:before {content:"";position:absolute;background:#a5610e;border:2px solid #fff;box-sizing:content-box;border-radius:100%;width:8px;height:8px;top:15px;left:-6.5px}
+.album-history a:hover span,.album-history a:focus-visible span {text-decoration:underline}
+.album-directory {padding:30px 2% 40px}
+.album-directory h2 {border-left:4px solid #bd761e;padding-left:16px}
+.album-cards {display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:14px;margin-top:22px}
+.album-cards a {display:flex;flex-direction:column;color:var(--ink);background:#faeff1;border-radius:8px;overflow:hidden;text-decoration:none;box-shadow:0 3px 10px #42172918}
+.album-cards img {width:100%;aspect-ratio:1.85;object-fit:cover}
+.album-cards strong {font:bold clamp(20px,2.2vw,30px)/1.15 Georgia,serif;color:var(--green);margin:14px 14px 5px}
+.album-cards span {font:16px/1.4 Georgia,serif;margin:0 14px}
+.album-cards a:after {content:"→";color:var(--gold);align-self:flex-end;margin:auto 14px 7px;font-size:24px}
+.album-cards a:hover strong {text-decoration:underline}
+.ancestor,footer,.tour-play-btn.playing {background:#521632}
+.life-header {position:static;box-shadow:none;background:transparent;color:var(--ink)}
+.parent-node,.dossier-who,.dossier-proof,.map-tour-bar,.place-pill,.tree-note,.unknown {background:var(--soft)}
+.place-pill.active {background:var(--green)}
+.story-pager a {color:var(--green)}
+button:hover,.button:hover {background:#78314e;border-color:#78314e}
+section,article,aside,.chart-tools select {min-width:0}
+select {max-width:100%}
+@media(max-width:700px) {
+  .album-cards {grid-template-columns:repeat(2,minmax(0,1fr));gap:12px}
+  .album-cards span {font-size:15px}
+  .album-intro {margin-inline:0}
+  .album-panorama {min-height:118px}
+  .site-header nav {gap:10px;justify-content:center}
+  .album-history a {grid-template-columns:3.65em 1fr}
+  .album-history a span {padding-left:15px}
+  .album-directory {padding-inline:0}
+  html {scroll-padding-top:12px}
+}
